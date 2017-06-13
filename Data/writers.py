@@ -8,7 +8,7 @@ from abc import ABCMeta, abstractmethod
 from itertools import groupby
 from collections import namedtuple
 
-from Data import leagueids, leagueproperties
+from data import leagueids, leagueproperties
 
 LEAGUE_PROPERTIES = leagueproperties.LEAGUE_PROPERTIES
 LEAGUE_IDS = leagueids.LEAGUE_IDS
@@ -143,7 +143,7 @@ class Stdout(BaseWriter):
             else:
                 click.secho(team_str, fg=self.colors.POSITION)
 
-    def league_scores(self, total_data, time, show_datetime, use_12_hour_format):
+    def league_scores(self, total_data, show_datetime, use_12_hour_format):
         """Prints the data in a pretty format"""
         seen = set()
         for league, data in self.supported_leagues(total_data):
@@ -354,15 +354,28 @@ class Json(BaseWriter):
         self.generate_output({'players': data})
 
 
-    def league_scores(self, total_data, time):
+    def league_scores(self,total_data,time_start, time_end,show_datetime, use_12_hour_format):
         """Store output of fixtures based on league and time to a JSON file"""
         data = []
         for league, score in self.supported_leagues(total_data):
             item = {'league': league, 'homeTeamName': score['homeTeamName'],
                     'goalsHomeTeam': score['result']['goalsHomeTeam'],
                     'goalsAwayTeam': score['result']['goalsAwayTeam'],
-                    'awayTeamName': score['awayTeamName']}
+                    'awayTeamName': score['awayTeamName'],
+                    'date': score['date']}
             data.append(item)
-        self.generate_output({'league_scores': data, 'time': time})
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
+        self.generate_output({'league_scores': data, 'time_start': time_start, 'time_end':time_end})
+    
+    def league_scores0(self, total_data, time, show_datetime, use_12_hour_format):
+        """Prints the data in a pretty format"""
+        seen = set()
+        for league, data in self.supported_leagues(total_data):
+            if league not in seen:
+                seen.add(league)
+                self.league_header(league)
+            self.scores(self.parse_result(data), add_new_line=not show_datetime)
+            if show_datetime:
+                click.secho('   %s' % Stdout.convert_utc_to_local_time(data["date"],
+                                        use_12_hour_format, show_datetime),
+                                fg=self.colors.TIME)
+            click.echo()

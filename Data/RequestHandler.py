@@ -1,6 +1,6 @@
 import requests
 import click
-from Data.exceptions import APIErrorException
+from data.exceptions import APIErrorException
 
 
 class RequestHandler(object):
@@ -16,8 +16,9 @@ class RequestHandler(object):
 
     def _get(self, url):
         """Handles api.football-data.org requests"""
+        #print url
         req = requests.get(RequestHandler.BASE_URL+url, headers=self.headers)
-
+        #print req
         if req.status_code == requests.codes.ok:
             return req
 
@@ -79,7 +80,7 @@ class RequestHandler(object):
             click.secho("No standings availble for {league}.".format(league=league),
                         fg="red", bold=True)
 
-    def get_league_scores(self, league, time, show_upcoming, use_12_hour_format):
+    def get_league_scores(self, league, time_frame_start, time_frame_end, show_upcoming, use_12_hour_format):
 
         """
         Queries the API and fetches the scores for fixtures
@@ -89,8 +90,9 @@ class RequestHandler(object):
         if league:
             try:
                 league_id = self.league_ids[league]
-                req = self._get('soccerseasons/{id}/fixtures?timeFrame={time_frame}{time}'.format(
-                     id=league_id, time_frame=time_frame, time=str(time)))
+                req = self._get('soccerseasons/{id}/fixtures?timeFrameStart={time_frame_start}&timeFrameEnd={time_frame_end}'.format(
+                     id=league_id, time_frame_start=time_frame_start.strftime("%Y-%m-%d"), time_frame_end=time_frame_end.strftime("%Y-%m-%d")))
+                print req
                 fixtures_results = req.json()
                 # no fixtures in the past week. display a help message and return
                 if len(fixtures_results["fixtures"]) == 0:
@@ -98,7 +100,9 @@ class RequestHandler(object):
                                 fg="red", bold=True)
                     return
                 self.writer.league_scores(fixtures_results,
-                                          time, show_upcoming,
+                                          time_frame_start.strftime("%Y-%m-%d"),
+                                          time_frame_end.strftime("%Y-%m-%d"),
+                                          show_upcoming,
                                           use_12_hour_format)
             except APIErrorException:
                 click.secho("No data for the given league.", fg="red", bold=True)
@@ -109,7 +113,8 @@ class RequestHandler(object):
                      time_frame=time_frame, time=str(time)))
                 fixtures_results = req.json()
                 self.writer.league_scores(fixtures_results,
-                                          time,
+                                          time_frame_start.strftime("%Y-%m-%d"),
+                                          time_frame_end.strftime("%Y-%m-%d"),
                                           show_upcoming,
                                           use_12_hour_format)
             except APIErrorException:

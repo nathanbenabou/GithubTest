@@ -2,12 +2,13 @@ import os
 import sys
 import json
 import datetime as dt
+import time
 import click
 
-from Data import leagueids
-from Data.exceptions import IncorrectParametersException
-from Data.writers import get_writer
-from Data.request_handler import RequestHandler
+import leagueids
+from data.requesthandler import RequestHandler
+from data.exceptions import IncorrectParametersException
+from data.writers import get_writer
 
 
 def load_json(file):
@@ -96,40 +97,40 @@ def list_team_codes():
         click.secho("")
 
 
-@click.command()
-@click.option('--apikey', default=load_config_key,
-              help="API key to use.")
-@click.option('--list', 'listcodes', is_flag=True,
-              help="List all valid team code/team name pairs.")
-@click.option('--live', is_flag=True,
-              help="Shows live scores from various leagues.")
-@click.option('--use12hour', is_flag=True, default=False,
-              help="Displays the time using 12 hour format instead of 24 (default).")
-@click.option('--standings', is_flag=True,
-              help="Standings for a particular league.")
-@click.option('--league', '-league', type=click.Choice(LEAGUE_IDS.keys()),
-              help=("Select fixtures from a particular league."))
-@click.option('--players', is_flag=True,
-              help="Shows players for a particular team.")
-@click.option('--team', type=click.Choice(TEAM_NAMES.keys()),
-              help=("Choose a particular team's fixtures."))
-@click.option('--lookup', is_flag=True,
-              help="Get full team name from team code when used with --team command.")
-@click.option('--time', default=6,
-              help=("The number of days in the past for which you "
-                    "want to see the scores, or the number of days "
-                    "in the future when used with --upcoming"))
-@click.option('--upcoming', is_flag=True, default=False,
-              help="Displays upcoming games when used with --time command.")
-@click.option('--stdout', 'output_format', flag_value='stdout', default=True,
-              help="Print to stdout.")
-@click.option('--csv', 'output_format', flag_value='csv',
-              help='Output in CSV format.')
-@click.option('--json', 'output_format', flag_value='json',
-              help='Output in JSON format.')
-@click.option('-o', '--output-file', default=None,
-              help="Save output to a file (only if csv or json option is provided).")
-def saveData(league, time, standings, team, live, use12hour, players,
+#@click.command()
+#@click.option('--apikey', default=load_config_key,
+#              help="API key to use.")
+#@click.option('--list', 'listcodes', is_flag=True,
+#              help="List all valid team code/team name pairs.")
+#@click.option('--live', is_flag=True,
+#              help="Shows live scores from various leagues.")
+#@click.option('--use12hour', is_flag=True, default=False,
+#              help="Displays the time using 12 hour format instead of 24 (default).")
+#@click.option('--standings', is_flag=True,
+#              help="Standings for a particular league.")
+#@click.option('--league', '-league', type=click.Choice(LEAGUE_IDS.keys()),
+#              help=("Select fixtures from a particular league."))
+#@click.option('--players', is_flag=True,
+#              help="Shows players for a particular team.")
+#@click.option('--team', type=click.Choice(TEAM_NAMES.keys()),
+#              help=("Choose a particular team's fixtures."))
+#@click.option('--lookup', is_flag=True,
+#              help="Get full team name from team code when used with --team command.")
+#@click.option('--time', default=6,
+#              help=("The number of days in the past for which you "
+#                    "want to see the scores, or the number of days "
+#                    "in the future when used with --upcoming"))
+#@click.option('--upcoming', is_flag=True, default=False,
+#              help="Displays upcoming games when used with --time command.")
+#@click.option('--stdout', 'output_format', flag_value='stdout', default=True,
+#              help="Print to stdout.")
+#@click.option('--csv', 'output_format', flag_value='csv',
+#              help='Output in CSV format.')
+#@click.option('--json', 'output_format', flag_value='json',
+#              help='Output in JSON format.')
+#@click.option('-o', '--output-file', default=None,
+#              help="Save output to a file (only if csv or json option is provided).")
+def saveData(league, timeFrameStart, timeFrameEnd, standings, team, live, use12hour, players,
          output_format, output_file, upcoming, lookup, listcodes, apikey):
     """
     A CLI for live and past football scores from various football leagues.
@@ -184,22 +185,32 @@ def saveData(league, time, standings, team, live, use12hour, players,
                 rh.get_team_players(team)
                 return
             else:
-                rh.get_team_scores(team, time, upcoming, use12hour)
+                rh.get_team_scores(team, timeFrameStart, timeFrameEnd, upcoming, use12hour)
                 return
 
-        rh.get_league_scores(league, time, upcoming, use12hour)
+        rh.get_league_scores(league,timeFrameStart, timeFrameEnd, upcoming, use12hour)
     except IncorrectParametersException as e:
         click.secho(str(e), fg="red", bold=True)
 
-def main():
-    try:
-        #save last 3 years games
-        horizon=1100
-        for league in ('PL', 'FL1', 'BL', 'SA', 'PPL', 'PD'):  
-          today_str=dt.datetime.now().strftime('%Y%m%d')
-          output_file="".join((league, "_",today_str,str(horizon),"D.json"))
-          saveData(league, horizon, False, False, False, False, False, 'json', output_file, False, False, False, load_config_key())
+#def main():
     
+#save lastx 3 years games
+horizon=800
+count=0
+for league in ('PL', 'BL', 'SA', 'PPL', 'PD'):
+  for look_back in range(0,horizon):
+    timeFrameEnd=dt.datetime.now()-dt.timedelta(days=look_back)
+    timeFrameStart=timeFrameEnd#-dt.timedelta(days=1)
+    day_str=timeFrameStart.strftime("%Y%m%d")
+    output_file = "".join(
+        ("/Users/nathanbenabou/Documents/GithubTest/historical_daily_data/", league, "/", day_str, ".json"))
+    saveData(league, timeFrameStart, timeFrameEnd, False, False, False, False, False, 'json', output_file, False, False, False, load_config_key())
+    count+=1
+    if count%40==0:
+        time.sleep(60)
+#return
+    
+        
 
-if __name__ == '__main__':
-    main()
+#if __name__ == '__main__':
+#    main()
