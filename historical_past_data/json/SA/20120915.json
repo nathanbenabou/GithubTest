@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "4", 
+            "B365H": "1.5", 
+            "awayTeamName": "Atalanta", 
+            "date": "2012-09-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Milan", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.2", 
+            "B365H": "2.2", 
+            "awayTeamName": "Cagliari", 
+            "date": "2012-09-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Palermo", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2012-09-15", 
+    "time_start": "2012-09-15"
+}

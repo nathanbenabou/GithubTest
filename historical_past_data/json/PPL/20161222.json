@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.41", 
+            "B365D": "4.66", 
+            "B365H": "9.72", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2016-12-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.24", 
+            "B365D": "3.16", 
+            "B365H": "2.12", 
+            "awayTeamName": "Estoril", 
+            "date": "2016-12-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Chaves", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.47", 
+            "B365D": "3.19", 
+            "B365H": "3.26", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2016-12-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Feirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.37", 
+            "B365H": "2.09", 
+            "awayTeamName": "Boavista", 
+            "date": "2016-12-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "6.74", 
+            "B365D": "4.25", 
+            "B365H": "1.56", 
+            "awayTeamName": "Moreirense", 
+            "date": "2016-12-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-12-22", 
+    "time_start": "2016-12-22"
+}

@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "1.22", 
+            "B365H": "0", 
+            "awayTeamName": "Wolves", 
+            "date": "2011-02-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "2.5", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2011-02-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Birmingham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2011-02-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Blackburn", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.25", 
+            "B365H": "1", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2011-02-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Blackpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "1.36", 
+            "B365H": "0", 
+            "awayTeamName": "Wigan", 
+            "date": "2011-02-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "1.73", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2011-02-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.75", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2011-02-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "1.91", 
+            "B365H": "0", 
+            "awayTeamName": "West Ham", 
+            "date": "2011-02-12", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-02-12", 
+    "time_start": "2011-02-12"
+}

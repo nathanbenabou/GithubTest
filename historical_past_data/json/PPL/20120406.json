@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Academica", 
+            "date": "2012-04-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "2.88", 
+            "B365H": "2.38", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2012-04-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Leiria", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.38", 
+            "B365D": "2.88", 
+            "B365H": "2.8", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2012-04-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-04-06", 
+    "time_start": "2012-04-06"
+}

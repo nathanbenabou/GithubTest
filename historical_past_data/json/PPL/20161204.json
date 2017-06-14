@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.08", 
+            "B365D": "3.28", 
+            "B365H": "2.53", 
+            "awayTeamName": "Belenenses", 
+            "date": "2016-12-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.22", 
+            "B365H": "2.63", 
+            "awayTeamName": "Arouca", 
+            "date": "2016-12-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Feirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.88", 
+            "B365D": "3.41", 
+            "B365H": "1.9", 
+            "awayTeamName": "Chaves", 
+            "date": "2016-12-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.26", 
+            "B365D": "3.39", 
+            "B365H": "2.36", 
+            "awayTeamName": "Nacional", 
+            "date": "2016-12-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-12-04", 
+    "time_start": "2016-12-04"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.5", 
+            "B365D": "4.2", 
+            "B365H": "7", 
+            "awayTeamName": "Monaco", 
+            "date": "2017-02-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2017-02-17", 
+    "time_start": "2017-02-17"
+}

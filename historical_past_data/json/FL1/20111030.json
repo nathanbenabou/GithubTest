@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "3.2", 
+            "B365H": "2.2", 
+            "awayTeamName": "Sochaux", 
+            "date": "2011-10-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Rennes", 
+            "date": "2011-10-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.2", 
+            "B365H": "3.2", 
+            "awayTeamName": "Lille", 
+            "date": "2011-10-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2011-10-30", 
+    "time_start": "2011-10-30"
+}

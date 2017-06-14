@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "1.83", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2012-01-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.5", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2012-01-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Blackburn", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "4", 
+            "B365H": "1", 
+            "awayTeamName": "Arsenal", 
+            "date": "2012-01-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Norwich", 
+            "date": "2012-01-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "QPR", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "6", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2012-01-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wolves", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2012-01-02", 
+    "time_start": "2012-01-02"
+}

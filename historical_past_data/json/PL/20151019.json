@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.05", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2015-10-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-10-19", 
+    "time_start": "2015-10-19"
+}

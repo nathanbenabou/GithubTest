@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.38", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2013-12-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-12-23", 
+    "time_start": "2013-12-23"
+}

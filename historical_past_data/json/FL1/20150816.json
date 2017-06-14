@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.75", 
+            "B365D": "3.4", 
+            "B365H": "1.85", 
+            "awayTeamName": "Bastia", 
+            "date": "2015-08-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "21", 
+            "B365D": "10", 
+            "B365H": "1.11", 
+            "awayTeamName": "Ajaccio GFCO", 
+            "date": "2015-08-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.25", 
+            "B365H": "3.5", 
+            "awayTeamName": "Marseille", 
+            "date": "2015-08-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-08-16", 
+    "time_start": "2015-08-16"
+}

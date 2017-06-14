@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2015-11-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.25", 
+            "B365H": "2.05", 
+            "awayTeamName": "Darmstadt", 
+            "date": "2015-11-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ingolstadt", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-11-22", 
+    "time_start": "2015-11-22"
+}

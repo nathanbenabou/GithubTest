@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "4.5", 
+            "B365H": "1.44", 
+            "awayTeamName": "Granada", 
+            "date": "2014-05-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-05-05", 
+    "time_start": "2014-05-05"
+}

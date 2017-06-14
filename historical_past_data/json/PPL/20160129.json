@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "3.68", 
+            "B365H": "1.67", 
+            "awayTeamName": "Uniao Madeira", 
+            "date": "2016-01-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-01-29", 
+    "time_start": "2016-01-29"
+}

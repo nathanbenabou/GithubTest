@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "3", 
+            "B365H": "2.3", 
+            "awayTeamName": "Lyon", 
+            "date": "2013-02-17", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.1", 
+            "B365H": "4", 
+            "awayTeamName": "St Etienne", 
+            "date": "2013-02-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.44", 
+            "B365D": "4.2", 
+            "B365H": "7.5", 
+            "awayTeamName": "Paris SG", 
+            "date": "2013-02-17", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-02-17", 
+    "time_start": "2013-02-17"
+}

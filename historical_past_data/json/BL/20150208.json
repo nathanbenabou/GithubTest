@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "3.8", 
+            "B365H": "1.91", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2015-02-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.85", 
+            "B365D": "3.75", 
+            "B365H": "4.2", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2015-02-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-02-08", 
+    "time_start": "2015-02-08"
+}

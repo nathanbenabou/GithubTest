@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "12", 
+            "B365D": "5", 
+            "B365H": "1.29", 
+            "awayTeamName": "Genoa", 
+            "date": "2014-02-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Napoli", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.2", 
+            "B365H": "2.4", 
+            "awayTeamName": "Fiorentina", 
+            "date": "2014-02-24", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Parma", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2014-02-24", 
+    "time_start": "2014-02-24"
+}

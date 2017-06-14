@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "4.33", 
+            "B365H": "1.57", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2014-11-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "4.2", 
+            "B365H": "1.57", 
+            "awayTeamName": "Hamburg", 
+            "date": "2014-11-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-11-09", 
+    "time_start": "2014-11-09"
+}

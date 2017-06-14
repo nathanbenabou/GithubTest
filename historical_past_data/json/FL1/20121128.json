@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "3.2", 
+            "B365H": "2.2", 
+            "awayTeamName": "Lyon", 
+            "date": "2012-11-28", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-11-28", 
+    "time_start": "2012-11-28"
+}

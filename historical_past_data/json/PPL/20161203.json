@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8.87", 
+            "B365D": "4.86", 
+            "B365H": "1.41", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2016-12-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.82", 
+            "B365D": "3.58", 
+            "B365H": "1.85", 
+            "awayTeamName": "Tondela", 
+            "date": "2016-12-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "18", 
+            "B365D": "6.6", 
+            "B365H": "1.22", 
+            "awayTeamName": "Setubal", 
+            "date": "2016-12-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-12-03", 
+    "time_start": "2016-12-03"
+}

@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.2", 
+            "B365D": "3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2012-03-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.2", 
+            "B365H": "1.73", 
+            "awayTeamName": "Olhanense", 
+            "date": "2012-03-18", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3", 
+            "B365H": "3.4", 
+            "awayTeamName": "Maritimo", 
+            "date": "2012-03-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-03-18", 
+    "time_start": "2012-03-18"
+}

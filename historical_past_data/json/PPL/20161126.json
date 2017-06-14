@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.33", 
+            "B365D": "5.31", 
+            "B365H": "11.56", 
+            "awayTeamName": "Porto", 
+            "date": "2016-11-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.39", 
+            "B365D": "4.72", 
+            "B365H": "10.5", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2016-11-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.72", 
+            "B365D": "3.2", 
+            "B365H": "2.25", 
+            "awayTeamName": "Maritimo", 
+            "date": "2016-11-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Chaves", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.28", 
+            "B365D": "3.38", 
+            "B365H": "2.36", 
+            "awayTeamName": "Estoril", 
+            "date": "2016-11-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-11-26", 
+    "time_start": "2016-11-26"
+}

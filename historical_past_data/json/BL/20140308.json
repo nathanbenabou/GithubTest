@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.75", 
+            "B365D": "3.3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.4", 
+            "B365H": "3", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.25", 
+            "B365H": "2.3", 
+            "awayTeamName": "Augsburg", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.5", 
+            "B365H": "1.91", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "4", 
+            "B365H": "1.75", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.8", 
+            "B365H": "1.67", 
+            "awayTeamName": "Braunschweig", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.29", 
+            "B365D": "5.75", 
+            "B365H": "9", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "6", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-03-08", 
+    "time_start": "2014-03-08"
+}

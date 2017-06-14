@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "11", 
+            "B365D": "6", 
+            "B365H": "1.16", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2013-01-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-01-19", 
+    "time_start": "2013-01-19"
+}

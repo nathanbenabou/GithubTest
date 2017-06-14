@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "3.1", 
+            "B365H": "2.3", 
+            "awayTeamName": "Montpellier", 
+            "date": "2014-11-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Caen", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3.1", 
+            "B365H": "2.6", 
+            "awayTeamName": "Metz", 
+            "date": "2014-11-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lens", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "6.5", 
+            "B365H": "1.22", 
+            "awayTeamName": "Nice", 
+            "date": "2014-11-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.25", 
+            "B365H": "2.15", 
+            "awayTeamName": "Bastia", 
+            "date": "2014-11-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3.1", 
+            "B365H": "2.9", 
+            "awayTeamName": "Monaco", 
+            "date": "2014-11-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.5", 
+            "B365H": "1.83", 
+            "awayTeamName": "Lorient", 
+            "date": "2014-11-29", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-11-29", 
+    "time_start": "2014-11-29"
+}

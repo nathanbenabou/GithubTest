@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.75", 
+            "B365D": "3", 
+            "B365H": "2.7", 
+            "awayTeamName": "Lyon", 
+            "date": "2014-03-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.4", 
+            "B365H": "1.85", 
+            "awayTeamName": "Lille", 
+            "date": "2014-03-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4", 
+            "B365H": "1.5", 
+            "awayTeamName": "Sochaux", 
+            "date": "2014-03-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-03-23", 
+    "time_start": "2014-03-23"
+}

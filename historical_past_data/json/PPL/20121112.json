@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.5", 
+            "B365D": "3.25", 
+            "B365H": "1.67", 
+            "awayTeamName": "Setubal", 
+            "date": "2012-11-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-11-12", 
+    "time_start": "2012-11-12"
+}

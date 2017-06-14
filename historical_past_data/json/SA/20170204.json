@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.44", 
+            "B365D": "4.5", 
+            "B365H": "7.5", 
+            "awayTeamName": "Napoli", 
+            "date": "2017-02-04", 
+            "goalsAwayTeam": "7", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bologna", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2017-02-04", 
+    "time_start": "2017-02-04"
+}

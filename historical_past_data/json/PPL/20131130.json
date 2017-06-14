@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.4", 
+            "B365D": "4.73", 
+            "B365H": "9.54", 
+            "awayTeamName": "Porto", 
+            "date": "2013-11-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-11-30", 
+    "time_start": "2013-11-30"
+}

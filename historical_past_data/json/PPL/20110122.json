@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.33", 
+            "B365D": "4.33", 
+            "B365H": "7", 
+            "awayTeamName": "Porto", 
+            "date": "2011-01-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.5", 
+            "B365H": "1.29", 
+            "awayTeamName": "Nacional", 
+            "date": "2011-01-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.1", 
+            "awayTeamName": "Portimonense", 
+            "date": "2011-01-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Naval", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Academica", 
+            "date": "2011-01-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3.1", 
+            "B365H": "2.2", 
+            "awayTeamName": "Leiria", 
+            "date": "2011-01-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.1", 
+            "B365H": "2.75", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2011-01-22", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "3.5", 
+            "B365H": "1.44", 
+            "awayTeamName": "Setubal", 
+            "date": "2011-01-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-01-22", 
+    "time_start": "2011-01-22"
+}

@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3.1", 
+            "B365H": "2.05", 
+            "awayTeamName": "Caen", 
+            "date": "2010-09-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Auxerre", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3", 
+            "B365H": "3.2", 
+            "awayTeamName": "Lille", 
+            "date": "2010-09-11", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lens", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "3.75", 
+            "B365H": "1.53", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2010-09-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.2", 
+            "B365H": "1.85", 
+            "awayTeamName": "Nancy", 
+            "date": "2010-09-11", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "8.5", 
+            "B365D": "4.33", 
+            "B365H": "1.4", 
+            "awayTeamName": "Arles", 
+            "date": "2010-09-11", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.5", 
+            "B365H": "1.67", 
+            "awayTeamName": "Sochaux", 
+            "date": "2010-09-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.25", 
+            "B365H": "1.8", 
+            "awayTeamName": "St Etienne", 
+            "date": "2010-09-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2010-09-11", 
+    "time_start": "2010-09-11"
+}

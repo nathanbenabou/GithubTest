@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "9.5", 
+            "B365D": "4.33", 
+            "B365H": "1.36", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2012-05-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-05-01", 
+    "time_start": "2012-05-01"
+}

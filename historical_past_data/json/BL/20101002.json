@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.2", 
+            "B365D": "3.3", 
+            "B365H": "2.25", 
+            "awayTeamName": "FC Koln", 
+            "date": "2010-10-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6.75", 
+            "B365D": "4", 
+            "B365H": "1.5", 
+            "awayTeamName": "Kaiserslautern", 
+            "date": "2010-10-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2010-10-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.4", 
+            "B365H": "3.5", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2010-10-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.4", 
+            "B365H": "3", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2010-10-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2010-10-02", 
+    "time_start": "2010-10-02"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "1.73", 
+            "B365H": "1", 
+            "awayTeamName": "Man United", 
+            "date": "2014-01-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.25", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2014-01-19", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-01-19", 
+    "time_start": "2014-01-19"
+}

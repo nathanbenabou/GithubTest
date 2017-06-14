@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.2", 
+            "B365D": "3.8", 
+            "B365H": "1.74", 
+            "awayTeamName": "Maritimo", 
+            "date": "2014-03-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.44", 
+            "B365D": "2.96", 
+            "B365H": "3.55", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2014-03-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.31", 
+            "B365D": "3.38", 
+            "B365H": "1.99", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2014-03-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-03-15", 
+    "time_start": "2014-03-15"
+}

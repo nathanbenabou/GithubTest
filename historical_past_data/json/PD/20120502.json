@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.53", 
+            "B365D": "4", 
+            "B365H": "6", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2012-05-02", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Sociedad", 
+            "date": "2012-05-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "15", 
+            "B365D": "6", 
+            "B365H": "1.2", 
+            "awayTeamName": "Malaga", 
+            "date": "2012-05-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.5", 
+            "B365H": "1.85", 
+            "awayTeamName": "Vallecano", 
+            "date": "2012-05-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mallorca", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.6", 
+            "B365H": "1.73", 
+            "awayTeamName": "Betis", 
+            "date": "2012-05-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4", 
+            "B365H": "1.44", 
+            "awayTeamName": "Osasuna", 
+            "date": "2012-05-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.4", 
+            "B365H": "2.25", 
+            "awayTeamName": "Levante", 
+            "date": "2012-05-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Zaragoza", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-05-02", 
+    "time_start": "2012-05-02"
+}

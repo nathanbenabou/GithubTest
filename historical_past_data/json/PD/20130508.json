@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.2", 
+            "B365D": "3.2", 
+            "B365H": "3.4", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2013-05-08", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Celta", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "12", 
+            "B365D": "6.5", 
+            "B365H": "1.2", 
+            "awayTeamName": "Malaga", 
+            "date": "2013-05-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2013-05-08", 
+    "time_start": "2013-05-08"
+}

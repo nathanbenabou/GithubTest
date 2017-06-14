@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "3.6", 
+            "B365H": "1.67", 
+            "awayTeamName": "Granada", 
+            "date": "2013-09-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Betis", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.3", 
+            "B365H": "2.75", 
+            "awayTeamName": "Villarreal", 
+            "date": "2013-09-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Celta", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "19", 
+            "B365D": "8.5", 
+            "B365H": "1.13", 
+            "awayTeamName": "Getafe", 
+            "date": "2013-09-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Sevilla", 
+            "date": "2013-09-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2013-09-22", 
+    "time_start": "2013-09-22"
+}

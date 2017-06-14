@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "12", 
+            "B365D": "5.5", 
+            "B365H": "1.17", 
+            "awayTeamName": "Nacional", 
+            "date": "2011-01-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-01-26", 
+    "time_start": "2011-01-26"
+}

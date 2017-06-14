@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.88", 
+            "B365D": "3.2", 
+            "B365H": "2.5", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2012-11-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-11-07", 
+    "time_start": "2012-11-07"
+}

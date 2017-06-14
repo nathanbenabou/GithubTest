@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.25", 
+            "B365D": "3.25", 
+            "B365H": "3.4", 
+            "awayTeamName": "Inter", 
+            "date": "2015-02-15", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Atalanta", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.22", 
+            "B365D": "6", 
+            "B365H": "15", 
+            "awayTeamName": "Juventus", 
+            "date": "2015-02-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Cesena", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3.1", 
+            "B365H": "2.63", 
+            "awayTeamName": "Sampdoria", 
+            "date": "2015-02-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Chievo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.6", 
+            "B365H": "1.85", 
+            "awayTeamName": "Verona", 
+            "date": "2015-02-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Genoa", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.6", 
+            "B365H": "1.75", 
+            "awayTeamName": "Empoli", 
+            "date": "2015-02-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Milan", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "5.5", 
+            "B365H": "1.29", 
+            "awayTeamName": "Parma", 
+            "date": "2015-02-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Roma", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.6", 
+            "B365H": "1.73", 
+            "awayTeamName": "Cagliari", 
+            "date": "2015-02-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Torino", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.38", 
+            "B365D": "3.25", 
+            "B365H": "3.1", 
+            "awayTeamName": "Lazio", 
+            "date": "2015-02-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2015-02-15", 
+    "time_start": "2015-02-15"
+}

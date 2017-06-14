@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "19", 
+            "B365D": "7", 
+            "B365H": "1.17", 
+            "awayTeamName": "Atalanta", 
+            "date": "2015-02-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2015-02-20", 
+    "time_start": "2015-02-20"
+}

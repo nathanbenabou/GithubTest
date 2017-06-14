@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "3.3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2013-10-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.44", 
+            "B365D": "4", 
+            "B365H": "8", 
+            "awayTeamName": "Monaco", 
+            "date": "2013-10-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.75", 
+            "B365D": "3.75", 
+            "B365H": "1.6", 
+            "awayTeamName": "Lorient", 
+            "date": "2013-10-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-10-20", 
+    "time_start": "2013-10-20"
+}

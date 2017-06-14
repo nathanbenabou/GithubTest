@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.1", 
+            "B365D": "3.28", 
+            "B365H": "4", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2014-11-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.94", 
+            "B365D": "3.11", 
+            "B365H": "2.71", 
+            "awayTeamName": "Arouca", 
+            "date": "2014-11-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.29", 
+            "B365D": "3.26", 
+            "B365H": "2.04", 
+            "awayTeamName": "Moreirense", 
+            "date": "2014-11-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.55", 
+            "B365D": "3.52", 
+            "B365H": "1.9", 
+            "awayTeamName": "Setubal", 
+            "date": "2014-11-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-11-02", 
+    "time_start": "2014-11-02"
+}

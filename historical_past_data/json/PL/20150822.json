@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "1.85", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2015-08-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Crystal Palace", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "2.63", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2015-08-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Leicester", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "1.36", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2015-08-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.3", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2015-08-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Norwich", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "4", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2015-08-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.38", 
+            "B365H": "0", 
+            "awayTeamName": "Bournemouth", 
+            "date": "2015-08-22", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-08-22", 
+    "time_start": "2015-08-22"
+}

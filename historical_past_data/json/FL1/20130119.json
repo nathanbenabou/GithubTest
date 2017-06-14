@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.1", 
+            "B365H": "2.6", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2013-01-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.2", 
+            "B365H": "3.4", 
+            "awayTeamName": "St Etienne", 
+            "date": "2013-01-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Brest", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.75", 
+            "B365H": "1.57", 
+            "awayTeamName": "Troyes", 
+            "date": "2013-01-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.4", 
+            "B365H": "1.85", 
+            "awayTeamName": "Montpellier", 
+            "date": "2013-01-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.25", 
+            "B365H": "2.1", 
+            "awayTeamName": "Reims", 
+            "date": "2013-01-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.8", 
+            "B365H": "1.57", 
+            "awayTeamName": "Nancy", 
+            "date": "2013-01-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-01-19", 
+    "time_start": "2013-01-19"
+}

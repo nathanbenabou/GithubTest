@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.96", 
+            "B365D": "3.39", 
+            "B365H": "2.07", 
+            "awayTeamName": "Olhanense", 
+            "date": "2013-10-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "11.37", 
+            "B365D": "5.39", 
+            "B365H": "1.32", 
+            "awayTeamName": "Setubal", 
+            "date": "2013-10-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-10-05", 
+    "time_start": "2013-10-05"
+}

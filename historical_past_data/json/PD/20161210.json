@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.75", 
+            "B365D": "3.5", 
+            "B365H": "1.8", 
+            "awayTeamName": "Leganes", 
+            "date": "2016-12-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Las Palmas", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.18", 
+            "B365D": "7.5", 
+            "B365H": "15", 
+            "awayTeamName": "Barcelona", 
+            "date": "2016-12-10", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "15", 
+            "B365D": "8", 
+            "B365H": "1.17", 
+            "awayTeamName": "La Coruna", 
+            "date": "2016-12-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.75", 
+            "B365H": "1.91", 
+            "awayTeamName": "Valencia", 
+            "date": "2016-12-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-12-10", 
+    "time_start": "2016-12-10"
+}

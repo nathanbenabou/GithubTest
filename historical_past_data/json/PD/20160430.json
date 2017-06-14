@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "10", 
+            "B365D": "5", 
+            "B365H": "1.33", 
+            "awayTeamName": "Vallecano", 
+            "date": "2016-04-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.13", 
+            "B365D": "9", 
+            "B365H": "21", 
+            "awayTeamName": "Barcelona", 
+            "date": "2016-04-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Betis", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.8", 
+            "B365H": "1.6", 
+            "awayTeamName": "Las Palmas", 
+            "date": "2016-04-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.67", 
+            "B365D": "4", 
+            "B365H": "5", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2016-04-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-04-30", 
+    "time_start": "2016-04-30"
+}

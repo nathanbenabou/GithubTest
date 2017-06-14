@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.34", 
+            "B365D": "3.2", 
+            "B365H": "2.42", 
+            "awayTeamName": "Setubal", 
+            "date": "2017-04-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.98", 
+            "B365D": "3.46", 
+            "B365H": "1.87", 
+            "awayTeamName": "Belenenses", 
+            "date": "2017-04-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3.29", 
+            "B365H": "2.8", 
+            "awayTeamName": "Benfica", 
+            "date": "2017-04-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.28", 
+            "B365H": "2.59", 
+            "awayTeamName": "Nacional", 
+            "date": "2017-04-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-04-22", 
+    "time_start": "2017-04-22"
+}

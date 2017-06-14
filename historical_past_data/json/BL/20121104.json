@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "4.33", 
+            "B365H": "1.44", 
+            "awayTeamName": "Fortuna Dusseldorf", 
+            "date": "2012-11-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "Mainz", 
+            "date": "2012-11-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-11-04", 
+    "time_start": "2012-11-04"
+}

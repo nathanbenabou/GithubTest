@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.4", 
+            "B365D": "4.75", 
+            "B365H": "8", 
+            "awayTeamName": "Paris SG", 
+            "date": "2015-01-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.1", 
+            "B365H": "2.7", 
+            "awayTeamName": "Rennes", 
+            "date": "2015-01-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.3", 
+            "B365H": "2", 
+            "awayTeamName": "Lens", 
+            "date": "2015-01-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.5", 
+            "B365H": "1.8", 
+            "awayTeamName": "Caen", 
+            "date": "2015-01-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.2", 
+            "B365H": "2.3", 
+            "awayTeamName": "Lorient", 
+            "date": "2015-01-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.25", 
+            "B365H": "3.75", 
+            "awayTeamName": "St Etienne", 
+            "date": "2015-01-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-01-10", 
+    "time_start": "2015-01-10"
+}

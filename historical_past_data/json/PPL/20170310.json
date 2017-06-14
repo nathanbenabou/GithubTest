@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.27", 
+            "B365D": "6.2", 
+            "B365H": "13.1", 
+            "awayTeamName": "Porto", 
+            "date": "2017-03-10", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-03-10", 
+    "time_start": "2017-03-10"
+}

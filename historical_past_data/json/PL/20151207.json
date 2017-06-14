@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Crystal Palace", 
+            "date": "2015-12-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-12-07", 
+    "time_start": "2015-12-07"
+}

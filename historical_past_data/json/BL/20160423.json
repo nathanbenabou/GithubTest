@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.33", 
+            "B365D": "3.3", 
+            "B365H": "1.95", 
+            "awayTeamName": "Darmstadt", 
+            "date": "2016-04-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.4", 
+            "B365D": "4.5", 
+            "B365H": "9", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2016-04-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Hannover", 
+            "date": "2016-04-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ingolstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.3", 
+            "B365H": "3", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2016-04-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.65", 
+            "B365D": "4.2", 
+            "B365H": "4.75", 
+            "awayTeamName": "Dortmund", 
+            "date": "2016-04-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.75", 
+            "B365H": "1.8", 
+            "awayTeamName": "Augsburg", 
+            "date": "2016-04-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-04-23", 
+    "time_start": "2016-04-23"
+}

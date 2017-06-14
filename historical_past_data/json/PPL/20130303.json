@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.25", 
+            "B365D": "5", 
+            "B365H": "10", 
+            "awayTeamName": "Benfica", 
+            "date": "2013-03-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.37", 
+            "B365D": "3.2", 
+            "B365H": "2.7", 
+            "awayTeamName": "Nacional", 
+            "date": "2013-03-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "1.83", 
+            "awayTeamName": "Moreirense", 
+            "date": "2013-03-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.2", 
+            "B365H": "2.1", 
+            "awayTeamName": "Estoril", 
+            "date": "2013-03-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-03-03", 
+    "time_start": "2013-03-03"
+}

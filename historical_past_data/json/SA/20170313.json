@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.75", 
+            "B365D": "4.2", 
+            "B365H": "1.57", 
+            "awayTeamName": "Torino", 
+            "date": "2017-03-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lazio", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2017-03-13", 
+    "time_start": "2017-03-13"
+}

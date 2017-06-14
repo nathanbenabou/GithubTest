@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "20.95", 
+            "B365D": "7.75", 
+            "B365H": "1.18", 
+            "awayTeamName": "Moreirense", 
+            "date": "2015-12-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.55", 
+            "B365D": "4.09", 
+            "B365H": "7.41", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2015-12-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-12-13", 
+    "time_start": "2015-12-13"
+}

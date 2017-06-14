@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "21.91", 
+            "B365D": "7.71", 
+            "B365H": "1.18", 
+            "awayTeamName": "Belenenses", 
+            "date": "2015-10-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "6.87", 
+            "B365D": "4.09", 
+            "B365H": "1.57", 
+            "awayTeamName": "Arouca", 
+            "date": "2015-10-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "12.55", 
+            "B365D": "5.9", 
+            "B365H": "1.29", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2015-10-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-10-04", 
+    "time_start": "2015-10-04"
+}

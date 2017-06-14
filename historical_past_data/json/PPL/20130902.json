@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.39", 
+            "B365D": "3.99", 
+            "B365H": "1.61", 
+            "awayTeamName": "Academica", 
+            "date": "2013-09-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-09-02", 
+    "time_start": "2013-09-02"
+}

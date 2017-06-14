@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.4", 
+            "B365D": "1.57", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2013-02-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-02-17", 
+    "time_start": "2013-02-17"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.34", 
+            "B365D": "5.4", 
+            "B365H": "10.93", 
+            "awayTeamName": "Benfica", 
+            "date": "2016-04-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "16", 
+            "B365D": "7.65", 
+            "B365H": "1.2", 
+            "awayTeamName": "Maritimo", 
+            "date": "2016-04-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-04-09", 
+    "time_start": "2016-04-09"
+}

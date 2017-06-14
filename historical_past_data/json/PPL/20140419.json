@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.63", 
+            "B365D": "3.88", 
+            "B365H": "6.29", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2014-04-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "22", 
+            "B365D": "8.8", 
+            "B365H": "1.15", 
+            "awayTeamName": "Olhanense", 
+            "date": "2014-04-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.87", 
+            "B365D": "3.47", 
+            "B365H": "4.82", 
+            "awayTeamName": "Estoril", 
+            "date": "2014-04-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.16", 
+            "B365D": "3.24", 
+            "B365H": "2.08", 
+            "awayTeamName": "Academica", 
+            "date": "2014-04-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.28", 
+            "B365D": "3.27", 
+            "B365H": "2.38", 
+            "awayTeamName": "Nacional", 
+            "date": "2014-04-19", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-04-19", 
+    "time_start": "2014-04-19"
+}

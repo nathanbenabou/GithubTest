@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.11", 
+            "B365D": "3.17", 
+            "B365H": "2.14", 
+            "awayTeamName": "Moreirense", 
+            "date": "2015-09-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "5.31", 
+            "B365D": "3.61", 
+            "B365H": "1.79", 
+            "awayTeamName": "Maritimo", 
+            "date": "2015-09-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "12.56", 
+            "B365D": "5.82", 
+            "B365H": "1.29", 
+            "awayTeamName": "Nacional", 
+            "date": "2015-09-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-09-21", 
+    "time_start": "2015-09-21"
+}

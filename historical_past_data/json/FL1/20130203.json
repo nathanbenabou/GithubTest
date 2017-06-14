@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2", 
+            "B365D": "3.3", 
+            "B365H": "3.75", 
+            "awayTeamName": "Lyon", 
+            "date": "2013-02-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "Nancy", 
+            "date": "2013-02-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.1", 
+            "B365H": "1.44", 
+            "awayTeamName": "Reims", 
+            "date": "2013-02-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-02-03", 
+    "time_start": "2013-02-03"
+}

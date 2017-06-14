@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "3.18", 
+            "B365H": "2.35", 
+            "awayTeamName": "Arouca", 
+            "date": "2016-09-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-09-26", 
+    "time_start": "2016-09-26"
+}

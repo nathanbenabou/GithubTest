@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.55", 
+            "B365D": "3.2", 
+            "B365H": "2.8", 
+            "awayTeamName": "FC Koln", 
+            "date": "2017-04-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4.33", 
+            "B365H": "1.44", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2017-04-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2017-04-15", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.62", 
+            "B365D": "4.2", 
+            "B365H": "4.75", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2017-04-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.2", 
+            "B365H": "2.25", 
+            "awayTeamName": "Hertha", 
+            "date": "2017-04-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4.33", 
+            "B365H": "1.44", 
+            "awayTeamName": "Freiburg", 
+            "date": "2017-04-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "RB Leipzig", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.3", 
+            "B365H": "2", 
+            "awayTeamName": "Ingolstadt", 
+            "date": "2017-04-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2017-04-15", 
+    "time_start": "2017-04-15"
+}

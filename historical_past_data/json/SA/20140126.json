@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2", 
+            "B365D": "3.3", 
+            "B365H": "3.8", 
+            "awayTeamName": "Milan", 
+            "date": "2014-01-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Cagliari", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "4.75", 
+            "B365H": "1.33", 
+            "awayTeamName": "Genoa", 
+            "date": "2014-01-26", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Fiorentina", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "9.5", 
+            "B365D": "4.75", 
+            "B365H": "1.33", 
+            "awayTeamName": "Catania", 
+            "date": "2014-01-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Inter", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.4", 
+            "awayTeamName": "Sassuolo", 
+            "date": "2014-01-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Livorno", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.3", 
+            "B365H": "2", 
+            "awayTeamName": "Udinese", 
+            "date": "2014-01-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Parma", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.4", 
+            "B365H": "1.75", 
+            "awayTeamName": "Bologna", 
+            "date": "2014-01-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sampdoria", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.4", 
+            "B365H": "1.75", 
+            "awayTeamName": "Atalanta", 
+            "date": "2014-01-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Torino", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.75", 
+            "B365D": "3.6", 
+            "B365H": "4.75", 
+            "awayTeamName": "Roma", 
+            "date": "2014-01-26", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Verona", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2014-01-26", 
+    "time_start": "2014-01-26"
+}

@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.85", 
+            "B365D": "3.04", 
+            "B365H": "2.9", 
+            "awayTeamName": "Boavista", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.23", 
+            "B365D": "3.43", 
+            "B365H": "2.01", 
+            "awayTeamName": "Benfica", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.97", 
+            "B365D": "3.08", 
+            "B365H": "2.75", 
+            "awayTeamName": "Arouca", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Uniao Madeira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-09-20", 
+    "time_start": "2015-09-20"
+}

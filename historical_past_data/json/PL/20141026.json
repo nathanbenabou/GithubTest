@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "4.75", 
+            "B365H": "0", 
+            "awayTeamName": "Everton", 
+            "date": "2014-10-26", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Burnley", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "2.88", 
+            "B365H": "1", 
+            "awayTeamName": "Chelsea", 
+            "date": "2014-10-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.9", 
+            "B365D": "1.75", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2014-10-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-10-26", 
+    "time_start": "2014-10-26"
+}

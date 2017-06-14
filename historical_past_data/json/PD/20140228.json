@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.5", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Granada", 
+            "date": "2014-02-28", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-02-28", 
+    "time_start": "2014-02-28"
+}

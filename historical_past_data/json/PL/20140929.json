@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.15", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2014-09-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-09-29", 
+    "time_start": "2014-09-29"
+}

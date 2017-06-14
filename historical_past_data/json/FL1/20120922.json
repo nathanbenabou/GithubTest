@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.67", 
+            "B365D": "3.6", 
+            "B365H": "5.25", 
+            "awayTeamName": "Paris SG", 
+            "date": "2012-09-22", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3", 
+            "B365H": "2.7", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2012-09-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Brest", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.3", 
+            "B365H": "1.91", 
+            "awayTeamName": "Nice", 
+            "date": "2012-09-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3", 
+            "B365H": "2.3", 
+            "awayTeamName": "Nancy", 
+            "date": "2012-09-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.2", 
+            "B365H": "2.2", 
+            "awayTeamName": "Troyes", 
+            "date": "2012-09-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.25", 
+            "B365H": "2.1", 
+            "awayTeamName": "Rennes", 
+            "date": "2012-09-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-09-22", 
+    "time_start": "2012-09-22"
+}

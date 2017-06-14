@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.3", 
+            "B365D": "3.25", 
+            "B365H": "3.1", 
+            "awayTeamName": "Montpellier", 
+            "date": "2013-09-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.62", 
+            "B365D": "3.75", 
+            "B365H": "5.5", 
+            "awayTeamName": "Monaco", 
+            "date": "2013-09-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.2", 
+            "B365H": "2.15", 
+            "awayTeamName": "Nantes", 
+            "date": "2013-09-29", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-09-29", 
+    "time_start": "2013-09-29"
+}

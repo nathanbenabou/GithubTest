@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.25", 
+            "B365D": "5", 
+            "B365H": "9", 
+            "awayTeamName": "Porto", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-05-04", 
+    "time_start": "2013-05-04"
+}

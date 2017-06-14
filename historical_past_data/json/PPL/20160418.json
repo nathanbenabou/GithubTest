@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "24.47", 
+            "B365D": "10.7", 
+            "B365H": "1.12", 
+            "awayTeamName": "Setubal", 
+            "date": "2016-04-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "9.3", 
+            "B365D": "5.02", 
+            "B365H": "1.39", 
+            "awayTeamName": "Tondela", 
+            "date": "2016-04-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-04-18", 
+    "time_start": "2016-04-18"
+}

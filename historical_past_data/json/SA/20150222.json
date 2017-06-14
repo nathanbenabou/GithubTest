@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Chievo", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Empoli", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.6", 
+            "B365H": "1.75", 
+            "awayTeamName": "Torino", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Fiorentina", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.8", 
+            "B365H": "1.6", 
+            "awayTeamName": "Palermo", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lazio", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.33", 
+            "B365H": "1.44", 
+            "awayTeamName": "Cesena", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Milan", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.75", 
+            "B365D": "3.6", 
+            "B365H": "5", 
+            "awayTeamName": "Roma", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Verona", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2015-02-22", 
+    "time_start": "2015-02-22"
+}

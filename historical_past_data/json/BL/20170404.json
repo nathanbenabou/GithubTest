@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "10", 
+            "B365D": "5.75", 
+            "B365H": "1.29", 
+            "awayTeamName": "Hamburg", 
+            "date": "2017-04-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.2", 
+            "B365H": "2.35", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2017-04-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.5", 
+            "B365D": "4.6", 
+            "B365H": "6", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2017-04-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.5", 
+            "B365H": "3", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2017-04-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2017-04-04", 
+    "time_start": "2017-04-04"
+}

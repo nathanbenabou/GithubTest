@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.2", 
+            "B365D": "3.4", 
+            "B365H": "3.3", 
+            "awayTeamName": "Inter", 
+            "date": "2016-10-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Atalanta", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.2", 
+            "B365H": "2.5", 
+            "awayTeamName": "Sassuolo", 
+            "date": "2016-10-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bologna", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.3", 
+            "B365H": "3", 
+            "awayTeamName": "Fiorentina", 
+            "date": "2016-10-23", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Cagliari", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.22", 
+            "B365D": "6", 
+            "B365H": "15", 
+            "awayTeamName": "Napoli", 
+            "date": "2016-10-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Crotone", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3", 
+            "B365H": "2.55", 
+            "awayTeamName": "Chievo", 
+            "date": "2016-10-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Empoli", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "17", 
+            "B365D": "7", 
+            "B365H": "1.18", 
+            "awayTeamName": "Palermo", 
+            "date": "2016-10-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Roma", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Lazio", 
+            "date": "2016-10-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Torino", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.5", 
+            "B365H": "1.85", 
+            "awayTeamName": "Pescara", 
+            "date": "2016-10-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-10-23", 
+    "time_start": "2016-10-23"
+}

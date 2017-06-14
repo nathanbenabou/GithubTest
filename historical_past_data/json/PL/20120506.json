@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "4.2", 
+            "B365H": "1", 
+            "awayTeamName": "Tottenham", 
+            "date": "2012-05-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "2", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2012-05-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bolton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "1.83", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2012-05-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "1.17", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2012-05-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "5", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2012-05-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Newcastle", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "1.83", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2012-05-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "QPR", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "5", 
+            "B365H": "0", 
+            "awayTeamName": "Everton", 
+            "date": "2012-05-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Wolves", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2012-05-06", 
+    "time_start": "2012-05-06"
+}

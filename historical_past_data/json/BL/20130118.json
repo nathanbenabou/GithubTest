@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "3.8", 
+            "B365H": "1.67", 
+            "awayTeamName": "Hannover", 
+            "date": "2013-01-18", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-01-18", 
+    "time_start": "2013-01-18"
+}

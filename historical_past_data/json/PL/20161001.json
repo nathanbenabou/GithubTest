@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.5", 
+            "B365D": "7.5", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hull", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.5", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "8", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.38", 
+            "B365H": "0", 
+            "awayTeamName": "Bournemouth", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Watford", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.25", 
+            "B365H": "0", 
+            "awayTeamName": "Middlesbrough", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-10-01", 
+    "time_start": "2016-10-01"
+}

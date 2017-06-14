@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "12.64", 
+            "B365D": "5.99", 
+            "B365H": "1.28", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2014-08-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.47", 
+            "B365H": "1.95", 
+            "awayTeamName": "Moreirense", 
+            "date": "2014-08-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.48", 
+            "B365D": "3.22", 
+            "B365H": "2.31", 
+            "awayTeamName": "Belenenses", 
+            "date": "2014-08-17", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Penafiel", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.29", 
+            "B365H": "2.1", 
+            "awayTeamName": "Setubal", 
+            "date": "2014-08-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "10.74", 
+            "B365D": "4.92", 
+            "B365H": "1.36", 
+            "awayTeamName": "Boavista", 
+            "date": "2014-08-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-08-17", 
+    "time_start": "2014-08-17"
+}

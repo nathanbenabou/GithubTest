@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.19", 
+            "B365D": "3.22", 
+            "B365H": "2.08", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2014-01-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "14.67", 
+            "B365D": "6.47", 
+            "B365H": "1.24", 
+            "awayTeamName": "Maritimo", 
+            "date": "2014-01-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "29", 
+            "B365D": "9.5", 
+            "B365H": "1.12", 
+            "awayTeamName": "Setubal", 
+            "date": "2014-01-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.97", 
+            "B365D": "3.24", 
+            "B365H": "2.13", 
+            "awayTeamName": "Belenenses", 
+            "date": "2014-01-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "7.7", 
+            "B365D": "4.47", 
+            "B365H": "1.48", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2014-01-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-01-19", 
+    "time_start": "2014-01-19"
+}

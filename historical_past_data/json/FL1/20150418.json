@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "3.25", 
+            "B365H": "2.15", 
+            "awayTeamName": "Reims", 
+            "date": "2015-04-18", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.3", 
+            "B365H": "1.95", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2015-04-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.25", 
+            "B365H": "2.15", 
+            "awayTeamName": "Toulouse", 
+            "date": "2015-04-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Lens", 
+            "date": "2015-04-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Metz", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.6", 
+            "B365H": "1.67", 
+            "awayTeamName": "Rennes", 
+            "date": "2015-04-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.62", 
+            "B365D": "3.8", 
+            "B365H": "6", 
+            "awayTeamName": "Paris SG", 
+            "date": "2015-04-18", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-04-18", 
+    "time_start": "2015-04-18"
+}

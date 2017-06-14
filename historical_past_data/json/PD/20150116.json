@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.6", 
+            "awayTeamName": "Eibar", 
+            "date": "2015-01-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Cordoba", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-01-16", 
+    "time_start": "2015-01-16"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.5", 
+            "B365D": "3.5", 
+            "B365H": "1.8", 
+            "awayTeamName": "Osasuna", 
+            "date": "2012-11-10", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4", 
+            "B365H": "1.53", 
+            "awayTeamName": "Sociedad", 
+            "date": "2012-11-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3.4", 
+            "B365H": "2.38", 
+            "awayTeamName": "Celta", 
+            "date": "2012-11-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.25", 
+            "B365H": "2.05", 
+            "awayTeamName": "La Coruna", 
+            "date": "2012-11-10", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Zaragoza", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-11-10", 
+    "time_start": "2012-11-10"
+}

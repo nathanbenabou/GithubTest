@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.95", 
+            "B365D": "3.6", 
+            "B365H": "3.8", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2015-11-21", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.5", 
+            "B365H": "2.15", 
+            "awayTeamName": "Mainz", 
+            "date": "2015-11-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4.2", 
+            "B365H": "1.5", 
+            "awayTeamName": "Hannover", 
+            "date": "2015-11-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.22", 
+            "B365D": "6.5", 
+            "B365H": "13", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2015-11-21", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.8", 
+            "B365H": "1.95", 
+            "awayTeamName": "Augsburg", 
+            "date": "2015-11-21", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.75", 
+            "B365D": "4", 
+            "B365H": "1.57", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2015-11-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-11-21", 
+    "time_start": "2015-11-21"
+}

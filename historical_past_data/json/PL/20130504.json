@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.9", 
+            "B365D": "1.73", 
+            "B365H": "0", 
+            "awayTeamName": "Reading", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.55", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Norwich", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "8", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "QPR", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "5.25", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "1.44", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "2.45", 
+            "B365H": "0", 
+            "awayTeamName": "Wigan", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.38", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-05-04", 
+    "time_start": "2013-05-04"
+}

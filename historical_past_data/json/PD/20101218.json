@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.25", 
+            "B365D": "5.5", 
+            "B365H": "12", 
+            "awayTeamName": "Barcelona", 
+            "date": "2010-12-18", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.25", 
+            "B365H": "2.05", 
+            "awayTeamName": "Sp Gijon", 
+            "date": "2010-12-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.25", 
+            "B365H": "2.8", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2010-12-18", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.25", 
+            "B365H": "3.1", 
+            "awayTeamName": "Valencia", 
+            "date": "2010-12-18", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "3.8", 
+            "B365H": "1.53", 
+            "awayTeamName": "Mallorca", 
+            "date": "2010-12-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2010-12-18", 
+    "time_start": "2010-12-18"
+}

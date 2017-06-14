@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "51", 
+            "B365D": "15", 
+            "B365H": "1.06", 
+            "awayTeamName": "Braunschweig", 
+            "date": "2013-11-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "Augsburg", 
+            "date": "2013-11-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.75", 
+            "B365H": "1.8", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2013-11-30", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "4.5", 
+            "B365H": "1.44", 
+            "awayTeamName": "Nurnberg", 
+            "date": "2013-11-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.57", 
+            "B365D": "4.33", 
+            "B365H": "5", 
+            "awayTeamName": "Dortmund", 
+            "date": "2013-11-30", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.8", 
+            "B365H": "1.67", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2013-11-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-11-30", 
+    "time_start": "2013-11-30"
+}

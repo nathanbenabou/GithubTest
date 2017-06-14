@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Betis", 
+            "date": "2012-11-05", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-11-05", 
+    "time_start": "2012-11-05"
+}

@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "7.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2010-09-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bolton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "1.91", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2010-09-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Newcastle", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.88", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2010-09-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wolves", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2010-09-26", 
+    "time_start": "2010-09-26"
+}

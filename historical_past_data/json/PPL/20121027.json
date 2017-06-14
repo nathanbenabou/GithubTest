@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3", 
+            "B365H": "2.6", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2012-10-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.44", 
+            "B365D": "3.8", 
+            "B365H": "6.5", 
+            "awayTeamName": "Benfica", 
+            "date": "2012-10-27", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3", 
+            "B365H": "2.25", 
+            "awayTeamName": "Moreirense", 
+            "date": "2012-10-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-10-27", 
+    "time_start": "2012-10-27"
+}

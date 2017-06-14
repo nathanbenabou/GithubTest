@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.33", 
+            "B365D": "3.3", 
+            "B365H": "1.95", 
+            "awayTeamName": "Lille", 
+            "date": "2016-01-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2016-01-29", 
+    "time_start": "2016-01-29"
+}

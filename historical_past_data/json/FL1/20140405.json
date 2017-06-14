@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "3.1", 
+            "B365H": "2.25", 
+            "awayTeamName": "Sochaux", 
+            "date": "2014-04-05", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.1", 
+            "B365H": "2.1", 
+            "awayTeamName": "Rennes", 
+            "date": "2014-04-05", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Montpellier", 
+            "date": "2014-04-05", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.4", 
+            "B365H": "1.85", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2014-04-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "5.75", 
+            "B365H": "1.25", 
+            "awayTeamName": "Reims", 
+            "date": "2014-04-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3", 
+            "B365H": "2.6", 
+            "awayTeamName": "Lille", 
+            "date": "2014-04-05", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-04-05", 
+    "time_start": "2014-04-05"
+}

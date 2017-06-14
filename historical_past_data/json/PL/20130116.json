@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "1.25", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2013-01-16", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-01-16", 
+    "time_start": "2013-01-16"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "13", 
+            "B365D": "6", 
+            "B365H": "1.22", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2014-01-31", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-01-31", 
+    "time_start": "2014-01-31"
+}

@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "2", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2011-10-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "2.2", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2011-10-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bolton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "1.29", 
+            "B365H": "0", 
+            "awayTeamName": "Norwich", 
+            "date": "2011-10-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "1.57", 
+            "B365H": "0", 
+            "awayTeamName": "Wigan", 
+            "date": "2011-10-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Newcastle", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2011-10-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Wolves", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-10-22", 
+    "time_start": "2011-10-22"
+}

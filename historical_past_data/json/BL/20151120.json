@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.36", 
+            "B365D": "5", 
+            "B365H": "8.5", 
+            "awayTeamName": "Dortmund", 
+            "date": "2015-11-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-11-20", 
+    "time_start": "2015-11-20"
+}

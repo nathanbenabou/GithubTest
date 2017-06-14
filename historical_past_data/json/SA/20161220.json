@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "3.9", 
+            "B365H": "1.53", 
+            "awayTeamName": "Empoli", 
+            "date": "2016-12-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Atalanta", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-12-20", 
+    "time_start": "2016-12-20"
+}

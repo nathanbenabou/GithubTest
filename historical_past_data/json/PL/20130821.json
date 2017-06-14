@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "1.29", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2013-08-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-08-21", 
+    "time_start": "2013-08-21"
+}

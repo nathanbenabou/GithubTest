@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "9.5", 
+            "B365D": "5.25", 
+            "B365H": "1.33", 
+            "awayTeamName": "St Etienne", 
+            "date": "2016-09-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2016-09-09", 
+    "time_start": "2016-09-09"
+}

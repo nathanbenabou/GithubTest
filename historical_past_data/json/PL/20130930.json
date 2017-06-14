@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "1.65", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2013-09-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-09-30", 
+    "time_start": "2013-09-30"
+}

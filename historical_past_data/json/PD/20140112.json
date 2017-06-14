@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.5", 
+            "B365D": "3.5", 
+            "B365H": "1.8", 
+            "awayTeamName": "Osasuna", 
+            "date": "2014-01-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Betis", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.33", 
+            "B365D": "5.5", 
+            "B365H": "7.5", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2014-01-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Vallecano", 
+            "date": "2014-01-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3.2", 
+            "B365H": "2.5", 
+            "awayTeamName": "Malaga", 
+            "date": "2014-01-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-01-12", 
+    "time_start": "2014-01-12"
+}

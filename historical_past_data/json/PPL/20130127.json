@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "3.3", 
+            "B365H": "1.9", 
+            "awayTeamName": "Olhanense", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3.1", 
+            "B365H": "2.37", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3.25", 
+            "B365H": "3.6", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.2", 
+            "B365H": "3.1", 
+            "awayTeamName": "Nacional", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4", 
+            "B365H": "1.44", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-01-27", 
+    "time_start": "2013-01-27"
+}

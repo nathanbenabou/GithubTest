@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "3.8", 
+            "B365H": "1.6", 
+            "awayTeamName": "Villarreal", 
+            "date": "2017-02-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "5.25", 
+            "B365H": "1.3", 
+            "awayTeamName": "Osasuna", 
+            "date": "2017-02-05", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Alaves", 
+            "date": "2017-02-05", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Gijon", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-02-05", 
+    "time_start": "2017-02-05"
+}

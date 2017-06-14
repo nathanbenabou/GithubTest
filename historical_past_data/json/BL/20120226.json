@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.5", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2012-02-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "12", 
+            "B365D": "5.5", 
+            "B365H": "1.25", 
+            "awayTeamName": "Hannover", 
+            "date": "2012-02-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-02-26", 
+    "time_start": "2012-02-26"
+}

@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "26", 
+            "B365D": "11", 
+            "B365H": "1.08", 
+            "awayTeamName": "Sp Gijon", 
+            "date": "2012-03-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.2", 
+            "B365H": "2.4", 
+            "awayTeamName": "Malaga", 
+            "date": "2012-03-03", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.3", 
+            "B365H": "1.91", 
+            "awayTeamName": "Osasuna", 
+            "date": "2012-03-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mallorca", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.25", 
+            "B365H": "2.38", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2012-03-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.4", 
+            "B365H": "1.83", 
+            "awayTeamName": "Santander", 
+            "date": "2012-03-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-03-03", 
+    "time_start": "2012-03-03"
+}

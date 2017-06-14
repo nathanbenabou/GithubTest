@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3.3", 
+            "B365H": "2", 
+            "awayTeamName": "Lorient", 
+            "date": "2016-12-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Angers", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.1", 
+            "B365H": "2.15", 
+            "awayTeamName": "Lille", 
+            "date": "2016-12-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.25", 
+            "B365H": "2.1", 
+            "awayTeamName": "Nantes", 
+            "date": "2016-12-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "4.5", 
+            "B365H": "1.36", 
+            "awayTeamName": "Bastia", 
+            "date": "2016-12-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.53", 
+            "B365D": "4.2", 
+            "B365H": "6.5", 
+            "awayTeamName": "Paris SG", 
+            "date": "2016-12-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2016-12-03", 
+    "time_start": "2016-12-03"
+}

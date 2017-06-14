@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.4", 
+            "awayTeamName": "Getafe", 
+            "date": "2014-04-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.7", 
+            "B365D": "3.1", 
+            "B365H": "2.7", 
+            "awayTeamName": "Valencia", 
+            "date": "2014-04-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.6", 
+            "B365H": "1.75", 
+            "awayTeamName": "Espanol", 
+            "date": "2014-04-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-04-19", 
+    "time_start": "2014-04-19"
+}

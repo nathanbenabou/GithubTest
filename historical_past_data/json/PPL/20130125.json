@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "3.25", 
+            "B365H": "2", 
+            "awayTeamName": "Beira Mar", 
+            "date": "2013-01-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-01-25", 
+    "time_start": "2013-01-25"
+}

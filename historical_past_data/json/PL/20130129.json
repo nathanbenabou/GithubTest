@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.9", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2013-01-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "7.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2013-01-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "QPR", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.2", 
+            "B365H": "0", 
+            "awayTeamName": "Wigan", 
+            "date": "2013-01-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.5", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2013-01-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-01-29", 
+    "time_start": "2013-01-29"
+}

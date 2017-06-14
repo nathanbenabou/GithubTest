@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "3.75", 
+            "B365H": "1.67", 
+            "awayTeamName": "Almeria", 
+            "date": "2010-11-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.75", 
+            "B365H": "1.62", 
+            "awayTeamName": "Osasuna", 
+            "date": "2010-11-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "6.25", 
+            "B365H": "1.2", 
+            "awayTeamName": "Villarreal", 
+            "date": "2010-11-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2010-11-13", 
+    "time_start": "2010-11-13"
+}

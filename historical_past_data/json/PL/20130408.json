@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "2.3", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2013-04-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-04-08", 
+    "time_start": "2013-04-08"
+}

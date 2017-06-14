@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.1", 
+            "B365D": "3.2", 
+            "B365H": "3.6", 
+            "awayTeamName": "Lyon", 
+            "date": "2012-08-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-08-24", 
+    "time_start": "2012-08-24"
+}

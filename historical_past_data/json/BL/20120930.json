@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.5", 
+            "B365D": "3.75", 
+            "B365H": "1.75", 
+            "awayTeamName": "Freiburg", 
+            "date": "2012-09-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Mainz", 
+            "date": "2012-09-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-09-30", 
+    "time_start": "2012-09-30"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "1.73", 
+            "B365H": "1", 
+            "awayTeamName": "Everton", 
+            "date": "2010-12-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Man City", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2010-12-20", 
+    "time_start": "2010-12-20"
+}

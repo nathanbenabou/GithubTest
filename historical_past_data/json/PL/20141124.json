@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "5.25", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2014-11-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-11-24", 
+    "time_start": "2014-11-24"
+}

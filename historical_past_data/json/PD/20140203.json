@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "9", 
+            "B365D": "5", 
+            "B365H": "1.33", 
+            "awayTeamName": "Osasuna", 
+            "date": "2014-02-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-02-03", 
+    "time_start": "2014-02-03"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.44", 
+            "B365D": "3.28", 
+            "B365H": "3.17", 
+            "awayTeamName": "Porto", 
+            "date": "2014-09-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-09-26", 
+    "time_start": "2014-09-26"
+}

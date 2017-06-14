@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.5", 
+            "awayTeamName": "Toulouse", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lens", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.5", 
+            "B365H": "1.91", 
+            "awayTeamName": "Caen", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.2", 
+            "B365H": "3.8", 
+            "awayTeamName": "St Etienne", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Metz", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.3", 
+            "B365H": "1.85", 
+            "awayTeamName": "Reims", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nantes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-03-14", 
+    "time_start": "2015-03-14"
+}

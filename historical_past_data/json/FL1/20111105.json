@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "9", 
+            "B365D": "4.5", 
+            "B365H": "1.36", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2011-11-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2011-11-05", 
+    "time_start": "2011-11-05"
+}

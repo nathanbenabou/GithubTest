@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "3.6", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2011-04-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Blackburn", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-04-25", 
+    "time_start": "2011-04-25"
+}

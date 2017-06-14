@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.81", 
+            "B365D": "4.23", 
+            "B365H": "1.51", 
+            "awayTeamName": "Arouca", 
+            "date": "2014-01-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-01-31", 
+    "time_start": "2014-01-31"
+}

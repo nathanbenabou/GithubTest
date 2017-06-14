@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "3.25", 
+            "B365H": "2.2", 
+            "awayTeamName": "Sociedad", 
+            "date": "2010-09-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Almeria", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2010-09-13", 
+    "time_start": "2010-09-13"
+}

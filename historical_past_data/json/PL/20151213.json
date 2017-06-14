@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "6.5", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2015-12-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "1.4", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2015-12-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "1.36", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2015-12-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-12-13", 
+    "time_start": "2015-12-13"
+}

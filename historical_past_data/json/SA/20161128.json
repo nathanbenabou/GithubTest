@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.9", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Fiorentina", 
+            "date": "2016-11-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Inter", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "12", 
+            "B365D": "6", 
+            "B365H": "1.25", 
+            "awayTeamName": "Sassuolo", 
+            "date": "2016-11-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Napoli", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-11-28", 
+    "time_start": "2016-11-28"
+}

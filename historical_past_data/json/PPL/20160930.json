@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.16", 
+            "B365D": "3.12", 
+            "B365H": "2.58", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2016-09-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-09-30", 
+    "time_start": "2016-09-30"
+}

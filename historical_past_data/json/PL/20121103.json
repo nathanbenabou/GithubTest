@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.75", 
+            "B365H": "0", 
+            "awayTeamName": "Everton", 
+            "date": "2012-11-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "1.7", 
+            "B365H": "1", 
+            "awayTeamName": "Arsenal", 
+            "date": "2012-11-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.6", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2012-11-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Norwich", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2012-11-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "4.5", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2012-11-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "1.5", 
+            "B365H": "0", 
+            "awayTeamName": "Wigan", 
+            "date": "2012-11-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "5", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2012-11-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2012-11-03", 
+    "time_start": "2012-11-03"
+}

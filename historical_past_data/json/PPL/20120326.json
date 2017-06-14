@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "3.25", 
+            "B365H": "1.62", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2012-03-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "4.5", 
+            "B365H": "1.25", 
+            "awayTeamName": "Academica", 
+            "date": "2012-03-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-03-26", 
+    "time_start": "2012-03-26"
+}

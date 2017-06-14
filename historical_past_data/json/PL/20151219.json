@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.25", 
+            "B365D": "1.33", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2015-12-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Leicester", 
+            "date": "2015-12-19", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "1.45", 
+            "B365H": "0", 
+            "awayTeamName": "Norwich", 
+            "date": "2015-12-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "2.05", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2015-12-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Newcastle", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.7", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2015-12-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Southampton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "2.5", 
+            "B365H": "0", 
+            "awayTeamName": "Crystal Palace", 
+            "date": "2015-12-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.55", 
+            "B365H": "0", 
+            "awayTeamName": "Bournemouth", 
+            "date": "2015-12-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-12-19", 
+    "time_start": "2015-12-19"
+}

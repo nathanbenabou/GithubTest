@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.95", 
+            "B365D": "3.4", 
+            "B365H": "4.2", 
+            "awayTeamName": "Paris SG", 
+            "date": "2015-03-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.2", 
+            "B365H": "1.91", 
+            "awayTeamName": "Rennes", 
+            "date": "2015-03-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.3", 
+            "B365H": "2.05", 
+            "awayTeamName": "Lyon", 
+            "date": "2015-03-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-03-15", 
+    "time_start": "2015-03-15"
+}

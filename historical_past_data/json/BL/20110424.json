@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Mainz", 
+            "date": "2011-04-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "4", 
+            "B365H": "1.67", 
+            "awayTeamName": "FC Koln", 
+            "date": "2011-04-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2011-04-24", 
+    "time_start": "2011-04-24"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.29", 
+            "B365D": "4.23", 
+            "B365H": "1.59", 
+            "awayTeamName": "Nacional", 
+            "date": "2016-11-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-11-04", 
+    "time_start": "2016-11-04"
+}

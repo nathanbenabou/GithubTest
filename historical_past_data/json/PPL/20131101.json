@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.45", 
+            "B365D": "4.55", 
+            "B365H": "8.8", 
+            "awayTeamName": "Benfica", 
+            "date": "2013-11-01", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-11-01", 
+    "time_start": "2013-11-01"
+}

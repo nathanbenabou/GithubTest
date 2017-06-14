@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Metz", 
+            "date": "2017-01-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Angers", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.1", 
+            "B365H": "2.25", 
+            "awayTeamName": "Caen", 
+            "date": "2017-01-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.5", 
+            "B365H": "2.05", 
+            "awayTeamName": "Dijon", 
+            "date": "2017-01-28", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.33", 
+            "B365H": "1.45", 
+            "awayTeamName": "Lille", 
+            "date": "2017-01-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.63", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2017-01-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.1", 
+            "B365H": "2.2", 
+            "awayTeamName": "Nantes", 
+            "date": "2017-01-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2017-01-28", 
+    "time_start": "2017-01-28"
+}

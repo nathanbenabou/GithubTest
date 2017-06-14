@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "3.3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Dijon", 
+            "date": "2016-12-02", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Caen", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2016-12-02", 
+    "time_start": "2016-12-02"
+}

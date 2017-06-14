@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "21", 
+            "B365D": "8.3", 
+            "B365H": "1.16", 
+            "awayTeamName": "Boavista", 
+            "date": "2015-01-31", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.61", 
+            "B365D": "3.47", 
+            "B365H": "1.9", 
+            "awayTeamName": "Belenenses", 
+            "date": "2015-01-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.83", 
+            "B365D": "3.51", 
+            "B365H": "5.03", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2015-01-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Penafiel", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-01-31", 
+    "time_start": "2015-01-31"
+}

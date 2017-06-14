@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.89", 
+            "B365D": "3.54", 
+            "B365H": "4.58", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2014-11-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.94", 
+            "B365D": "3.42", 
+            "B365H": "4.47", 
+            "awayTeamName": "Estoril", 
+            "date": "2014-11-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Penafiel", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "12.39", 
+            "B365D": "5.96", 
+            "B365H": "1.28", 
+            "awayTeamName": "Nacional", 
+            "date": "2014-11-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-11-01", 
+    "time_start": "2014-11-01"
+}

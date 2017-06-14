@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.93", 
+            "B365D": "3.27", 
+            "B365H": "2.65", 
+            "awayTeamName": "Moreirense", 
+            "date": "2017-04-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.44", 
+            "B365D": "3.16", 
+            "B365H": "2.39", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2017-04-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.78", 
+            "B365D": "3.2", 
+            "B365H": "2.84", 
+            "awayTeamName": "Maritimo", 
+            "date": "2017-04-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Feirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.09", 
+            "B365D": "3.71", 
+            "B365H": "3.6", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2017-04-30", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-04-30", 
+    "time_start": "2017-04-30"
+}

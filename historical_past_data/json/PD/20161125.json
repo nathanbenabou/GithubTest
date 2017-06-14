@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "3.4", 
+            "B365H": "1.95", 
+            "awayTeamName": "Betis", 
+            "date": "2016-11-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Eibar", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-11-25", 
+    "time_start": "2016-11-25"
+}

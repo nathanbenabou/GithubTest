@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.23", 
+            "B365D": "3.49", 
+            "B365H": "1.81", 
+            "awayTeamName": "Boavista", 
+            "date": "2014-11-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-11-03", 
+    "time_start": "2014-11-03"
+}

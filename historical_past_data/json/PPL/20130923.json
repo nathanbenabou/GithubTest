@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.26", 
+            "B365D": "3.54", 
+            "B365H": "1.95", 
+            "awayTeamName": "Setubal", 
+            "date": "2013-09-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-09-23", 
+    "time_start": "2013-09-23"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.25", 
+            "B365D": "3.1", 
+            "B365H": "2.3", 
+            "awayTeamName": "Malaga", 
+            "date": "2014-03-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "4.5", 
+            "B365H": "1.44", 
+            "awayTeamName": "Vallecano", 
+            "date": "2014-03-10", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-03-10", 
+    "time_start": "2014-03-10"
+}

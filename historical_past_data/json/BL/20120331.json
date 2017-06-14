@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "FC Koln", 
+            "date": "2012-03-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3.3", 
+            "B365H": "2.4", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2012-03-31", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.25", 
+            "B365H": "2.5", 
+            "awayTeamName": "Hamburg", 
+            "date": "2012-03-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Kaiserslautern", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.8", 
+            "B365H": "1.7", 
+            "awayTeamName": "Freiburg", 
+            "date": "2012-03-31", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.36", 
+            "B365D": "4.75", 
+            "B365H": "8.5", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2012-03-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Mainz", 
+            "date": "2012-03-31", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-03-31", 
+    "time_start": "2012-03-31"
+}

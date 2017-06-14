@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.15", 
+            "B365D": "3.3", 
+            "B365H": "3.88", 
+            "awayTeamName": "Maritimo", 
+            "date": "2015-10-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.58", 
+            "B365D": "3.32", 
+            "B365H": "2.25", 
+            "awayTeamName": "Nacional", 
+            "date": "2015-10-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.3", 
+            "B365D": "3.23", 
+            "B365H": "2.07", 
+            "awayTeamName": "Boavista", 
+            "date": "2015-10-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.47", 
+            "B365D": "3.09", 
+            "B365H": "2.42", 
+            "awayTeamName": "Moreirense", 
+            "date": "2015-10-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-10-03", 
+    "time_start": "2015-10-03"
+}

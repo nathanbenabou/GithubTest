@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.88", 
+            "B365D": "3", 
+            "B365H": "2.63", 
+            "awayTeamName": "Toulouse", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3", 
+            "B365H": "2.3", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Brest", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3", 
+            "B365H": "2.3", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Caen", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6.75", 
+            "B365D": "3.8", 
+            "B365H": "1.53", 
+            "awayTeamName": "Sochaux", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.1", 
+            "B365H": "2.1", 
+            "awayTeamName": "Auxerre", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.1", 
+            "B365H": "3.5", 
+            "awayTeamName": "Lille", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3.2", 
+            "B365H": "4", 
+            "awayTeamName": "Lyon", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6.75", 
+            "B365D": "3.8", 
+            "B365H": "1.53", 
+            "awayTeamName": "Lorient", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2011-08-06", 
+    "time_start": "2011-08-06"
+}

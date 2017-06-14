@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.47", 
+            "B365D": "3.18", 
+            "B365H": "2.35", 
+            "awayTeamName": "Arouca", 
+            "date": "2014-04-17", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-04-17", 
+    "time_start": "2014-04-17"
+}

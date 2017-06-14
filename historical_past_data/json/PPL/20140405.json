@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.72", 
+            "B365D": "3.77", 
+            "B365H": "5.42", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2014-04-05", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.74", 
+            "B365D": "3.83", 
+            "B365H": "5.1", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2014-04-05", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-04-05", 
+    "time_start": "2014-04-05"
+}

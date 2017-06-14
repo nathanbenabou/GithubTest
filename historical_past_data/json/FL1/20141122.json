@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.05", 
+            "B365D": "3.3", 
+            "B365H": "3.6", 
+            "awayTeamName": "Lyon", 
+            "date": "2014-11-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3.1", 
+            "B365H": "2.5", 
+            "awayTeamName": "Rennes", 
+            "date": "2014-11-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.3", 
+            "B365H": "1.8", 
+            "awayTeamName": "Lens", 
+            "date": "2014-11-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.6", 
+            "B365H": "1.62", 
+            "awayTeamName": "Caen", 
+            "date": "2014-11-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Reims", 
+            "date": "2014-11-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-11-22", 
+    "time_start": "2014-11-22"
+}

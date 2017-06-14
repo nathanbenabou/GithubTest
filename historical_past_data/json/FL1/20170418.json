@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.17", 
+            "B365D": "7.5", 
+            "B365H": "17", 
+            "awayTeamName": "Paris SG", 
+            "date": "2017-04-18", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Metz", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2017-04-18", 
+    "time_start": "2017-04-18"
+}

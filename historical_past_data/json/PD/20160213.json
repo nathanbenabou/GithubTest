@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.75", 
+            "B365D": "3.5", 
+            "B365H": "1.8", 
+            "awayTeamName": "Betis", 
+            "date": "2016-02-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "9.5", 
+            "B365D": "6", 
+            "B365H": "1.29", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2016-02-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.6", 
+            "B365H": "1.75", 
+            "awayTeamName": "Espanol", 
+            "date": "2016-02-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.3", 
+            "B365H": "2.05", 
+            "awayTeamName": "Malaga", 
+            "date": "2016-02-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-02-13", 
+    "time_start": "2016-02-13"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "3.4", 
+            "B365H": "2.05", 
+            "awayTeamName": "Hannover", 
+            "date": "2014-11-07", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-11-07", 
+    "time_start": "2014-11-07"
+}

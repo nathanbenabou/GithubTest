@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.75", 
+            "B365D": "3.5", 
+            "B365H": "1.75", 
+            "awayTeamName": "Levante", 
+            "date": "2010-09-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Almeria", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "21", 
+            "B365D": "7", 
+            "B365H": "1.14", 
+            "awayTeamName": "Sp Gijon", 
+            "date": "2010-09-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.25", 
+            "B365H": "2.1", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2010-09-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.3", 
+            "B365H": "1.95", 
+            "awayTeamName": "Hercules", 
+            "date": "2010-09-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Zaragoza", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2010-09-22", 
+    "time_start": "2010-09-22"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "8", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2011-01-25", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Blackpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.2", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2011-01-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wigan", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-01-25", 
+    "time_start": "2011-01-25"
+}

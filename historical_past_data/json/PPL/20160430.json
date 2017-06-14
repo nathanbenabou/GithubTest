@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.87", 
+            "B365D": "3.46", 
+            "B365H": "2.58", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2016-04-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.41", 
+            "B365D": "3.42", 
+            "B365H": "3.15", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2016-04-30", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.41", 
+            "B365D": "3.37", 
+            "B365H": "3.19", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2016-04-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-04-30", 
+    "time_start": "2016-04-30"
+}

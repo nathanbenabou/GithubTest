@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "3.75", 
+            "B365H": "1.62", 
+            "awayTeamName": "Metz", 
+            "date": "2015-04-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.1", 
+            "B365H": "2.2", 
+            "awayTeamName": "Guingamp", 
+            "date": "2015-04-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Caen", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Bastia", 
+            "date": "2015-04-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "4.6", 
+            "B365H": "1.36", 
+            "awayTeamName": "Lille", 
+            "date": "2015-04-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Nice", 
+            "date": "2015-04-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.2", 
+            "B365H": "2.05", 
+            "awayTeamName": "Nantes", 
+            "date": "2015-04-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-04-25", 
+    "time_start": "2015-04-25"
+}

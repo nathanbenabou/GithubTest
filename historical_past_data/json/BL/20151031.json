@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.4", 
+            "B365H": "2.3", 
+            "awayTeamName": "Mainz", 
+            "date": "2015-10-31", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.5", 
+            "B365H": "2.05", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2015-10-31", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.3", 
+            "B365H": "3", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2015-10-31", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.5", 
+            "B365H": "1.8", 
+            "awayTeamName": "Ingolstadt", 
+            "date": "2015-10-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.4", 
+            "B365D": "5", 
+            "B365H": "7.5", 
+            "awayTeamName": "Dortmund", 
+            "date": "2015-10-31", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.7", 
+            "B365D": "3.4", 
+            "B365H": "2.63", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2015-10-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-10-31", 
+    "time_start": "2015-10-31"
+}

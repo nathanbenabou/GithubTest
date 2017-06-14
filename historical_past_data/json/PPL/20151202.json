@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.29", 
+            "B365D": "5.63", 
+            "B365H": "13.59", 
+            "awayTeamName": "Porto", 
+            "date": "2015-12-02", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Uniao Madeira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-12-02", 
+    "time_start": "2015-12-02"
+}

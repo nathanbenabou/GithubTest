@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.27", 
+            "B365D": "5.9", 
+            "B365H": "14.9", 
+            "awayTeamName": "Benfica", 
+            "date": "2015-10-30", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-10-30", 
+    "time_start": "2015-10-30"
+}

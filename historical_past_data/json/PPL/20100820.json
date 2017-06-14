@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "3.25", 
+            "B365H": "1.8", 
+            "awayTeamName": "Olhanense", 
+            "date": "2010-08-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2010-08-20", 
+    "time_start": "2010-08-20"
+}

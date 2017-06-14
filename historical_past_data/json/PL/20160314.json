@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.33", 
+            "B365D": "1.57", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2016-03-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Leicester", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-03-14", 
+    "time_start": "2016-03-14"
+}

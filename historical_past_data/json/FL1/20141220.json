@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.33", 
+            "B365D": "3.3", 
+            "B365H": "1.95", 
+            "awayTeamName": "Bastia", 
+            "date": "2014-12-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Caen", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.1", 
+            "B365H": "2.38", 
+            "awayTeamName": "Nantes", 
+            "date": "2014-12-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.25", 
+            "B365H": "3.75", 
+            "awayTeamName": "Monaco", 
+            "date": "2014-12-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Metz", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "5.75", 
+            "B365H": "1.25", 
+            "awayTeamName": "Montpellier", 
+            "date": "2014-12-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.4", 
+            "B365H": "1.83", 
+            "awayTeamName": "Reims", 
+            "date": "2014-12-20", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Guingamp", 
+            "date": "2014-12-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-12-20", 
+    "time_start": "2014-12-20"
+}

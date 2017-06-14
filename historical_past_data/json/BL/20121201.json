@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.75", 
+            "B365D": "3.3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Freiburg", 
+            "date": "2012-12-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.8", 
+            "B365H": "1.75", 
+            "awayTeamName": "Dortmund", 
+            "date": "2012-12-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.4", 
+            "B365H": "3", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2012-12-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Greuther Furth", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4.33", 
+            "B365H": "1.5", 
+            "awayTeamName": "Nurnberg", 
+            "date": "2012-12-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "Hannover", 
+            "date": "2012-12-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "4.5", 
+            "B365H": "1.44", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2012-12-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-12-01", 
+    "time_start": "2012-12-01"
+}

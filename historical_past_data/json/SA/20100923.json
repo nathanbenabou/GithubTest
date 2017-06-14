@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "3.5", 
+            "B365H": "1.73", 
+            "awayTeamName": "Palermo", 
+            "date": "2010-09-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2010-09-23", 
+    "time_start": "2010-09-23"
+}

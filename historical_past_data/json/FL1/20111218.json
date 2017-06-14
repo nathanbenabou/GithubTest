@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.73", 
+            "B365D": "3.5", 
+            "B365H": "5", 
+            "awayTeamName": "Rennes", 
+            "date": "2011-12-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.75", 
+            "B365H": "1.57", 
+            "awayTeamName": "Sochaux", 
+            "date": "2011-12-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.2", 
+            "B365H": "2.2", 
+            "awayTeamName": "Lille", 
+            "date": "2011-12-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2011-12-18", 
+    "time_start": "2011-12-18"
+}

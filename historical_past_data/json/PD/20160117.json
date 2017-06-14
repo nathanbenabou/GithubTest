@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "19", 
+            "B365D": "8", 
+            "B365H": "1.14", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2016-01-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.2", 
+            "B365H": "2.2", 
+            "awayTeamName": "Espanol", 
+            "date": "2016-01-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.62", 
+            "B365D": "3.6", 
+            "B365H": "6.5", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2016-01-17", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Las Palmas", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "26", 
+            "B365D": "17", 
+            "B365H": "1.05", 
+            "awayTeamName": "Sp Gijon", 
+            "date": "2016-01-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "4", 
+            "B365H": "1.62", 
+            "awayTeamName": "Vallecano", 
+            "date": "2016-01-17", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-01-17", 
+    "time_start": "2016-01-17"
+}

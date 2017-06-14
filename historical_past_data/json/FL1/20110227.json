@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "3.25", 
+            "B365H": "2.1", 
+            "awayTeamName": "Lyon", 
+            "date": "2011-02-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.2", 
+            "B365H": "3.75", 
+            "awayTeamName": "Marseille", 
+            "date": "2011-02-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.6", 
+            "B365H": "1.62", 
+            "awayTeamName": "Toulouse", 
+            "date": "2011-02-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2011-02-27", 
+    "time_start": "2011-02-27"
+}

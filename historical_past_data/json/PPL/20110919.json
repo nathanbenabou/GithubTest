@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.2", 
+            "B365D": "3.1", 
+            "B365H": "2.88", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2011-09-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.8", 
+            "B365D": "3.1", 
+            "B365H": "4", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2011-09-19", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-09-19", 
+    "time_start": "2011-09-19"
+}

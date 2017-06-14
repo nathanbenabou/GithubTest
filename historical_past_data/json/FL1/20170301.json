@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "2.9", 
+            "B365H": "3.3", 
+            "awayTeamName": "Nantes", 
+            "date": "2017-03-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2017-03-01", 
+    "time_start": "2017-03-01"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.86", 
+            "B365D": "3.54", 
+            "B365H": "2.54", 
+            "awayTeamName": "Maritimo", 
+            "date": "2016-03-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-03-04", 
+    "time_start": "2016-03-04"
+}

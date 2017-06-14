@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.3", 
+            "B365H": "2.3", 
+            "awayTeamName": "Vallecano", 
+            "date": "2013-03-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.25", 
+            "B365H": "2.3", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2013-03-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.6", 
+            "B365H": "2.88", 
+            "awayTeamName": "Barcelona", 
+            "date": "2013-03-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "4.2", 
+            "B365H": "1.5", 
+            "awayTeamName": "Levante", 
+            "date": "2013-03-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2013-03-02", 
+    "time_start": "2013-03-02"
+}

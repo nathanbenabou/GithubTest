@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.1", 
+            "B365D": "3.3", 
+            "B365H": "3.5", 
+            "awayTeamName": "Milan", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Atalanta", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.5", 
+            "B365H": "2.9", 
+            "awayTeamName": "Roma", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Bologna", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Palermo", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Cagliari", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.38", 
+            "B365D": "3.25", 
+            "B365H": "3", 
+            "awayTeamName": "Fiorentina", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Catania", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5.75", 
+            "B365D": "3.75", 
+            "B365H": "1.62", 
+            "awayTeamName": "Torino", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Inter", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.38", 
+            "B365D": "3.25", 
+            "B365H": "3", 
+            "awayTeamName": "Napoli", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Parma", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.75", 
+            "B365H": "1.62", 
+            "awayTeamName": "Pescara", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Sampdoria", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.75", 
+            "B365H": "1.57", 
+            "awayTeamName": "Siena", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2013-01-27", 
+    "time_start": "2013-01-27"
+}

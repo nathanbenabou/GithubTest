@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "12", 
+            "B365D": "5.5", 
+            "B365H": "1.25", 
+            "awayTeamName": "Chievo", 
+            "date": "2013-05-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Roma", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2013-05-07", 
+    "time_start": "2013-05-07"
+}

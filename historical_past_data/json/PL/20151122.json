@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "1.57", 
+            "B365H": "0", 
+            "awayTeamName": "West Ham", 
+            "date": "2015-11-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-11-22", 
+    "time_start": "2015-11-22"
+}

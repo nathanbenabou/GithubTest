@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3", 
+            "B365D": "3.3", 
+            "B365H": "2.4", 
+            "awayTeamName": "Empoli", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Cagliari", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.8", 
+            "B365D": "3.4", 
+            "B365H": "4.75", 
+            "awayTeamName": "Juventus", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Palermo", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2015-03-14", 
+    "time_start": "2015-03-14"
+}

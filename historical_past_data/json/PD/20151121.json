@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.2", 
+            "B365H": "2.4", 
+            "awayTeamName": "Malaga", 
+            "date": "2015-11-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.4", 
+            "B365H": "3.3", 
+            "awayTeamName": "Celta", 
+            "date": "2015-11-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.75", 
+            "B365H": "2.5", 
+            "awayTeamName": "Barcelona", 
+            "date": "2015-11-21", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.7", 
+            "B365D": "3.3", 
+            "B365H": "2.63", 
+            "awayTeamName": "Sevilla", 
+            "date": "2015-11-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "Las Palmas", 
+            "date": "2015-11-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-11-21", 
+    "time_start": "2015-11-21"
+}

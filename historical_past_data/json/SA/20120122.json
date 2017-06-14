@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Parma", 
+            "date": "2012-01-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bologna", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.38", 
+            "awayTeamName": "Fiorentina", 
+            "date": "2012-01-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Cagliari", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.6", 
+            "B365H": "1.62", 
+            "awayTeamName": "Lazio", 
+            "date": "2012-01-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Inter", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.2", 
+            "B365H": "2.4", 
+            "awayTeamName": "Chievo", 
+            "date": "2012-01-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lecce", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.4", 
+            "B365D": "4.33", 
+            "B365H": "8.5", 
+            "awayTeamName": "Milan", 
+            "date": "2012-01-22", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Novara", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.25", 
+            "B365H": "2.05", 
+            "awayTeamName": "Genoa", 
+            "date": "2012-01-22", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Palermo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.3", 
+            "B365H": "3.5", 
+            "awayTeamName": "Napoli", 
+            "date": "2012-01-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Siena", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.6", 
+            "B365H": "1.62", 
+            "awayTeamName": "Catania", 
+            "date": "2012-01-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2012-01-22", 
+    "time_start": "2012-01-22"
+}

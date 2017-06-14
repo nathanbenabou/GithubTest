@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.9", 
+            "B365D": "3.1", 
+            "B365H": "2.5", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.1", 
+            "B365H": "2.6", 
+            "awayTeamName": "Toulouse", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.5", 
+            "B365H": "1.8", 
+            "awayTeamName": "Guingamp", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.25", 
+            "B365H": "2.1", 
+            "awayTeamName": "Bastia", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3.1", 
+            "B365H": "2.5", 
+            "awayTeamName": "Marseille", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.91", 
+            "B365D": "3.25", 
+            "B365H": "4.2", 
+            "awayTeamName": "St Etienne", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-11-02", 
+    "time_start": "2013-11-02"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.75", 
+            "B365D": "3.8", 
+            "B365H": "1.6", 
+            "awayTeamName": "Eibar", 
+            "date": "2016-04-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Gijon", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-04-29", 
+    "time_start": "2016-04-29"
+}

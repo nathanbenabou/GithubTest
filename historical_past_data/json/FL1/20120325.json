@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.2", 
+            "B365H": "2.3", 
+            "awayTeamName": "Caen", 
+            "date": "2012-03-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Dijon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.5", 
+            "B365H": "1.67", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2012-03-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.5", 
+            "B365H": "1.73", 
+            "awayTeamName": "Auxerre", 
+            "date": "2012-03-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-03-25", 
+    "time_start": "2012-03-25"
+}

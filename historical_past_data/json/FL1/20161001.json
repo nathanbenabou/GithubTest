@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3", 
+            "B365D": "3.1", 
+            "B365H": "2.5", 
+            "awayTeamName": "Toulouse", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Caen", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.6", 
+            "awayTeamName": "Montpellier", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Dijon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.2", 
+            "B365H": "1.85", 
+            "awayTeamName": "Nancy", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.8", 
+            "B365D": "3.6", 
+            "B365H": "4.5", 
+            "awayTeamName": "Monaco", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "7", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Metz", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.2", 
+            "B365H": "1.95", 
+            "awayTeamName": "Bastia", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nantes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "5.75", 
+            "B365H": "1.25", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2016-10-01", 
+    "time_start": "2016-10-01"
+}

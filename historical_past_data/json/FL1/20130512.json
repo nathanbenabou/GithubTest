@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.88", 
+            "B365D": "3.1", 
+            "B365H": "2.55", 
+            "awayTeamName": "Nice", 
+            "date": "2013-05-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.25", 
+            "B365H": "3.6", 
+            "awayTeamName": "St Etienne", 
+            "date": "2013-05-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.15", 
+            "B365D": "3.25", 
+            "B365H": "3.4", 
+            "awayTeamName": "Paris SG", 
+            "date": "2013-05-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-05-12", 
+    "time_start": "2013-05-12"
+}

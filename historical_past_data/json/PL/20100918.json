@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "1.8", 
+            "B365H": "0", 
+            "awayTeamName": "Bolton", 
+            "date": "2010-09-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2", 
+            "B365H": "0", 
+            "awayTeamName": "Fulham", 
+            "date": "2010-09-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Blackburn", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "1.62", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2010-09-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "1.91", 
+            "B365H": "0", 
+            "awayTeamName": "West Ham", 
+            "date": "2010-09-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.7", 
+            "B365D": "5.5", 
+            "B365H": "1", 
+            "awayTeamName": "Arsenal", 
+            "date": "2010-09-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "1.4", 
+            "B365H": "0", 
+            "awayTeamName": "Wolves", 
+            "date": "2010-09-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.25", 
+            "B365H": "0", 
+            "awayTeamName": "Birmingham", 
+            "date": "2010-09-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2010-09-18", 
+    "time_start": "2010-09-18"
+}

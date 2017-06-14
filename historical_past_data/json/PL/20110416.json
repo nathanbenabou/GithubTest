@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.2", 
+            "B365D": "2.25", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2011-04-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Birmingham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "2.3", 
+            "B365H": "0", 
+            "awayTeamName": "Wigan", 
+            "date": "2011-04-16", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Blackpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "1.67", 
+            "B365H": "0", 
+            "awayTeamName": "Blackburn", 
+            "date": "2011-04-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "5.5", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2011-04-16", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.25", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2011-04-16", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-04-16", 
+    "time_start": "2011-04-16"
+}

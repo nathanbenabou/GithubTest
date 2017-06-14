@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "3.3", 
+            "B365H": "1.62", 
+            "awayTeamName": "Academica", 
+            "date": "2011-02-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-02-25", 
+    "time_start": "2011-02-25"
+}

@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.76", 
+            "B365D": "3.21", 
+            "B365H": "2.23", 
+            "awayTeamName": "Nacional", 
+            "date": "2016-08-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "21.14", 
+            "B365D": "7.56", 
+            "B365H": "1.18", 
+            "awayTeamName": "Setubal", 
+            "date": "2016-08-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.66", 
+            "B365D": "3.13", 
+            "B365H": "2.31", 
+            "awayTeamName": "Moreirense", 
+            "date": "2016-08-21", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Feirense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-08-21", 
+    "time_start": "2016-08-21"
+}

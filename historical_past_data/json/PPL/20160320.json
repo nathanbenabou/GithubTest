@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.07", 
+            "B365D": "3.3", 
+            "B365H": "2.52", 
+            "awayTeamName": "Estoril", 
+            "date": "2016-03-20", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.29", 
+            "B365D": "5.5", 
+            "B365H": "15.1", 
+            "awayTeamName": "Benfica", 
+            "date": "2016-03-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.33", 
+            "B365D": "3.41", 
+            "B365H": "2.3", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2016-03-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.1", 
+            "B365D": "3.49", 
+            "B365H": "2.02", 
+            "awayTeamName": "Moreirense", 
+            "date": "2016-03-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "9.8", 
+            "B365D": "5.19", 
+            "B365H": "1.37", 
+            "awayTeamName": "Uniao Madeira", 
+            "date": "2016-03-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.47", 
+            "B365D": "3.31", 
+            "B365H": "3.15", 
+            "awayTeamName": "Belenenses", 
+            "date": "2016-03-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-03-20", 
+    "time_start": "2016-03-20"
+}

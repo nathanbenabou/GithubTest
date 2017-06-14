@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Marseille", 
+            "date": "2013-04-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.3", 
+            "B365H": "1.91", 
+            "awayTeamName": "Toulouse", 
+            "date": "2013-04-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.2", 
+            "B365H": "1.83", 
+            "awayTeamName": "Sochaux", 
+            "date": "2013-04-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-04-14", 
+    "time_start": "2013-04-14"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.57", 
+            "B365D": "4.09", 
+            "B365H": "6.65", 
+            "awayTeamName": "Benfica", 
+            "date": "2014-03-17", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-03-17", 
+    "time_start": "2014-03-17"
+}

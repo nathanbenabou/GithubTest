@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "1.85", 
+            "B365H": "0", 
+            "awayTeamName": "Hull", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Leicester", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "2.15", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "1.25", 
+            "B365H": "1", 
+            "awayTeamName": "Bournemouth", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "1.95", 
+            "B365H": "0", 
+            "awayTeamName": "Middlesbrough", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "2", 
+            "B365H": "0", 
+            "awayTeamName": "Burnley", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.6", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Watford", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.2", 
+            "B365H": "0", 
+            "awayTeamName": "Crystal Palace", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2017-03-04", 
+    "time_start": "2017-03-04"
+}

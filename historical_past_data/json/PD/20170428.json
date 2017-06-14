@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8", 
+            "B365D": "4.75", 
+            "B365H": "1.4", 
+            "awayTeamName": "Sp Gijon", 
+            "date": "2017-04-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-04-28", 
+    "time_start": "2017-04-28"
+}

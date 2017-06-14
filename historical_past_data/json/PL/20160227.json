@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.33", 
+            "B365D": "1.5", 
+            "B365H": "0", 
+            "awayTeamName": "Norwich", 
+            "date": "2016-02-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Leicester", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.8", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2016-02-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Southampton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "1.62", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2016-02-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.38", 
+            "B365H": "0", 
+            "awayTeamName": "Bournemouth", 
+            "date": "2016-02-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Watford", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "2.6", 
+            "B365H": "0", 
+            "awayTeamName": "Crystal Palace", 
+            "date": "2016-02-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "1.8", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2016-02-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-02-27", 
+    "time_start": "2016-02-27"
+}

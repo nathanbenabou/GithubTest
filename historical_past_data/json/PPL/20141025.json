@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.36", 
+            "B365D": "4.9", 
+            "B365H": "11.29", 
+            "awayTeamName": "Porto", 
+            "date": "2014-10-25", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.11", 
+            "B365D": "3.32", 
+            "B365H": "3.93", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2014-10-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.79", 
+            "B365D": "3.39", 
+            "B365H": "1.9", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2014-10-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-10-25", 
+    "time_start": "2014-10-25"
+}

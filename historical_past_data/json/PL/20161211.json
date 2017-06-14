@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.25", 
+            "B365D": "1.25", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2016-12-11", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "1.3", 
+            "B365H": "0", 
+            "awayTeamName": "West Ham", 
+            "date": "2016-12-11", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.2", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2016-12-11", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.7", 
+            "B365D": "1.7", 
+            "B365H": "0", 
+            "awayTeamName": "Middlesbrough", 
+            "date": "2016-12-11", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Southampton", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-12-11", 
+    "time_start": "2016-12-11"
+}

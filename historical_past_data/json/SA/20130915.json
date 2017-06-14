@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "4.33", 
+            "B365H": "1.44", 
+            "awayTeamName": "Cagliari", 
+            "date": "2013-09-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Fiorentina", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.75", 
+            "B365H": "1.67", 
+            "awayTeamName": "Chievo", 
+            "date": "2013-09-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lazio", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3.2", 
+            "B365H": "2.5", 
+            "awayTeamName": "Catania", 
+            "date": "2013-09-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Livorno", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.4", 
+            "awayTeamName": "Genoa", 
+            "date": "2013-09-15", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sampdoria", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.5", 
+            "B365H": "1.8", 
+            "awayTeamName": "Bologna", 
+            "date": "2013-09-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.2", 
+            "B365H": "2.25", 
+            "awayTeamName": "Sassuolo", 
+            "date": "2013-09-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Verona", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2013-09-15", 
+    "time_start": "2013-09-15"
+}

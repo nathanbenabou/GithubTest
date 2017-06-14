@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.75", 
+            "B365D": "1.36", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2012-09-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.4", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2012-09-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Southampton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3", 
+            "B365H": "0", 
+            "awayTeamName": "Everton", 
+            "date": "2012-09-22", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "1.73", 
+            "B365H": "0", 
+            "awayTeamName": "Reading", 
+            "date": "2012-09-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2012-09-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.4", 
+            "B365H": "0", 
+            "awayTeamName": "Fulham", 
+            "date": "2012-09-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wigan", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2012-09-22", 
+    "time_start": "2012-09-22"
+}

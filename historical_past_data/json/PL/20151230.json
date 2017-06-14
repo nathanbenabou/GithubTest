@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.9", 
+            "B365D": "5.5", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2015-12-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-12-30", 
+    "time_start": "2015-12-30"
+}

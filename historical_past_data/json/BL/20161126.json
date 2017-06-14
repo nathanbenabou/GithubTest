@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "10", 
+            "B365D": "6", 
+            "B365H": "1.29", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2016-11-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.65", 
+            "B365D": "4.2", 
+            "B365H": "4.75", 
+            "awayTeamName": "Dortmund", 
+            "date": "2016-11-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "3.5", 
+            "B365H": "1.75", 
+            "awayTeamName": "Augsburg", 
+            "date": "2016-11-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.4", 
+            "B365H": "2.38", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2016-11-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.3", 
+            "B365H": "2.9", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2016-11-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ingolstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.6", 
+            "B365H": "2", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2016-11-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-11-26", 
+    "time_start": "2016-11-26"
+}

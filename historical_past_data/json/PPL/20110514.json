@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.38", 
+            "B365D": "3.2", 
+            "B365H": "2.6", 
+            "awayTeamName": "Nacional", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "5", 
+            "B365H": "1.25", 
+            "awayTeamName": "Leiria", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.67", 
+            "B365D": "3.4", 
+            "B365H": "4.33", 
+            "awayTeamName": "Porto", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.91", 
+            "B365D": "3.2", 
+            "B365H": "3.5", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Naval", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.38", 
+            "B365D": "3.2", 
+            "B365H": "2.6", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.4", 
+            "B365H": "1.73", 
+            "awayTeamName": "Academica", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Portimonense", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.2", 
+            "B365H": "2.2", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-05-14", 
+    "time_start": "2011-05-14"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "4", 
+            "B365H": "1.57", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2010-08-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2010-08-20", 
+    "time_start": "2010-08-20"
+}

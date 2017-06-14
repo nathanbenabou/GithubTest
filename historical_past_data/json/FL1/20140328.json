@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.36", 
+            "B365D": "4.6", 
+            "B365H": "8.5", 
+            "awayTeamName": "Paris SG", 
+            "date": "2014-03-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-03-28", 
+    "time_start": "2014-03-28"
+}

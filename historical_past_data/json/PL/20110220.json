@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "1.85", 
+            "B365H": "0", 
+            "awayTeamName": "Wolves", 
+            "date": "2011-02-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-02-20", 
+    "time_start": "2011-02-20"
+}

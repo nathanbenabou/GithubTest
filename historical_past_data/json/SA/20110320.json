@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3", 
+            "B365H": "2.7", 
+            "awayTeamName": "Chievo", 
+            "date": "2011-03-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bari", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "2.8", 
+            "B365H": "2.6", 
+            "awayTeamName": "Genoa", 
+            "date": "2011-03-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bologna", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.1", 
+            "B365H": "2.45", 
+            "awayTeamName": "Roma", 
+            "date": "2011-03-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Fiorentina", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "5.75", 
+            "B365H": "1.25", 
+            "awayTeamName": "Lecce", 
+            "date": "2011-03-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Inter", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "Brescia", 
+            "date": "2011-03-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "3.6", 
+            "B365H": "1.57", 
+            "awayTeamName": "Cagliari", 
+            "date": "2011-03-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Napoli", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3", 
+            "B365H": "2.25", 
+            "awayTeamName": "Parma", 
+            "date": "2011-03-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sampdoria", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4", 
+            "B365H": "1.45", 
+            "awayTeamName": "Catania", 
+            "date": "2011-03-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2011-03-20", 
+    "time_start": "2011-03-20"
+}

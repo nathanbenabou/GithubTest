@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.2", 
+            "B365D": "3", 
+            "B365H": "3", 
+            "awayTeamName": "Benfica", 
+            "date": "2011-02-21", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-02-21", 
+    "time_start": "2011-02-21"
+}

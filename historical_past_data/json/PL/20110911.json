@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "1.67", 
+            "B365H": "0", 
+            "awayTeamName": "Blackburn", 
+            "date": "2011-09-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.5", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2011-09-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Norwich", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-09-11", 
+    "time_start": "2011-09-11"
+}

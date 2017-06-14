@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.25", 
+            "B365D": "2.9", 
+            "B365H": "2", 
+            "awayTeamName": "West Brom", 
+            "date": "2010-11-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Blackpool", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2010-11-01", 
+    "time_start": "2010-11-01"
+}

@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.88", 
+            "B365D": "3", 
+            "B365H": "2.25", 
+            "awayTeamName": "Beira Mar", 
+            "date": "2012-04-01", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Feirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.2", 
+            "B365H": "1.91", 
+            "awayTeamName": "Setubal", 
+            "date": "2012-04-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.25", 
+            "B365H": "1.8", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2012-04-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.73", 
+            "B365D": "3.2", 
+            "B365H": "4.33", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2012-04-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Leiria", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3", 
+            "B365H": "2", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2012-04-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-04-01", 
+    "time_start": "2012-04-01"
+}

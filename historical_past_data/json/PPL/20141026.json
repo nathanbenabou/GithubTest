@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.39", 
+            "B365D": "3.59", 
+            "B365H": "1.77", 
+            "awayTeamName": "Belenenses", 
+            "date": "2014-10-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.84", 
+            "B365D": "3.4", 
+            "B365H": "1.89", 
+            "awayTeamName": "Academica", 
+            "date": "2014-10-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.88", 
+            "B365D": "3.61", 
+            "B365H": "4.51", 
+            "awayTeamName": "Benfica", 
+            "date": "2014-10-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "9.14", 
+            "B365D": "4.72", 
+            "B365H": "1.41", 
+            "awayTeamName": "Maritimo", 
+            "date": "2014-10-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-10-26", 
+    "time_start": "2014-10-26"
+}

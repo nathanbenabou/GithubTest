@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.75", 
+            "B365D": "1.44", 
+            "B365H": "0", 
+            "awayTeamName": "West Ham", 
+            "date": "2013-01-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-01-23", 
+    "time_start": "2013-01-23"
+}

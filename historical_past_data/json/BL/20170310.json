@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "4.33", 
+            "B365H": "1.5", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2017-03-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2017-03-10", 
+    "time_start": "2017-03-10"
+}

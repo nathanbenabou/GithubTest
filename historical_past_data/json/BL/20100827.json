@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.44", 
+            "B365D": "4.33", 
+            "B365H": "7", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2010-08-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Kaiserslautern", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2010-08-27", 
+    "time_start": "2010-08-27"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.5", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "Granada", 
+            "date": "2014-09-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "Celta", 
+            "date": "2014-09-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.3", 
+            "B365H": "2", 
+            "awayTeamName": "Malaga", 
+            "date": "2014-09-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.25", 
+            "B365D": "6", 
+            "B365H": "9.5", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2014-09-20", 
+            "goalsAwayTeam": "8", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-09-20", 
+    "time_start": "2014-09-20"
+}

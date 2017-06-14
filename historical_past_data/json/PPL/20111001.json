@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "11", 
+            "B365D": "5.5", 
+            "B365H": "1.17", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2011-10-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-10-01", 
+    "time_start": "2011-10-01"
+}

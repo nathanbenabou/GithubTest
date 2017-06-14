@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.2", 
+            "B365D": "3.3", 
+            "B365H": "3.4", 
+            "awayTeamName": "Celta", 
+            "date": "2015-04-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Eibar", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.85", 
+            "B365D": "3.6", 
+            "B365H": "4.33", 
+            "awayTeamName": "Sevilla", 
+            "date": "2015-04-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.8", 
+            "B365H": "1.8", 
+            "awayTeamName": "Almeria", 
+            "date": "2015-04-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "5.25", 
+            "B365H": "1.3", 
+            "awayTeamName": "Cordoba", 
+            "date": "2015-04-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-04-19", 
+    "time_start": "2015-04-19"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.25", 
+            "B365D": "3.1", 
+            "B365H": "3.6", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2014-12-21", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.1", 
+            "B365H": "3.1", 
+            "awayTeamName": "Malaga", 
+            "date": "2014-12-21", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Elche", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.1", 
+            "B365H": "2.38", 
+            "awayTeamName": "Getafe", 
+            "date": "2014-12-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "5", 
+            "B365H": "1.33", 
+            "awayTeamName": "La Coruna", 
+            "date": "2014-12-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-12-21", 
+    "time_start": "2014-12-21"
+}

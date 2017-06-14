@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.1", 
+            "B365H": "2.7", 
+            "awayTeamName": "FC Koln", 
+            "date": "2017-02-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.4", 
+            "B365H": "2.5", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2017-02-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2017-02-12", 
+    "time_start": "2017-02-12"
+}

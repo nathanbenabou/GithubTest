@@ -1,0 +1,105 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "Hamburg", 
+            "date": "2016-05-14", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "26", 
+            "B365D": "11", 
+            "B365H": "1.08", 
+            "awayTeamName": "Hannover", 
+            "date": "2016-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3.75", 
+            "B365H": "3.5", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2016-05-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Darmstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "5.75", 
+            "B365H": "1.29", 
+            "awayTeamName": "FC Koln", 
+            "date": "2016-05-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.8", 
+            "B365H": "3.2", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2016-05-14", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "4.33", 
+            "B365H": "1.5", 
+            "awayTeamName": "Ingolstadt", 
+            "date": "2016-05-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.6", 
+            "B365H": "2.05", 
+            "awayTeamName": "Hertha", 
+            "date": "2016-05-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.75", 
+            "B365H": "2", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2016-05-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "4", 
+            "B365H": "2.3", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2016-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-05-14", 
+    "time_start": "2016-05-14"
+}

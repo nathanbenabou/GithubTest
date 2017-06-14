@@ -1,0 +1,116 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.75", 
+            "B365D": "3.5", 
+            "B365H": "4.75", 
+            "awayTeamName": "Sochaux", 
+            "date": "2011-05-29", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Arles", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.1", 
+            "B365D": "3.3", 
+            "B365H": "1.91", 
+            "awayTeamName": "Montpellier", 
+            "date": "2011-05-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.1", 
+            "B365D": "3.1", 
+            "B365H": "2", 
+            "awayTeamName": "Toulouse", 
+            "date": "2011-05-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Brest", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.25", 
+            "B365H": "2.1", 
+            "awayTeamName": "Marseille", 
+            "date": "2011-05-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Caen", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.6", 
+            "B365D": "3.4", 
+            "B365H": "1.8", 
+            "awayTeamName": "Rennes", 
+            "date": "2011-05-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3", 
+            "B365H": "2.4", 
+            "awayTeamName": "Auxerre", 
+            "date": "2011-05-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.2", 
+            "B365H": "3", 
+            "awayTeamName": "Lyon", 
+            "date": "2011-05-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "4.2", 
+            "B365H": "1.4", 
+            "awayTeamName": "Lens", 
+            "date": "2011-05-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.75", 
+            "B365D": "3.5", 
+            "B365H": "4.75", 
+            "awayTeamName": "Paris SG", 
+            "date": "2011-05-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.1", 
+            "B365H": "1.91", 
+            "awayTeamName": "Nice", 
+            "date": "2011-05-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2011-05-29", 
+    "time_start": "2011-05-29"
+}

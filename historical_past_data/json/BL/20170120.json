@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.22", 
+            "B365D": "6.5", 
+            "B365H": "13", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2017-01-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2017-01-20", 
+    "time_start": "2017-01-20"
+}

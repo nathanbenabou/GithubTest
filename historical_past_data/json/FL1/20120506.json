@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "3.3", 
+            "B365H": "2", 
+            "awayTeamName": "Ajaccio", 
+            "date": "2012-05-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "8.5", 
+            "B365D": "4.33", 
+            "B365H": "1.4", 
+            "awayTeamName": "Brest", 
+            "date": "2012-05-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.83", 
+            "B365D": "3.6", 
+            "B365H": "4.2", 
+            "awayTeamName": "Paris SG", 
+            "date": "2012-05-06", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-05-06", 
+    "time_start": "2012-05-06"
+}

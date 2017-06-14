@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "4", 
+            "B365H": "1.57", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2010-09-11", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.5", 
+            "B365H": "2.1", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2010-09-11", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.4", 
+            "B365H": "3.4", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2010-09-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "8.5", 
+            "B365D": "4.75", 
+            "B365H": "1.36", 
+            "awayTeamName": "Nurnberg", 
+            "date": "2010-09-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3.4", 
+            "B365H": "3.75", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2010-09-11", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2010-09-11", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2010-09-11", 
+    "time_start": "2010-09-11"
+}

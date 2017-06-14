@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "2.88", 
+            "B365H": "2.4", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2012-03-31", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Auxerre", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "3.6", 
+            "B365H": "1.57", 
+            "awayTeamName": "Dijon", 
+            "date": "2012-03-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.25", 
+            "B365H": "1.91", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2012-03-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.91", 
+            "B365D": "3.25", 
+            "B365H": "4.2", 
+            "awayTeamName": "Paris SG", 
+            "date": "2012-03-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.1", 
+            "B365H": "2", 
+            "awayTeamName": "Brest", 
+            "date": "2012-03-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.25", 
+            "B365H": "1.8", 
+            "awayTeamName": "Nice", 
+            "date": "2012-03-31", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-03-31", 
+    "time_start": "2012-03-31"
+}

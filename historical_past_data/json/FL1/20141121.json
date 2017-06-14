@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.44", 
+            "B365D": "4.2", 
+            "B365H": "7.5", 
+            "awayTeamName": "Paris SG", 
+            "date": "2014-11-21", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Metz", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-11-21", 
+    "time_start": "2014-11-21"
+}

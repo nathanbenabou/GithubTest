@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.1", 
+            "B365H": "2.6", 
+            "awayTeamName": "Rennes", 
+            "date": "2015-08-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4", 
+            "B365H": "1.57", 
+            "awayTeamName": "Caen", 
+            "date": "2015-08-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.4", 
+            "B365H": "1.83", 
+            "awayTeamName": "Angers", 
+            "date": "2015-08-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.1", 
+            "B365H": "2.2", 
+            "awayTeamName": "Guingamp", 
+            "date": "2015-08-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nantes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.1", 
+            "B365H": "4", 
+            "awayTeamName": "Monaco", 
+            "date": "2015-08-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.2", 
+            "B365H": "2.05", 
+            "awayTeamName": "Ajaccio GFCO", 
+            "date": "2015-08-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Troyes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-08-08", 
+    "time_start": "2015-08-08"
+}

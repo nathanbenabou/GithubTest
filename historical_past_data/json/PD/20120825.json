@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "3.6", 
+            "B365H": "1.7", 
+            "awayTeamName": "Vallecano", 
+            "date": "2012-08-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Betis", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "3.6", 
+            "B365H": "1.67", 
+            "awayTeamName": "Zaragoza", 
+            "date": "2012-08-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.5", 
+            "B365H": "1.91", 
+            "awayTeamName": "Mallorca", 
+            "date": "2012-08-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Celta", 
+            "date": "2012-08-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-08-25", 
+    "time_start": "2012-08-25"
+}

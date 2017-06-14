@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "4", 
+            "B365H": "1.67", 
+            "awayTeamName": "Hamburg", 
+            "date": "2015-09-11", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-09-11", 
+    "time_start": "2015-09-11"
+}

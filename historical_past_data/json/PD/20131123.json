@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.29", 
+            "B365D": "5.5", 
+            "B365H": "9.5", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2013-11-23", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Almeria", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "5.75", 
+            "B365H": "1.22", 
+            "awayTeamName": "Getafe", 
+            "date": "2013-11-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "7", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "17", 
+            "B365D": "8.5", 
+            "B365H": "1.13", 
+            "awayTeamName": "Granada", 
+            "date": "2013-11-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "3.6", 
+            "B365H": "1.67", 
+            "awayTeamName": "Celta", 
+            "date": "2013-11-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2013-11-23", 
+    "time_start": "2013-11-23"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.5", 
+            "B365D": "4.5", 
+            "B365H": "1.44", 
+            "awayTeamName": "Verona", 
+            "date": "2015-04-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Fiorentina", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2015-04-20", 
+    "time_start": "2015-04-20"
+}

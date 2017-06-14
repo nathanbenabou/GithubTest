@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "4", 
+            "B365H": "1.57", 
+            "awayTeamName": "Getafe", 
+            "date": "2011-10-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.5", 
+            "B365H": "1.83", 
+            "awayTeamName": "Mallorca", 
+            "date": "2011-10-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Vallecano", 
+            "date": "2011-10-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Santander", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "4.5", 
+            "B365H": "1.33", 
+            "awayTeamName": "Granada", 
+            "date": "2011-10-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.8", 
+            "B365H": "1.62", 
+            "awayTeamName": "Zaragoza", 
+            "date": "2011-10-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-10-01", 
+    "time_start": "2011-10-01"
+}

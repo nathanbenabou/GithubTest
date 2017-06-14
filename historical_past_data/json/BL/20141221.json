@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.88", 
+            "B365D": "3.4", 
+            "B365H": "2.45", 
+            "awayTeamName": "Hannover", 
+            "date": "2014-12-21", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.4", 
+            "B365H": "2.5", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2014-12-21", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-12-21", 
+    "time_start": "2014-12-21"
+}

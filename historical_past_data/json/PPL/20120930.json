@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "3", 
+            "B365H": "2", 
+            "awayTeamName": "Setubal", 
+            "date": "2012-09-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3", 
+            "B365H": "2.3", 
+            "awayTeamName": "Moreirense", 
+            "date": "2012-09-30", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3", 
+            "B365H": "2", 
+            "awayTeamName": "Academica", 
+            "date": "2012-09-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3", 
+            "B365H": "2.38", 
+            "awayTeamName": "Nacional", 
+            "date": "2012-09-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-09-30", 
+    "time_start": "2012-09-30"
+}

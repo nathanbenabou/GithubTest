@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.57", 
+            "B365D": "3.3", 
+            "B365H": "1.99", 
+            "awayTeamName": "Boavista", 
+            "date": "2016-03-11", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-03-11", 
+    "time_start": "2016-03-11"
+}

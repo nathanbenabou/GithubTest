@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.62", 
+            "B365D": "3.5", 
+            "B365H": "4.5", 
+            "awayTeamName": "Benfica", 
+            "date": "2011-08-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.1", 
+            "B365H": "2.88", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2011-08-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-08-29", 
+    "time_start": "2011-08-29"
+}

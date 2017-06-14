@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3.29", 
+            "B365H": "2.12", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2015-11-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-11-02", 
+    "time_start": "2015-11-02"
+}

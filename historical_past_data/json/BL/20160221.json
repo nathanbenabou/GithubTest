@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.75", 
+            "B365D": "3.3", 
+            "B365H": "2.63", 
+            "awayTeamName": "Augsburg", 
+            "date": "2016-02-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.5", 
+            "B365H": "3.4", 
+            "awayTeamName": "Dortmund", 
+            "date": "2016-02-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.75", 
+            "B365H": "2.15", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2016-02-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-02-21", 
+    "time_start": "2016-02-21"
+}

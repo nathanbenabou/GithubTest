@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "21", 
+            "B365D": "7", 
+            "B365H": "1.14", 
+            "awayTeamName": "Santander", 
+            "date": "2010-10-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.75", 
+            "B365H": "1.57", 
+            "awayTeamName": "Mallorca", 
+            "date": "2010-10-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.25", 
+            "B365D": "5.75", 
+            "B365H": "11", 
+            "awayTeamName": "Barcelona", 
+            "date": "2010-10-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Zaragoza", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2010-10-23", 
+    "time_start": "2010-10-23"
+}

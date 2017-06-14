@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "4", 
+            "B365H": "1.53", 
+            "awayTeamName": "Sp Gijon", 
+            "date": "2010-08-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2010-08-30", 
+    "time_start": "2010-08-30"
+}

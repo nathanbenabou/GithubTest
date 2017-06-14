@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.2", 
+            "B365D": "3.1", 
+            "B365H": "2.2", 
+            "awayTeamName": "Nacional", 
+            "date": "2013-04-07", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.87", 
+            "B365D": "3.2", 
+            "B365H": "2.37", 
+            "awayTeamName": "Academica", 
+            "date": "2013-04-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.1", 
+            "B365H": "2.1", 
+            "awayTeamName": "Beira Mar", 
+            "date": "2013-04-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.25", 
+            "B365D": "5", 
+            "B365H": "11", 
+            "awayTeamName": "Benfica", 
+            "date": "2013-04-07", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.4", 
+            "B365H": "1.8", 
+            "awayTeamName": "Setubal", 
+            "date": "2013-04-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-04-07", 
+    "time_start": "2013-04-07"
+}

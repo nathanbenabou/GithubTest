@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.42", 
+            "B365D": "4.49", 
+            "B365H": "9.64", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2014-10-04", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Penafiel", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-10-04", 
+    "time_start": "2014-10-04"
+}

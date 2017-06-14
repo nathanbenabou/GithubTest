@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.44", 
+            "B365D": "4", 
+            "B365H": "7", 
+            "awayTeamName": "Benfica", 
+            "date": "2011-08-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-08-12", 
+    "time_start": "2011-08-12"
+}

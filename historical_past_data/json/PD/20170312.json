@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.75", 
+            "B365D": "3.2", 
+            "B365H": "2.75", 
+            "awayTeamName": "Villarreal", 
+            "date": "2017-03-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Celta", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.22", 
+            "B365D": "6.5", 
+            "B365H": "13", 
+            "awayTeamName": "Barcelona", 
+            "date": "2017-03-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "21", 
+            "B365D": "9", 
+            "B365H": "1.13", 
+            "awayTeamName": "Betis", 
+            "date": "2017-03-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2017-03-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-03-12", 
+    "time_start": "2017-03-12"
+}

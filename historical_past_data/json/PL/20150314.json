@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "1.4", 
+            "B365H": "0", 
+            "awayTeamName": "West Ham", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "7.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Burnley", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "1.83", 
+            "B365H": "0", 
+            "awayTeamName": "QPR", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Crystal Palace", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.2", 
+            "B365H": "1", 
+            "awayTeamName": "Hull", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Leicester", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.38", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.38", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-03-14", 
+    "time_start": "2015-03-14"
+}

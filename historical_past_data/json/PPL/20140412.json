@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.86", 
+            "B365D": "3.11", 
+            "B365H": "2.79", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2014-04-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.53", 
+            "B365D": "3.36", 
+            "B365H": "2.23", 
+            "awayTeamName": "Maritimo", 
+            "date": "2014-04-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "6.18", 
+            "B365D": "3.58", 
+            "B365H": "1.69", 
+            "awayTeamName": "Olhanense", 
+            "date": "2014-04-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "14.5", 
+            "B365D": "5.95", 
+            "B365H": "1.26", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2014-04-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-04-12", 
+    "time_start": "2014-04-12"
+}

@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2011-09-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.3", 
+            "B365H": "1.85", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2011-09-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3", 
+            "B365H": "2.6", 
+            "awayTeamName": "Toulouse", 
+            "date": "2011-09-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Caen", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.8", 
+            "B365D": "3.4", 
+            "B365H": "4.75", 
+            "awayTeamName": "Lyon", 
+            "date": "2011-09-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Dijon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.5", 
+            "B365H": "1.73", 
+            "awayTeamName": "Rennes", 
+            "date": "2011-09-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.2", 
+            "B365H": "2.25", 
+            "awayTeamName": "Lorient", 
+            "date": "2011-09-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.1", 
+            "B365H": "3.1", 
+            "awayTeamName": "Lille", 
+            "date": "2011-09-10", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2011-09-10", 
+    "time_start": "2011-09-10"
+}

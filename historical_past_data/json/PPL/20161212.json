@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.87", 
+            "B365D": "3.04", 
+            "B365H": "2.87", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2016-12-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-12-12", 
+    "time_start": "2016-12-12"
+}

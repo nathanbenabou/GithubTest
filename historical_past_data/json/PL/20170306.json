@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.1", 
+            "B365D": "6", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2017-03-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2017-03-06", 
+    "time_start": "2017-03-06"
+}

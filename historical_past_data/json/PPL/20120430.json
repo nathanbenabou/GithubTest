@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "4", 
+            "B365H": "1.36", 
+            "awayTeamName": "Academica", 
+            "date": "2012-04-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-04-30", 
+    "time_start": "2012-04-30"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "3.6", 
+            "B365H": "1.91", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2014-03-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.75", 
+            "B365H": "1.75", 
+            "awayTeamName": "Hamburg", 
+            "date": "2014-03-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-03-30", 
+    "time_start": "2014-03-30"
+}

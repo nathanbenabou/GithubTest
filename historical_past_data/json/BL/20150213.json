@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "9.5", 
+            "B365D": "5.25", 
+            "B365H": "1.33", 
+            "awayTeamName": "Mainz", 
+            "date": "2015-02-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-02-13", 
+    "time_start": "2015-02-13"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.33", 
+            "B365D": "4.6", 
+            "B365H": "10", 
+            "awayTeamName": "Paris SG", 
+            "date": "2014-10-17", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lens", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-10-17", 
+    "time_start": "2014-10-17"
+}

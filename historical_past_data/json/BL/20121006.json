@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "17", 
+            "B365D": "7.5", 
+            "B365H": "1.14", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2012-10-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.5", 
+            "B365H": "2.1", 
+            "awayTeamName": "Nurnberg", 
+            "date": "2012-10-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.4", 
+            "B365H": "2.7", 
+            "awayTeamName": "Hamburg", 
+            "date": "2012-10-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Greuther Furth", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.5", 
+            "B365H": "1.83", 
+            "awayTeamName": "Fortuna Dusseldorf", 
+            "date": "2012-10-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2012-10-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-10-06", 
+    "time_start": "2012-10-06"
+}

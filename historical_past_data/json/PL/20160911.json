@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "5.75", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2016-09-11", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-09-11", 
+    "time_start": "2016-09-11"
+}

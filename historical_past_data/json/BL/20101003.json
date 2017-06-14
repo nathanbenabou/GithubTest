@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.7", 
+            "B365D": "3.3", 
+            "B365H": "2.55", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2010-10-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2010-10-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.9", 
+            "B365D": "3.5", 
+            "B365H": "1.91", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2010-10-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2010-10-03", 
+    "time_start": "2010-10-03"
+}

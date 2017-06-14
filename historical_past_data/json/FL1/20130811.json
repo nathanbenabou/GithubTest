@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.2", 
+            "B365D": "3.2", 
+            "B365H": "3.4", 
+            "awayTeamName": "St Etienne", 
+            "date": "2013-08-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.2", 
+            "B365H": "3.4", 
+            "awayTeamName": "Marseille", 
+            "date": "2013-08-11", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-08-11", 
+    "time_start": "2013-08-11"
+}

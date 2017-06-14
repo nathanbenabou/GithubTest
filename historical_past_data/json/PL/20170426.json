@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.5", 
+            "B365D": "1.6", 
+            "B365H": "0", 
+            "awayTeamName": "Leicester", 
+            "date": "2017-04-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "5.5", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2017-04-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Crystal Palace", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.3", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2017-04-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Middlesbrough", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2017-04-26", 
+    "time_start": "2017-04-26"
+}

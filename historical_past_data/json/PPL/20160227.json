@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.04", 
+            "B365D": "3.51", 
+            "B365H": "4", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2016-02-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.15", 
+            "B365H": "2.85", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2016-02-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.43", 
+            "B365H": "2.14", 
+            "awayTeamName": "Setubal", 
+            "date": "2016-02-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-02-27", 
+    "time_start": "2016-02-27"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "23", 
+            "B365D": "8.5", 
+            "B365H": "1.13", 
+            "awayTeamName": "Guingamp", 
+            "date": "2015-05-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-05-08", 
+    "time_start": "2015-05-08"
+}

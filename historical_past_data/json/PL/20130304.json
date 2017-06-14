@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.5", 
+            "B365D": "7.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2013-03-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-03-04", 
+    "time_start": "2013-03-04"
+}

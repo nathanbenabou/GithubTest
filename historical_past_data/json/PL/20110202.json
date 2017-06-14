@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "4.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2011-02-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Birmingham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.25", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2011-02-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Blackburn", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.38", 
+            "B365H": "0", 
+            "awayTeamName": "West Ham", 
+            "date": "2011-02-02", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Blackpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "1.83", 
+            "B365H": "0", 
+            "awayTeamName": "Wolves", 
+            "date": "2011-02-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bolton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2011-02-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "1.62", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2011-02-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-02-02", 
+    "time_start": "2011-02-02"
+}

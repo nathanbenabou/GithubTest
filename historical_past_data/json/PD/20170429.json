@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.18", 
+            "B365D": "7.5", 
+            "B365H": "15", 
+            "awayTeamName": "Barcelona", 
+            "date": "2017-04-29", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.73", 
+            "B365D": "3.6", 
+            "B365H": "5.25", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2017-04-29", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Las Palmas", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "9", 
+            "B365H": "1.17", 
+            "awayTeamName": "Valencia", 
+            "date": "2017-04-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "17", 
+            "B365D": "7.5", 
+            "B365H": "1.17", 
+            "awayTeamName": "Granada", 
+            "date": "2017-04-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-04-29", 
+    "time_start": "2017-04-29"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "29", 
+            "B365D": "11", 
+            "B365H": "1.08", 
+            "awayTeamName": "Hamburg", 
+            "date": "2015-08-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-08-14", 
+    "time_start": "2015-08-14"
+}

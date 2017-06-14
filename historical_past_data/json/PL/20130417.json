@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "4.75", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2013-04-17", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "1.25", 
+            "B365H": "0", 
+            "awayTeamName": "Wigan", 
+            "date": "2013-04-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Man City", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.9", 
+            "B365D": "5.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2013-04-17", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-04-17", 
+    "time_start": "2013-04-17"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "9", 
+            "B365D": "4.8", 
+            "B365H": "1.36", 
+            "awayTeamName": "Lorient", 
+            "date": "2015-04-24", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-04-24", 
+    "time_start": "2015-04-24"
+}

@@ -1,0 +1,105 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.5", 
+            "B365D": "4.6", 
+            "B365H": "6", 
+            "awayTeamName": "Dortmund", 
+            "date": "2017-05-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.15", 
+            "B365D": "3.4", 
+            "B365H": "3.5", 
+            "awayTeamName": "Hertha", 
+            "date": "2017-05-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Darmstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3.5", 
+            "B365H": "2.38", 
+            "awayTeamName": "Ingolstadt", 
+            "date": "2017-05-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.5", 
+            "B365H": "2.1", 
+            "awayTeamName": "FC Koln", 
+            "date": "2017-05-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.8", 
+            "B365H": "1.7", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2017-05-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.95", 
+            "B365D": "3.7", 
+            "B365H": "3.75", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2017-05-13", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "RB Leipzig", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.75", 
+            "B365H": "2.05", 
+            "awayTeamName": "Hamburg", 
+            "date": "2017-05-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.55", 
+            "B365D": "3.6", 
+            "B365H": "2.63", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2017-05-13", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.6", 
+            "B365H": "1.95", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2017-05-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2017-05-13", 
+    "time_start": "2017-05-13"
+}

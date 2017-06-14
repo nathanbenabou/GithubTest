@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3", 
+            "B365D": "3.25", 
+            "B365H": "2.45", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2016-10-21", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-10-21", 
+    "time_start": "2016-10-21"
+}

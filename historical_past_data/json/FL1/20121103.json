@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.1", 
+            "B365D": "3.2", 
+            "B365H": "3.6", 
+            "awayTeamName": "Lille", 
+            "date": "2012-11-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Nancy", 
+            "date": "2012-11-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "St Etienne", 
+            "date": "2012-11-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.6", 
+            "B365H": "1.62", 
+            "awayTeamName": "Reims", 
+            "date": "2012-11-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.15", 
+            "B365D": "3.2", 
+            "B365H": "3.5", 
+            "awayTeamName": "Montpellier", 
+            "date": "2012-11-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Troyes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.75", 
+            "B365H": "1.57", 
+            "awayTeamName": "Sochaux", 
+            "date": "2012-11-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-11-03", 
+    "time_start": "2012-11-03"
+}

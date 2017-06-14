@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2013-04-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-04-08", 
+    "time_start": "2013-04-08"
+}

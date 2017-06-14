@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.2", 
+            "B365D": "3.1", 
+            "B365H": "3.5", 
+            "awayTeamName": "St Etienne", 
+            "date": "2014-02-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "3.5", 
+            "B365H": "1.7", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2014-02-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Nice", 
+            "date": "2014-02-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.4", 
+            "B365H": "1.75", 
+            "awayTeamName": "Lorient", 
+            "date": "2014-02-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4", 
+            "B365H": "1.44", 
+            "awayTeamName": "Ajaccio", 
+            "date": "2014-02-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Sochaux", 
+            "date": "2014-02-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-02-22", 
+    "time_start": "2014-02-22"
+}

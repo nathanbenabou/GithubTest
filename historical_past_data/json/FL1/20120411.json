@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.4", 
+            "B365D": "3.25", 
+            "B365H": "3", 
+            "awayTeamName": "Montpellier", 
+            "date": "2012-04-11", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-04-11", 
+    "time_start": "2012-04-11"
+}

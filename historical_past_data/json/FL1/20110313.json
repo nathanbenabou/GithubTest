@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.75", 
+            "B365D": "3.25", 
+            "B365H": "1.83", 
+            "awayTeamName": "Monaco", 
+            "date": "2011-03-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4", 
+            "B365H": "1.44", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2011-03-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.4", 
+            "B365H": "1.7", 
+            "awayTeamName": "Montpellier", 
+            "date": "2011-03-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2011-03-13", 
+    "time_start": "2011-03-13"
+}

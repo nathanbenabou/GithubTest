@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.2", 
+            "B365H": "2.25", 
+            "awayTeamName": "Nacional", 
+            "date": "2012-11-10", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-11-10", 
+    "time_start": "2012-11-10"
+}

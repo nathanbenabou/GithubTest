@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "3.8", 
+            "B365H": "1.62", 
+            "awayTeamName": "Troyes", 
+            "date": "2016-02-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.5", 
+            "B365H": "1.75", 
+            "awayTeamName": "Caen", 
+            "date": "2016-02-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.75", 
+            "B365H": "1.67", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2016-02-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.3", 
+            "B365H": "1.91", 
+            "awayTeamName": "Ajaccio GFCO", 
+            "date": "2016-02-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Nantes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.25", 
+            "B365H": "2.2", 
+            "awayTeamName": "Toulouse", 
+            "date": "2016-02-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "21", 
+            "B365D": "6.5", 
+            "B365H": "1.18", 
+            "awayTeamName": "Lorient", 
+            "date": "2016-02-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3", 
+            "B365H": "2.4", 
+            "awayTeamName": "Angers", 
+            "date": "2016-02-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2016-02-03", 
+    "time_start": "2016-02-03"
+}

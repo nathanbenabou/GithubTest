@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "3.6", 
+            "B365H": "1.91", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2011-02-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2011-02-18", 
+    "time_start": "2011-02-18"
+}

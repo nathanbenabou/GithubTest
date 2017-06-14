@@ -1,0 +1,116 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.25", 
+            "B365D": "3.5", 
+            "B365H": "3", 
+            "awayTeamName": "Sevilla", 
+            "date": "2011-05-21", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.4", 
+            "B365H": "2.2", 
+            "awayTeamName": "Sp Gijon", 
+            "date": "2011-05-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hercules", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "Valencia", 
+            "date": "2011-05-21", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.53", 
+            "B365D": "4.33", 
+            "B365H": "5.5", 
+            "awayTeamName": "Zaragoza", 
+            "date": "2011-05-21", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.5", 
+            "B365H": "3.25", 
+            "awayTeamName": "Barcelona", 
+            "date": "2011-05-21", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.75", 
+            "B365H": "2.5", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2011-05-21", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Mallorca", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5.75", 
+            "B365D": "3", 
+            "B365H": "1.8", 
+            "awayTeamName": "Villarreal", 
+            "date": "2011-05-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "17", 
+            "B365D": "8.5", 
+            "B365H": "1.13", 
+            "awayTeamName": "Almeria", 
+            "date": "2011-05-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "8", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.25", 
+            "B365D": "3.5", 
+            "B365H": "3", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2011-05-21", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Santander", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.25", 
+            "B365H": "2.38", 
+            "awayTeamName": "Getafe", 
+            "date": "2011-05-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-05-21", 
+    "time_start": "2011-05-21"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "1.2", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2014-04-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Man City", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-04-21", 
+    "time_start": "2014-04-21"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.25", 
+            "B365D": "4", 
+            "B365H": "1.62", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2013-12-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-12-13", 
+    "time_start": "2013-12-13"
+}

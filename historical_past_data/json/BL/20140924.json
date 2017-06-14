@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.5", 
+            "B365D": "5", 
+            "B365H": "1.36", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2014-09-24", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.4", 
+            "B365H": "2.15", 
+            "awayTeamName": "FC Koln", 
+            "date": "2014-09-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.25", 
+            "B365D": "3.5", 
+            "B365H": "3", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2014-09-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "4.2", 
+            "B365H": "1.57", 
+            "awayTeamName": "Augsburg", 
+            "date": "2014-09-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "4", 
+            "B365H": "1.65", 
+            "awayTeamName": "Hamburg", 
+            "date": "2014-09-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-09-24", 
+    "time_start": "2014-09-24"
+}

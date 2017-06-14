@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "19", 
+            "B365D": "9", 
+            "B365H": "1.13", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2015-02-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.85", 
+            "B365D": "4", 
+            "B365H": "3.8", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2015-02-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.4", 
+            "B365H": "2.25", 
+            "awayTeamName": "Mainz", 
+            "date": "2015-02-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4.33", 
+            "B365H": "1.53", 
+            "awayTeamName": "Freiburg", 
+            "date": "2015-02-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-02-03", 
+    "time_start": "2015-02-03"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "", 
+            "B365D": "", 
+            "B365H": "", 
+            "awayTeamName": "Porto", 
+            "date": "2015-02-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-02-23", 
+    "time_start": "2015-02-23"
+}

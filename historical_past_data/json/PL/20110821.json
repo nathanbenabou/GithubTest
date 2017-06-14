@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "4.75", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2011-08-21", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bolton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.6", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2011-08-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Norwich", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.38", 
+            "B365H": "0", 
+            "awayTeamName": "Fulham", 
+            "date": "2011-08-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Wolves", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-08-21", 
+    "time_start": "2011-08-21"
+}

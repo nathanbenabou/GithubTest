@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.25", 
+            "B365D": "3.3", 
+            "B365H": "3.3", 
+            "awayTeamName": "Inter", 
+            "date": "2015-04-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2015-04-28", 
+    "time_start": "2015-04-28"
+}

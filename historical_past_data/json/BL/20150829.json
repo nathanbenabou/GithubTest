@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Ingolstadt", 
+            "date": "2015-08-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "5.25", 
+            "B365H": "1.33", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2015-08-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.3", 
+            "B365H": "3", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2015-08-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Darmstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.5", 
+            "B365H": "1.83", 
+            "awayTeamName": "Hamburg", 
+            "date": "2015-08-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "Hannover", 
+            "date": "2015-08-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.6", 
+            "B365H": "1.95", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2015-08-29", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-08-29", 
+    "time_start": "2015-08-29"
+}

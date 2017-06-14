@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.1", 
+            "B365D": "3.1", 
+            "B365H": "2", 
+            "awayTeamName": "Brest", 
+            "date": "2011-04-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lens", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.75", 
+            "B365D": "3.6", 
+            "B365H": "1.62", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2011-04-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Monaco", 
+            "date": "2011-04-16", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.1", 
+            "B365H": "1.91", 
+            "awayTeamName": "Lorient", 
+            "date": "2011-04-16", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.1", 
+            "B365D": "3.2", 
+            "B365H": "1.95", 
+            "awayTeamName": "Caen", 
+            "date": "2011-04-16", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.1", 
+            "B365D": "3.2", 
+            "B365H": "1.95", 
+            "awayTeamName": "Nancy", 
+            "date": "2011-04-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.9", 
+            "B365D": "3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Auxerre", 
+            "date": "2011-04-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2011-04-16", 
+    "time_start": "2011-04-16"
+}

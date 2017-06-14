@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8.41", 
+            "B365D": "4.04", 
+            "B365H": "1.52", 
+            "awayTeamName": "Boavista", 
+            "date": "2017-04-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.38", 
+            "B365D": "3.2", 
+            "B365H": "3.42", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2017-04-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "24.75", 
+            "B365D": "9.91", 
+            "B365H": "1.13", 
+            "awayTeamName": "Feirense", 
+            "date": "2017-04-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-04-23", 
+    "time_start": "2017-04-23"
+}

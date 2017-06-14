@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.14", 
+            "B365D": "7.5", 
+            "B365H": "17", 
+            "awayTeamName": "Barcelona", 
+            "date": "2014-11-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Almeria", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.8", 
+            "B365H": "1.57", 
+            "awayTeamName": "Granada", 
+            "date": "2014-11-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Celta", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Elche", 
+            "date": "2014-11-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.75", 
+            "B365H": "1.57", 
+            "awayTeamName": "Eibar", 
+            "date": "2014-11-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "26", 
+            "B365D": "15", 
+            "B365H": "1.05", 
+            "awayTeamName": "Vallecano", 
+            "date": "2014-11-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-11-08", 
+    "time_start": "2014-11-08"
+}

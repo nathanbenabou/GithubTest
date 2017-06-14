@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "4", 
+            "B365H": "1.67", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2015-12-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-12-18", 
+    "time_start": "2015-12-18"
+}

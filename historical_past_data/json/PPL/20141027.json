@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.43", 
+            "B365D": "3.44", 
+            "B365H": "1.8", 
+            "awayTeamName": "Penafiel", 
+            "date": "2014-10-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-10-27", 
+    "time_start": "2014-10-27"
+}

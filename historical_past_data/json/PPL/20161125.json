@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.77", 
+            "B365D": "3.05", 
+            "B365H": "2.97", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2016-11-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-11-25", 
+    "time_start": "2016-11-25"
+}

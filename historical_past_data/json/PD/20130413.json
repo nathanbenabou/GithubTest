@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.3", 
+            "B365D": "3.3", 
+            "B365H": "3.1", 
+            "awayTeamName": "Valencia", 
+            "date": "2013-04-13", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.3", 
+            "B365H": "2.2", 
+            "awayTeamName": "La Coruna", 
+            "date": "2013-04-13", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Osasuna", 
+            "date": "2013-04-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.2", 
+            "B365H": "2.3", 
+            "awayTeamName": "Getafe", 
+            "date": "2013-04-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valladolid", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2013-04-13", 
+    "time_start": "2013-04-13"
+}

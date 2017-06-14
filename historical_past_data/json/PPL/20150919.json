@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.23", 
+            "B365D": "3.35", 
+            "B365H": "2.04", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2015-09-19", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.64", 
+            "B365D": "3.17", 
+            "B365H": "3.02", 
+            "awayTeamName": "Estoril", 
+            "date": "2015-09-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-09-19", 
+    "time_start": "2015-09-19"
+}

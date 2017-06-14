@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "3.1", 
+            "B365H": "2.1", 
+            "awayTeamName": "St Etienne", 
+            "date": "2011-04-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Auxerre", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "12", 
+            "B365D": "5", 
+            "B365H": "1.29", 
+            "awayTeamName": "Arles", 
+            "date": "2011-04-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.38", 
+            "B365D": "3", 
+            "B365H": "3.25", 
+            "awayTeamName": "Rennes", 
+            "date": "2011-04-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Brest", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.1", 
+            "B365H": "3.5", 
+            "awayTeamName": "Paris SG", 
+            "date": "2011-04-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Caen", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.3", 
+            "B365H": "1.85", 
+            "awayTeamName": "Sochaux", 
+            "date": "2011-04-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.2", 
+            "B365H": "3.75", 
+            "awayTeamName": "Lille", 
+            "date": "2011-04-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.25", 
+            "B365H": "1.91", 
+            "awayTeamName": "Nancy", 
+            "date": "2011-04-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2011-04-09", 
+    "time_start": "2011-04-09"
+}

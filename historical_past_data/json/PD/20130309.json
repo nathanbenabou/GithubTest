@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "19", 
+            "B365D": "9", 
+            "B365H": "1.11", 
+            "awayTeamName": "La Coruna", 
+            "date": "2013-03-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.3", 
+            "B365H": "3.1", 
+            "awayTeamName": "Sevilla", 
+            "date": "2013-03-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Mallorca", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.25", 
+            "B365H": "2.38", 
+            "awayTeamName": "Malaga", 
+            "date": "2013-03-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valladolid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Espanol", 
+            "date": "2013-03-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2013-03-09", 
+    "time_start": "2013-03-09"
+}

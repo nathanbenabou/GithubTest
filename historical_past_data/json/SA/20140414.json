@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.62", 
+            "B365D": "3.8", 
+            "B365H": "5.5", 
+            "awayTeamName": "Juventus", 
+            "date": "2014-04-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2014-04-14", 
+    "time_start": "2014-04-14"
+}

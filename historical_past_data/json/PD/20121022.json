@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "3.8", 
+            "B365H": "1.62", 
+            "awayTeamName": "Mallorca", 
+            "date": "2012-10-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-10-22", 
+    "time_start": "2012-10-22"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.13", 
+            "B365D": "3.35", 
+            "B365H": "2.46", 
+            "awayTeamName": "Benfica", 
+            "date": "2016-03-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-03-05", 
+    "time_start": "2016-03-05"
+}

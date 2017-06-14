@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "1.75", 
+            "B365H": "0", 
+            "awayTeamName": "Hull", 
+            "date": "2013-12-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-12-09", 
+    "time_start": "2013-12-09"
+}

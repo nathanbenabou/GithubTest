@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "10.33", 
+            "B365D": "5.19", 
+            "B365H": "1.35", 
+            "awayTeamName": "Belenenses", 
+            "date": "2013-08-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-08-26", 
+    "time_start": "2013-08-26"
+}

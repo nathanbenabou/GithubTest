@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Malaga", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.4", 
+            "B365H": "3.4", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "7", 
+            "B365H": "1.18", 
+            "awayTeamName": "Valladolid", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Osasuna", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2013-05-04", 
+    "time_start": "2013-05-04"
+}

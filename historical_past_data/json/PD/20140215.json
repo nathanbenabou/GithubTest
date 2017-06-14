@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "13", 
+            "B365D": "7", 
+            "B365H": "1.18", 
+            "awayTeamName": "Valladolid", 
+            "date": "2014-02-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "29", 
+            "B365D": "11", 
+            "B365H": "1.07", 
+            "awayTeamName": "Vallecano", 
+            "date": "2014-02-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.1", 
+            "B365H": "2.05", 
+            "awayTeamName": "Almeria", 
+            "date": "2014-02-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4", 
+            "B365H": "1.53", 
+            "awayTeamName": "Celta", 
+            "date": "2014-02-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-02-15", 
+    "time_start": "2014-02-15"
+}

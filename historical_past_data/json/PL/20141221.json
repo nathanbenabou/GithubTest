@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "2.8", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2014-12-21", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "2.05", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2014-12-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Newcastle", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-12-21", 
+    "time_start": "2014-12-21"
+}

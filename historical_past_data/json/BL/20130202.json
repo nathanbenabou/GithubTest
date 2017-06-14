@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.25", 
+            "B365D": "3.25", 
+            "B365H": "3.2", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2013-02-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Fortuna Dusseldorf", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.4", 
+            "B365H": "2.3", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2013-02-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3.3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Freiburg", 
+            "date": "2013-02-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.4", 
+            "B365D": "4.5", 
+            "B365H": "8", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2013-02-02", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "5", 
+            "B365H": "1.33", 
+            "awayTeamName": "Greuther Furth", 
+            "date": "2013-02-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.5", 
+            "B365H": "1.83", 
+            "awayTeamName": "Augsburg", 
+            "date": "2013-02-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-02-02", 
+    "time_start": "2013-02-02"
+}

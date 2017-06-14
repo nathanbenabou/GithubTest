@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.67", 
+            "B365D": "3.75", 
+            "B365H": "5.5", 
+            "awayTeamName": "Roma", 
+            "date": "2016-05-02", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Genoa", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "17", 
+            "B365D": "7.5", 
+            "B365H": "1.17", 
+            "awayTeamName": "Atalanta", 
+            "date": "2016-05-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Napoli", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-05-02", 
+    "time_start": "2016-05-02"
+}

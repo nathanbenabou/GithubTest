@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.07", 
+            "B365D": "3.68", 
+            "B365H": "1.7", 
+            "awayTeamName": "Setubal", 
+            "date": "2016-12-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.77", 
+            "B365D": "3.56", 
+            "B365H": "1.87", 
+            "awayTeamName": "Nacional", 
+            "date": "2016-12-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "10.57", 
+            "B365D": "4.74", 
+            "B365H": "1.39", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2016-12-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.13", 
+            "B365D": "3.23", 
+            "B365H": "2.52", 
+            "awayTeamName": "Boavista", 
+            "date": "2016-12-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-12-18", 
+    "time_start": "2016-12-18"
+}

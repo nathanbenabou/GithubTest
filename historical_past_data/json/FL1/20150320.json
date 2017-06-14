@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "12", 
+            "B365D": "6", 
+            "B365H": "1.25", 
+            "awayTeamName": "Lorient", 
+            "date": "2015-03-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-03-20", 
+    "time_start": "2015-03-20"
+}

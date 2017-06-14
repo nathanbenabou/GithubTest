@@ -1,0 +1,105 @@
+{
+    "league_scores": [
+        {
+            "B365A": "13", 
+            "B365D": "7", 
+            "B365H": "1.2", 
+            "awayTeamName": "Mainz", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "5.75", 
+            "B365H": "1.29", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.67", 
+            "B365D": "4.33", 
+            "B365H": "4.5", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.91", 
+            "B365D": "3.8", 
+            "B365H": "3.8", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.6", 
+            "B365H": "2.4", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.6", 
+            "B365H": "1.95", 
+            "awayTeamName": "Freiburg", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.9", 
+            "B365D": "3.75", 
+            "B365H": "1.91", 
+            "awayTeamName": "Hertha", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "4.5", 
+            "B365H": "1.55", 
+            "awayTeamName": "Augsburg", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.8", 
+            "B365H": "3.4", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Paderborn", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-05-23", 
+    "time_start": "2015-05-23"
+}

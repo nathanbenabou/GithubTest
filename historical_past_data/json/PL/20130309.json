@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.5", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2013-03-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Norwich", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.25", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2013-03-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "QPR", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.45", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2013-03-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Reading", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.45", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2013-03-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-03-09", 
+    "time_start": "2013-03-09"
+}

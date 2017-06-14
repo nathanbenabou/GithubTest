@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "3.8", 
+            "B365H": "1.57", 
+            "awayTeamName": "Espanol", 
+            "date": "2014-02-16", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.29", 
+            "B365D": "5.25", 
+            "B365H": "10", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2014-02-16", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.2", 
+            "B365H": "2.1", 
+            "awayTeamName": "Betis", 
+            "date": "2014-02-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.6", 
+            "B365H": "2", 
+            "awayTeamName": "Valencia", 
+            "date": "2014-02-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-02-16", 
+    "time_start": "2014-02-16"
+}

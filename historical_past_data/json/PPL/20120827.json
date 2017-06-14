@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8", 
+            "B365D": "3.8", 
+            "B365H": "1.36", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2012-08-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-08-27", 
+    "time_start": "2012-08-27"
+}

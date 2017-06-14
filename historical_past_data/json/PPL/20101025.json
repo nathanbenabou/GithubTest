@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "12", 
+            "B365D": "5.5", 
+            "B365H": "1.17", 
+            "awayTeamName": "Leiria", 
+            "date": "2010-10-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2010-10-25", 
+    "time_start": "2010-10-25"
+}

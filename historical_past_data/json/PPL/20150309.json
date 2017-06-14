@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.23", 
+            "B365H": "2.51", 
+            "awayTeamName": "Nacional", 
+            "date": "2015-03-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "19.2", 
+            "B365D": "7.39", 
+            "B365H": "1.19", 
+            "awayTeamName": "Penafiel", 
+            "date": "2015-03-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-03-09", 
+    "time_start": "2015-03-09"
+}

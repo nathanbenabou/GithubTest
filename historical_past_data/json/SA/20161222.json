@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.4", 
+            "B365H": "2.5", 
+            "awayTeamName": "Sassuolo", 
+            "date": "2016-12-22", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Cagliari", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.5", 
+            "B365H": "3.5", 
+            "awayTeamName": "Napoli", 
+            "date": "2016-12-22", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Fiorentina", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Pescara", 
+            "date": "2016-12-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Palermo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "5.5", 
+            "B365H": "1.33", 
+            "awayTeamName": "Chievo", 
+            "date": "2016-12-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Roma", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.4", 
+            "B365H": "2.2", 
+            "awayTeamName": "Udinese", 
+            "date": "2016-12-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sampdoria", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.6", 
+            "B365H": "1.83", 
+            "awayTeamName": "Genoa", 
+            "date": "2016-12-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Torino", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-12-22", 
+    "time_start": "2016-12-22"
+}

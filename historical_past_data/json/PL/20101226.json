@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "3.2", 
+            "B365H": "1", 
+            "awayTeamName": "Tottenham", 
+            "date": "2010-12-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "2.3", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2010-12-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Blackburn", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2010-12-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bolton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "1.91", 
+            "B365H": "0", 
+            "awayTeamName": "West Ham", 
+            "date": "2010-12-26", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "1.29", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2010-12-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.25", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2010-12-26", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Newcastle", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Wigan", 
+            "date": "2010-12-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wolves", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2010-12-26", 
+    "time_start": "2010-12-26"
+}

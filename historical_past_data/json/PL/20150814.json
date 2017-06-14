@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "5.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2015-08-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-08-14", 
+    "time_start": "2015-08-14"
+}

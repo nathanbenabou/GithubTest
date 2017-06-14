@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "3.75", 
+            "B365H": "1.85", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2014-12-17", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.5", 
+            "B365H": "2.05", 
+            "awayTeamName": "Hertha", 
+            "date": "2014-12-17", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.75", 
+            "B365H": "3.25", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2014-12-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4.75", 
+            "B365H": "1.44", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2014-12-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.5", 
+            "B365H": "2.75", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2014-12-17", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Paderborn", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-12-17", 
+    "time_start": "2014-12-17"
+}

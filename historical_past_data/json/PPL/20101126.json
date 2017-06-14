@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3.2", 
+            "B365H": "2.5", 
+            "awayTeamName": "Academica", 
+            "date": "2010-11-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2010-11-26", 
+    "time_start": "2010-11-26"
+}

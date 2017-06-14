@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.93", 
+            "B365D": "3.43", 
+            "B365H": "4.5", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2014-12-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3.14", 
+            "B365H": "2.73", 
+            "awayTeamName": "Academica", 
+            "date": "2014-12-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "5.01", 
+            "B365D": "3.66", 
+            "B365H": "1.79", 
+            "awayTeamName": "Arouca", 
+            "date": "2014-12-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.11", 
+            "B365D": "3.31", 
+            "B365H": "3.94", 
+            "awayTeamName": "Nacional", 
+            "date": "2014-12-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Penafiel", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-12-13", 
+    "time_start": "2014-12-13"
+}

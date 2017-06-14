@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.3", 
+            "B365D": "3.5", 
+            "B365H": "2.9", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2012-10-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-10-05", 
+    "time_start": "2012-10-05"
+}

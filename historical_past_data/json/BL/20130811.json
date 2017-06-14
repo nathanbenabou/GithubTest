@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.4", 
+            "B365H": "2.4", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2013-08-11", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4.33", 
+            "B365H": "1.44", 
+            "awayTeamName": "Hamburg", 
+            "date": "2013-08-11", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-08-11", 
+    "time_start": "2013-08-11"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.9", 
+            "B365D": "3.5", 
+            "B365H": "2.3", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2013-11-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-11-22", 
+    "time_start": "2013-11-22"
+}

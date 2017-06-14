@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "3.8", 
+            "B365H": "1.57", 
+            "awayTeamName": "Montpellier", 
+            "date": "2015-11-27", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-11-27", 
+    "time_start": "2015-11-27"
+}

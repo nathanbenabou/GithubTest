@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.56", 
+            "B365D": "3.05", 
+            "B365H": "3.26", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2017-03-18", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.38", 
+            "B365D": "3.23", 
+            "B365H": "2.05", 
+            "awayTeamName": "Tondela", 
+            "date": "2017-03-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.32", 
+            "B365D": "5.4", 
+            "B365H": "11.77", 
+            "awayTeamName": "Benfica", 
+            "date": "2017-03-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "15.6", 
+            "B365D": "7.3", 
+            "B365H": "1.21", 
+            "awayTeamName": "Nacional", 
+            "date": "2017-03-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-03-18", 
+    "time_start": "2017-03-18"
+}

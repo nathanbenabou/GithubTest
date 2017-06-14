@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Betis", 
+            "date": "2011-09-18", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "Santander", 
+            "date": "2011-09-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.5", 
+            "B365H": "1.95", 
+            "awayTeamName": "Vallecano", 
+            "date": "2011-09-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.2", 
+            "B365D": "6.5", 
+            "B365H": "13", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2011-09-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.2", 
+            "B365H": "2.1", 
+            "awayTeamName": "Espanol", 
+            "date": "2011-09-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Zaragoza", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-09-18", 
+    "time_start": "2011-09-18"
+}

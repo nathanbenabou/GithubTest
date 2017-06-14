@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.2", 
+            "B365D": "3.5", 
+            "B365H": "1.81", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2014-03-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.88", 
+            "B365D": "3.51", 
+            "B365H": "4.69", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2014-03-22", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-03-22", 
+    "time_start": "2014-03-22"
+}

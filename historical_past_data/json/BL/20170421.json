@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.38", 
+            "B365D": "3.4", 
+            "B365H": "3", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2017-04-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2017-04-21", 
+    "time_start": "2017-04-21"
+}

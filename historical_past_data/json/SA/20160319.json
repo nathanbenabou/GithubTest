@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "3.75", 
+            "B365H": "1.7", 
+            "awayTeamName": "Palermo", 
+            "date": "2016-03-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Empoli", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.75", 
+            "B365H": "1.73", 
+            "awayTeamName": "Inter", 
+            "date": "2016-03-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Roma", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-03-19", 
+    "time_start": "2016-03-19"
+}

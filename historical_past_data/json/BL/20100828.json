@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.2", 
+            "B365D": "3.5", 
+            "B365H": "3.1", 
+            "awayTeamName": "Hamburg", 
+            "date": "2010-08-28", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Freiburg", 
+            "date": "2010-08-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "4.75", 
+            "B365H": "1.33", 
+            "awayTeamName": "Hannover", 
+            "date": "2010-08-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.4", 
+            "B365H": "3.2", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2010-08-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "St Pauli", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4.75", 
+            "B365H": "1.4", 
+            "awayTeamName": "FC Koln", 
+            "date": "2010-08-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "4", 
+            "B365H": "1.57", 
+            "awayTeamName": "Mainz", 
+            "date": "2010-08-28", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2010-08-28", 
+    "time_start": "2010-08-28"
+}

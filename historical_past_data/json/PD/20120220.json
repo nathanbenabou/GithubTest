@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.75", 
+            "B365D": "3.2", 
+            "B365H": "2.6", 
+            "awayTeamName": "Betis", 
+            "date": "2012-02-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Zaragoza", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-02-20", 
+    "time_start": "2012-02-20"
+}

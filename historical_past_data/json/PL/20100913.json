@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.25", 
+            "B365D": "2.5", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2010-09-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2010-09-13", 
+    "time_start": "2010-09-13"
+}

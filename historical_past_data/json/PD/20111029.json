@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "34", 
+            "B365D": "11", 
+            "B365H": "1.06", 
+            "awayTeamName": "Mallorca", 
+            "date": "2011-10-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.17", 
+            "B365D": "7", 
+            "B365H": "15", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2011-10-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4.33", 
+            "B365H": "1.44", 
+            "awayTeamName": "Getafe", 
+            "date": "2011-10-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Vallecano", 
+            "date": "2011-10-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-10-29", 
+    "time_start": "2011-10-29"
+}

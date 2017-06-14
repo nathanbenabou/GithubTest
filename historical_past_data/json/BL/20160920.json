@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.1", 
+            "B365D": "3.5", 
+            "B365H": "3.5", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2016-09-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Darmstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.4", 
+            "B365H": "2.3", 
+            "awayTeamName": "Hamburg", 
+            "date": "2016-09-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.25", 
+            "B365H": "2.25", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2016-09-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ingolstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.75", 
+            "B365D": "3.75", 
+            "B365H": "4.75", 
+            "awayTeamName": "Dortmund", 
+            "date": "2016-09-20", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-09-20", 
+    "time_start": "2016-09-20"
+}

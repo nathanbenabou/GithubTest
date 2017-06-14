@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.03", 
+            "B365D": "3.36", 
+            "B365H": "2.09", 
+            "awayTeamName": "Academica", 
+            "date": "2016-04-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.23", 
+            "B365D": "3.2", 
+            "B365H": "2.1", 
+            "awayTeamName": "Boavista", 
+            "date": "2016-04-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.22", 
+            "B365D": "3.37", 
+            "B365H": "2.39", 
+            "awayTeamName": "Nacional", 
+            "date": "2016-04-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-04-02", 
+    "time_start": "2016-04-02"
+}

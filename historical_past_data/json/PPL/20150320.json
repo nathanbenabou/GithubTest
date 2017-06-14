@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "10.17", 
+            "B365D": "4.71", 
+            "B365H": "1.39", 
+            "awayTeamName": "Academica", 
+            "date": "2015-03-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-03-20", 
+    "time_start": "2015-03-20"
+}

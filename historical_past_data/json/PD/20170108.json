@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.5", 
+            "B365D": "3.8", 
+            "B365H": "1.53", 
+            "awayTeamName": "Alaves", 
+            "date": "2017-01-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.25", 
+            "B365H": "2.1", 
+            "awayTeamName": "Leganes", 
+            "date": "2017-01-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Betis", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.6", 
+            "B365H": "1.85", 
+            "awayTeamName": "Malaga", 
+            "date": "2017-01-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Celta", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.53", 
+            "B365D": "4.33", 
+            "B365H": "6", 
+            "awayTeamName": "Barcelona", 
+            "date": "2017-01-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-01-08", 
+    "time_start": "2017-01-08"
+}

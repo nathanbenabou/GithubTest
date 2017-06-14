@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "4", 
+            "B365H": "1.5", 
+            "awayTeamName": "Parma", 
+            "date": "2013-02-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Milan", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2013-02-15", 
+    "time_start": "2013-02-15"
+}

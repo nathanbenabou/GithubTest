@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.1", 
+            "B365H": "2.63", 
+            "awayTeamName": "Toulouse", 
+            "date": "2012-10-20", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.2", 
+            "B365H": "1.91", 
+            "awayTeamName": "Sochaux", 
+            "date": "2012-10-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3.1", 
+            "B365H": "2.8", 
+            "awayTeamName": "St Etienne", 
+            "date": "2012-10-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "6.5", 
+            "B365H": "1.2", 
+            "awayTeamName": "Reims", 
+            "date": "2012-10-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.25", 
+            "B365H": "2.2", 
+            "awayTeamName": "Montpellier", 
+            "date": "2012-10-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.2", 
+            "B365H": "2.1", 
+            "awayTeamName": "Lorient", 
+            "date": "2012-10-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-10-20", 
+    "time_start": "2012-10-20"
+}

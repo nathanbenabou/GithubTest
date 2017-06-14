@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.2", 
+            "B365D": "2.5", 
+            "B365H": "1", 
+            "awayTeamName": "Hull", 
+            "date": "2014-01-28", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Crystal Palace", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.9", 
+            "B365D": "1.83", 
+            "B365H": "0", 
+            "awayTeamName": "Everton", 
+            "date": "2014-01-28", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "1.25", 
+            "B365H": "0", 
+            "awayTeamName": "Cardiff", 
+            "date": "2014-01-28", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.7", 
+            "B365H": "1", 
+            "awayTeamName": "Newcastle", 
+            "date": "2014-01-28", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Norwich", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "4.33", 
+            "B365H": "1", 
+            "awayTeamName": "Arsenal", 
+            "date": "2014-01-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Southampton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "1.75", 
+            "B365H": "0", 
+            "awayTeamName": "Fulham", 
+            "date": "2014-01-28", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-01-28", 
+    "time_start": "2014-01-28"
+}

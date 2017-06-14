@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "1.91", 
+            "B365H": "0", 
+            "awayTeamName": "Bolton", 
+            "date": "2012-04-24", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2012-04-24", 
+    "time_start": "2012-04-24"
+}

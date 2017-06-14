@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "3.2", 
+            "B365H": "1.91", 
+            "awayTeamName": "Naval", 
+            "date": "2010-10-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.44", 
+            "B365D": "3.6", 
+            "B365H": "6.5", 
+            "awayTeamName": "Benfica", 
+            "date": "2010-10-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Portimonense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4", 
+            "B365H": "1.36", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2010-10-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2010-10-24", 
+    "time_start": "2010-10-24"
+}

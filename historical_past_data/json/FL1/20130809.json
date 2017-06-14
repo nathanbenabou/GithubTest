@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.75", 
+            "B365D": "3.5", 
+            "B365H": "4.75", 
+            "awayTeamName": "Paris SG", 
+            "date": "2013-08-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-08-09", 
+    "time_start": "2013-08-09"
+}

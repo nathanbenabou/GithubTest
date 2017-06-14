@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "2.5", 
+            "B365H": "0", 
+            "awayTeamName": "Crystal Palace", 
+            "date": "2015-09-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Watford", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-09-27", 
+    "time_start": "2015-09-27"
+}

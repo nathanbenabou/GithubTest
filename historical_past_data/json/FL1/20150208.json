@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.25", 
+            "B365D": "3.1", 
+            "B365H": "3.5", 
+            "awayTeamName": "Monaco", 
+            "date": "2015-02-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.3", 
+            "B365H": "3.4", 
+            "awayTeamName": "Paris SG", 
+            "date": "2015-02-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.7", 
+            "B365D": "3.1", 
+            "B365H": "2.2", 
+            "awayTeamName": "Nantes", 
+            "date": "2015-02-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-02-08", 
+    "time_start": "2015-02-08"
+}

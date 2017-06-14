@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.4", 
+            "awayTeamName": "Napoli", 
+            "date": "2010-12-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Genoa", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.6", 
+            "B365H": "1.65", 
+            "awayTeamName": "Parma", 
+            "date": "2010-12-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Palermo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Fiorentina", 
+            "date": "2010-12-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2010-12-11", 
+    "time_start": "2010-12-11"
+}

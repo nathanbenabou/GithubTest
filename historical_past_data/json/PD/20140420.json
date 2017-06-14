@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.25", 
+            "B365H": "2.5", 
+            "awayTeamName": "Celta", 
+            "date": "2014-04-20", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Almeria", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "12", 
+            "B365D": "7", 
+            "B365H": "1.2", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2014-04-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Granada", 
+            "date": "2014-04-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Betis", 
+            "date": "2014-04-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-04-20", 
+    "time_start": "2014-04-20"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "2", 
+            "B365H": "0", 
+            "awayTeamName": "Burnley", 
+            "date": "2014-09-28", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-09-28", 
+    "time_start": "2014-09-28"
+}

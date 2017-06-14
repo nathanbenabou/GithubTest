@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.97", 
+            "B365D": "3.09", 
+            "B365H": "2.74", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2016-04-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.58", 
+            "B365D": "3.16", 
+            "B365H": "2.33", 
+            "awayTeamName": "Boavista", 
+            "date": "2016-04-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.27", 
+            "B365D": "5.9", 
+            "B365H": "14.3", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2016-04-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-04-16", 
+    "time_start": "2016-04-16"
+}

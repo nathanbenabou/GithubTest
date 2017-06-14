@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.4", 
+            "B365H": "2.25", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2014-10-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-10-03", 
+    "time_start": "2014-10-03"
+}

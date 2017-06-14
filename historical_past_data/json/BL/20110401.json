@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.15", 
+            "B365D": "3.25", 
+            "B365H": "3.4", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2011-04-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "St Pauli", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2011-04-01", 
+    "time_start": "2011-04-01"
+}

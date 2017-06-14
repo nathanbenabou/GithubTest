@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.45", 
+            "B365D": "3.13", 
+            "B365H": "2.41", 
+            "awayTeamName": "Arouca", 
+            "date": "2016-02-21", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "19.45", 
+            "B365D": "7.35", 
+            "B365H": "1.19", 
+            "awayTeamName": "Moreirense", 
+            "date": "2016-02-21", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.58", 
+            "B365D": "3.39", 
+            "B365H": "2.93", 
+            "awayTeamName": "Nacional", 
+            "date": "2016-02-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "6.23", 
+            "B365D": "4.24", 
+            "B365H": "1.59", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2016-02-21", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.56", 
+            "B365D": "3.31", 
+            "B365H": "3.01", 
+            "awayTeamName": "Maritimo", 
+            "date": "2016-02-21", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-02-21", 
+    "time_start": "2016-02-21"
+}

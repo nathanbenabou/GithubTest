@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "26", 
+            "B365D": "9", 
+            "B365H": "1.1", 
+            "awayTeamName": "Nurnberg", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3.4", 
+            "B365H": "2.63", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.6", 
+            "B365H": "1.91", 
+            "awayTeamName": "Hamburg", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.75", 
+            "B365H": "1.75", 
+            "awayTeamName": "Freiburg", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.8", 
+            "B365H": "1.67", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3.4", 
+            "B365H": "2.63", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-08-24", 
+    "time_start": "2013-08-24"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8", 
+            "B365D": "4", 
+            "B365H": "1.33", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2011-12-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-12-09", 
+    "time_start": "2011-12-09"
+}

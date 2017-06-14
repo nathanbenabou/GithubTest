@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.96", 
+            "B365D": "3.32", 
+            "B365H": "2.12", 
+            "awayTeamName": "Nacional", 
+            "date": "2017-01-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Chaves", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-01-23", 
+    "time_start": "2017-01-23"
+}

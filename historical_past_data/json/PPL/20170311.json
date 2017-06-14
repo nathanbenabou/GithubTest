@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.38", 
+            "B365D": "3.11", 
+            "B365H": "3.52", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2017-03-11", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Chaves", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.62", 
+            "B365D": "3.1", 
+            "B365H": "2.06", 
+            "awayTeamName": "Feirense", 
+            "date": "2017-03-11", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.42", 
+            "B365D": "4.81", 
+            "B365H": "8.95", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2017-03-11", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-03-11", 
+    "time_start": "2017-03-11"
+}

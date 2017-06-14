@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "29", 
+            "B365D": "11", 
+            "B365H": "1.06", 
+            "awayTeamName": "Vallecano", 
+            "date": "2011-11-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-11-29", 
+    "time_start": "2011-11-29"
+}

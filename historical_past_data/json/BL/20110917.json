@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.5", 
+            "B365H": "2.4", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2011-09-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.8", 
+            "B365H": "1.57", 
+            "awayTeamName": "Augsburg", 
+            "date": "2011-09-17", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.6", 
+            "B365H": "1.95", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2011-09-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.7", 
+            "B365D": "3.4", 
+            "B365H": "2.5", 
+            "awayTeamName": "Mainz", 
+            "date": "2011-09-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Kaiserslautern", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.6", 
+            "B365H": "1.4", 
+            "awayTeamName": "FC Koln", 
+            "date": "2011-09-17", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.5", 
+            "B365H": "2.63", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2011-09-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2011-09-17", 
+    "time_start": "2011-09-17"
+}

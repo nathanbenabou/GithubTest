@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "15", 
+            "B365D": "6.5", 
+            "B365H": "1.18", 
+            "awayTeamName": "Lorient", 
+            "date": "2013-11-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-11-01", 
+    "time_start": "2013-11-01"
+}

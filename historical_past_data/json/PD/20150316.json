@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "3.2", 
+            "B365H": "2.3", 
+            "awayTeamName": "Sociedad", 
+            "date": "2015-03-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-03-16", 
+    "time_start": "2015-03-16"
+}

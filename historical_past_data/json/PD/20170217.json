@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3.2", 
+            "B365H": "3", 
+            "awayTeamName": "Betis", 
+            "date": "2017-02-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-02-17", 
+    "time_start": "2017-02-17"
+}

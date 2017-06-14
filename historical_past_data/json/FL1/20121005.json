@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "3.5", 
+            "B365H": "1.62", 
+            "awayTeamName": "Nancy", 
+            "date": "2012-10-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-10-05", 
+    "time_start": "2012-10-05"
+}

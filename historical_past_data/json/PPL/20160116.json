@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.49", 
+            "B365D": "3.29", 
+            "B365H": "3.13", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2016-01-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.52", 
+            "B365D": "4.23", 
+            "B365H": "7.74", 
+            "awayTeamName": "Benfica", 
+            "date": "2016-01-16", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "5.22", 
+            "B365D": "4", 
+            "B365H": "1.71", 
+            "awayTeamName": "Uniao Madeira", 
+            "date": "2016-01-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-01-16", 
+    "time_start": "2016-01-16"
+}

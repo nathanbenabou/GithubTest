@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.5", 
+            "B365D": "3.37", 
+            "B365H": "1.96", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2015-01-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.12", 
+            "B365D": "3.32", 
+            "B365H": "3.89", 
+            "awayTeamName": "Estoril", 
+            "date": "2015-01-18", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.58", 
+            "B365D": "4.05", 
+            "B365H": "6.69", 
+            "awayTeamName": "Benfica", 
+            "date": "2015-01-18", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.22", 
+            "B365D": "3.28", 
+            "B365H": "2.05", 
+            "awayTeamName": "Arouca", 
+            "date": "2015-01-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.97", 
+            "B365D": "3.39", 
+            "B365H": "2.07", 
+            "awayTeamName": "Nacional", 
+            "date": "2015-01-18", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.87", 
+            "B365D": "3.55", 
+            "B365H": "4.69", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2015-01-18", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "8.58", 
+            "B365D": "4.7", 
+            "B365H": "1.43", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2015-01-18", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-01-18", 
+    "time_start": "2015-01-18"
+}

@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8.54", 
+            "B365D": "4.54", 
+            "B365H": "1.44", 
+            "awayTeamName": "Estoril", 
+            "date": "2014-03-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.81", 
+            "B365D": "3.07", 
+            "B365H": "2.86", 
+            "awayTeamName": "Belenenses", 
+            "date": "2014-03-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "5.27", 
+            "B365D": "3.62", 
+            "B365H": "1.77", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2014-03-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "18.63", 
+            "B365D": "7.44", 
+            "B365H": "1.19", 
+            "awayTeamName": "Arouca", 
+            "date": "2014-03-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.63", 
+            "B365D": "3.96", 
+            "B365H": "6.14", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2014-03-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-03-09", 
+    "time_start": "2014-03-09"
+}

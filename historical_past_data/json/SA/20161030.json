@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "3.2", 
+            "B365H": "2.3", 
+            "awayTeamName": "Genoa", 
+            "date": "2016-10-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Atalanta", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.2", 
+            "B365H": "3.5", 
+            "awayTeamName": "Chievo", 
+            "date": "2016-10-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Crotone", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.55", 
+            "B365D": "4.2", 
+            "B365H": "6", 
+            "awayTeamName": "Roma", 
+            "date": "2016-10-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Empoli", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.75", 
+            "B365H": "1.67", 
+            "awayTeamName": "Sassuolo", 
+            "date": "2016-10-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lazio", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.75", 
+            "B365H": "1.4", 
+            "awayTeamName": "Pescara", 
+            "date": "2016-10-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Milan", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.5", 
+            "B365H": "3.6", 
+            "awayTeamName": "Inter", 
+            "date": "2016-10-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sampdoria", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-10-30", 
+    "time_start": "2016-10-30"
+}

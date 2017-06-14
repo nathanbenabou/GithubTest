@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.38", 
+            "B365D": "4.83", 
+            "B365H": "9.96", 
+            "awayTeamName": "Benfica", 
+            "date": "2015-02-21", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.18", 
+            "B365D": "3.27", 
+            "B365H": "2.06", 
+            "awayTeamName": "Penafiel", 
+            "date": "2015-02-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "6.06", 
+            "B365D": "3.91", 
+            "B365H": "1.64", 
+            "awayTeamName": "Nacional", 
+            "date": "2015-02-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-02-21", 
+    "time_start": "2015-02-21"
+}

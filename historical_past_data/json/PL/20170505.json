@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.25", 
+            "B365D": "8.5", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2017-05-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2017-05-05", 
+    "time_start": "2017-05-05"
+}

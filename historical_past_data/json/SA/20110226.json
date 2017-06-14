@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.5", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "Bologna", 
+            "date": "2011-02-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2011-02-26", 
+    "time_start": "2011-02-26"
+}

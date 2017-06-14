@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3.3", 
+            "B365H": "2.75", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2012-04-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.8", 
+            "B365H": "1.67", 
+            "awayTeamName": "Hannover", 
+            "date": "2012-04-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-04-08", 
+    "time_start": "2012-04-08"
+}

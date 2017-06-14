@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.1", 
+            "B365D": "3.1", 
+            "B365H": "3.8", 
+            "awayTeamName": "Lille", 
+            "date": "2014-02-16", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "4.75", 
+            "B365H": "1.33", 
+            "awayTeamName": "Ajaccio", 
+            "date": "2014-02-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.3", 
+            "B365H": "2", 
+            "awayTeamName": "Marseille", 
+            "date": "2014-02-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-02-16", 
+    "time_start": "2014-02-16"
+}

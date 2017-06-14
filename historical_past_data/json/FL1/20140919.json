@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "3.8", 
+            "B365H": "1.53", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2014-09-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-09-19", 
+    "time_start": "2014-09-19"
+}

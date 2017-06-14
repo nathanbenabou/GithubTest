@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.84", 
+            "B365D": "3.29", 
+            "B365H": "2.15", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2015-04-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.83", 
+            "B365D": "3.35", 
+            "B365H": "2.13", 
+            "awayTeamName": "Maritimo", 
+            "date": "2015-04-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3.12", 
+            "B365H": "2.75", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2015-04-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-04-25", 
+    "time_start": "2015-04-25"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "6", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2014-01-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-01-13", 
+    "time_start": "2014-01-13"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.33", 
+            "B365D": "4", 
+            "B365H": "8", 
+            "awayTeamName": "Porto", 
+            "date": "2011-03-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Leiria", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-03-14", 
+    "time_start": "2011-03-14"
+}

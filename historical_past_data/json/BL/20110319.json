@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8.5", 
+            "B365D": "4.33", 
+            "B365H": "1.4", 
+            "awayTeamName": "Mainz", 
+            "date": "2011-03-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.7", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "St Pauli", 
+            "date": "2011-03-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.5", 
+            "B365D": "4.1", 
+            "B365H": "6.5", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2011-03-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.6", 
+            "B365H": "1.7", 
+            "awayTeamName": "FC Koln", 
+            "date": "2011-03-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.4", 
+            "B365H": "2.25", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2011-03-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.4", 
+            "B365H": "2.2", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2011-03-19", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2011-03-19", 
+    "time_start": "2011-03-19"
+}

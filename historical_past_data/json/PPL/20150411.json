@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "22.3", 
+            "B365D": "8.65", 
+            "B365H": "1.15", 
+            "awayTeamName": "Academica", 
+            "date": "2015-04-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.01", 
+            "B365D": "3.16", 
+            "B365H": "2.61", 
+            "awayTeamName": "Maritimo", 
+            "date": "2015-04-11", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3.17", 
+            "B365H": "3.04", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2015-04-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.35", 
+            "B365D": "5.08", 
+            "B365H": "10.61", 
+            "awayTeamName": "Porto", 
+            "date": "2015-04-11", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-04-11", 
+    "time_start": "2015-04-11"
+}

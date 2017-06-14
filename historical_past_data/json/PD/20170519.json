@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.73", 
+            "B365D": "4", 
+            "B365H": "4.5", 
+            "awayTeamName": "Espanol", 
+            "date": "2017-05-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-05-19", 
+    "time_start": "2017-05-19"
+}

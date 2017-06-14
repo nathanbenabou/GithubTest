@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.33", 
+            "B365D": "5.25", 
+            "B365H": "9", 
+            "awayTeamName": "Barcelona", 
+            "date": "2015-02-08", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.1", 
+            "B365H": "2.25", 
+            "awayTeamName": "Almeria", 
+            "date": "2015-02-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Cordoba", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.63", 
+            "B365D": "3.2", 
+            "B365H": "2.8", 
+            "awayTeamName": "Valencia", 
+            "date": "2015-02-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.3", 
+            "B365H": "3.8", 
+            "awayTeamName": "Sevilla", 
+            "date": "2015-02-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-02-08", 
+    "time_start": "2015-02-08"
+}

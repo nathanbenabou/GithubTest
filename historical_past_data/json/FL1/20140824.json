@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "4.33", 
+            "B365H": "1.44", 
+            "awayTeamName": "Lens", 
+            "date": "2014-08-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.3", 
+            "B365H": "3.5", 
+            "awayTeamName": "Monaco", 
+            "date": "2014-08-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nantes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.3", 
+            "B365H": "1.73", 
+            "awayTeamName": "Rennes", 
+            "date": "2014-08-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-08-24", 
+    "time_start": "2014-08-24"
+}

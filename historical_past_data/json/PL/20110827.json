@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.25", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Wolves", 
+            "date": "2011-08-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.3", 
+            "B365H": "0", 
+            "awayTeamName": "Everton", 
+            "date": "2011-08-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Blackburn", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "1.2", 
+            "B365H": "1", 
+            "awayTeamName": "Norwich", 
+            "date": "2011-08-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "1.4", 
+            "B365H": "0", 
+            "awayTeamName": "Bolton", 
+            "date": "2011-08-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.38", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2011-08-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.25", 
+            "B365H": "0", 
+            "awayTeamName": "QPR", 
+            "date": "2011-08-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Wigan", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-08-27", 
+    "time_start": "2011-08-27"
+}

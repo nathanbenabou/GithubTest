@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.88", 
+            "B365D": "3", 
+            "B365H": "2.25", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2012-09-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-09-21", 
+    "time_start": "2012-09-21"
+}

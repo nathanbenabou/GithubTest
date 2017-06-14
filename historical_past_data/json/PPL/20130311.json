@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.87", 
+            "B365D": "3.2", 
+            "B365H": "2.4", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2013-03-11", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-03-11", 
+    "time_start": "2013-03-11"
+}

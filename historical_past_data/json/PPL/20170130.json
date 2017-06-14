@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.35", 
+            "B365D": "5.32", 
+            "B365H": "10.47", 
+            "awayTeamName": "Benfica", 
+            "date": "2017-01-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-01-30", 
+    "time_start": "2017-01-30"
+}

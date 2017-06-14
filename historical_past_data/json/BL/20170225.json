@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "19", 
+            "B365D": "8.5", 
+            "B365H": "1.14", 
+            "awayTeamName": "Hamburg", 
+            "date": "2017-02-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "8", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3.25", 
+            "B365H": "2.8", 
+            "awayTeamName": "Augsburg", 
+            "date": "2017-02-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Darmstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.57", 
+            "B365D": "4.2", 
+            "B365H": "5.75", 
+            "awayTeamName": "Dortmund", 
+            "date": "2017-02-25", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.2", 
+            "B365H": "2.05", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2017-02-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.8", 
+            "B365H": "1.73", 
+            "awayTeamName": "Mainz", 
+            "date": "2017-02-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.75", 
+            "B365H": "1.67", 
+            "awayTeamName": "FC Koln", 
+            "date": "2017-02-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "RB Leipzig", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2017-02-25", 
+    "time_start": "2017-02-25"
+}

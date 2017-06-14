@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.25", 
+            "B365D": "5.5", 
+            "B365H": "13", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2013-08-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-08-27", 
+    "time_start": "2013-08-27"
+}

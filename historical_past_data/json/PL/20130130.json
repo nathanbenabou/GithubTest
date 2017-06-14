@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "2.4", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2013-01-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.1", 
+            "B365D": "1.6", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2013-01-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "2.2", 
+            "B365H": "0", 
+            "awayTeamName": "West Ham", 
+            "date": "2013-01-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "1.25", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2013-01-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "4.75", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2013-01-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Norwich", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "7.5", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2013-01-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Reading", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-01-30", 
+    "time_start": "2013-01-30"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Inter", 
+            "date": "2014-02-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Fiorentina", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2014-02-15", 
+    "time_start": "2014-02-15"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "11", 
+            "B365D": "5.75", 
+            "B365H": "1.25", 
+            "awayTeamName": "Villarreal", 
+            "date": "2011-08-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-08-29", 
+    "time_start": "2011-08-29"
+}

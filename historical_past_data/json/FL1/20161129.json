@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.62", 
+            "B365D": "4", 
+            "B365H": "5.5", 
+            "awayTeamName": "Monaco", 
+            "date": "2016-11-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Dijon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.4", 
+            "B365H": "1.8", 
+            "awayTeamName": "Caen", 
+            "date": "2016-11-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.25", 
+            "B365H": "2.38", 
+            "awayTeamName": "Rennes", 
+            "date": "2016-11-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2016-11-29", 
+    "time_start": "2016-11-29"
+}

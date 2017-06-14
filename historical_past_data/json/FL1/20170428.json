@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.2", 
+            "B365D": "3.4", 
+            "B365H": "3.3", 
+            "awayTeamName": "Lyon", 
+            "date": "2017-04-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Angers", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2017-04-28", 
+    "time_start": "2017-04-28"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "1.33", 
+            "B365H": "1", 
+            "awayTeamName": "Newcastle", 
+            "date": "2013-08-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Man City", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-08-19", 
+    "time_start": "2013-08-19"
+}

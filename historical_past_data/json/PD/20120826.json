@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.29", 
+            "B365D": "5.5", 
+            "B365H": "9.5", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2012-08-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.38", 
+            "B365D": "3.25", 
+            "B365H": "3", 
+            "awayTeamName": "Sevilla", 
+            "date": "2012-08-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.22", 
+            "B365D": "6", 
+            "B365H": "12", 
+            "awayTeamName": "Barcelona", 
+            "date": "2012-08-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "La Coruna", 
+            "date": "2012-08-26", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-08-26", 
+    "time_start": "2012-08-26"
+}

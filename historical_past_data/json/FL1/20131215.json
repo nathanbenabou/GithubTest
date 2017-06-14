@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "3.5", 
+            "B365H": "1.57", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2013-12-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "Bastia", 
+            "date": "2013-12-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.3", 
+            "B365H": "2", 
+            "awayTeamName": "Marseille", 
+            "date": "2013-12-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-12-15", 
+    "time_start": "2013-12-15"
+}

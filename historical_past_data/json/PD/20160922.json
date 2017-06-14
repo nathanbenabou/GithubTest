@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "3.25", 
+            "B365H": "2.15", 
+            "awayTeamName": "Leganes", 
+            "date": "2016-09-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3.2", 
+            "B365H": "2.88", 
+            "awayTeamName": "Espanol", 
+            "date": "2016-09-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.75", 
+            "B365H": "1.57", 
+            "awayTeamName": "Alaves", 
+            "date": "2016-09-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-09-22", 
+    "time_start": "2016-09-22"
+}

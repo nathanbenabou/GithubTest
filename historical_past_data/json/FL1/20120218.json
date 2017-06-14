@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.1", 
+            "B365H": "2.6", 
+            "awayTeamName": "Brest", 
+            "date": "2012-02-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.1", 
+            "B365H": "2.25", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2012-02-18", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Caen", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.2", 
+            "B365H": "2.38", 
+            "awayTeamName": "Nice", 
+            "date": "2012-02-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Dijon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.25", 
+            "B365D": "3.2", 
+            "B365H": "3.25", 
+            "awayTeamName": "Lille", 
+            "date": "2012-02-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4", 
+            "B365H": "1.44", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2012-02-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.2", 
+            "B365H": "2.5", 
+            "awayTeamName": "Toulouse", 
+            "date": "2012-02-18", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.4", 
+            "awayTeamName": "Auxerre", 
+            "date": "2012-02-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-02-18", 
+    "time_start": "2012-02-18"
+}

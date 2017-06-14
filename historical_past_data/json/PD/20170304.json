@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "23", 
+            "B365D": "8.5", 
+            "B365H": "1.13", 
+            "awayTeamName": "Celta", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.67", 
+            "B365D": "4", 
+            "B365H": "5", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Eibar", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.4", 
+            "B365H": "1.8", 
+            "awayTeamName": "Granada", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Leganes", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "3.6", 
+            "B365H": "1.73", 
+            "awayTeamName": "Espanol", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-03-04", 
+    "time_start": "2017-03-04"
+}

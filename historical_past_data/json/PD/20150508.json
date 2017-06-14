@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.7", 
+            "B365D": "3.1", 
+            "B365H": "2.8", 
+            "awayTeamName": "Espanol", 
+            "date": "2015-05-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Eibar", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-05-08", 
+    "time_start": "2015-05-08"
+}

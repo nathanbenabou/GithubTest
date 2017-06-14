@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "1.25", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2012-04-11", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Man City", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2012-04-11", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "QPR", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "9", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2012-04-11", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wigan", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "7", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2012-04-11", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Wolves", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2012-04-11", 
+    "time_start": "2012-04-11"
+}

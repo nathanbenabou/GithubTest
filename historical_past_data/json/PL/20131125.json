@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.15", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2013-11-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-11-25", 
+    "time_start": "2013-11-25"
+}

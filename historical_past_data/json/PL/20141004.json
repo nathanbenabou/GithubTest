@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.5", 
+            "B365D": "7.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2014-10-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Crystal Palace", 
+            "date": "2014-10-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hull", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "1.8", 
+            "B365H": "0", 
+            "awayTeamName": "Burnley", 
+            "date": "2014-10-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leicester", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "1.44", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2014-10-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.55", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2014-10-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.7", 
+            "B365D": "1.91", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2014-10-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-10-04", 
+    "time_start": "2014-10-04"
+}

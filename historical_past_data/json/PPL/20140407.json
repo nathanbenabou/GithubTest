@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "15.86", 
+            "B365D": "5.8", 
+            "B365H": "1.26", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2014-04-07", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-04-07", 
+    "time_start": "2014-04-07"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "9.5", 
+            "B365D": "4.75", 
+            "B365H": "1.33", 
+            "awayTeamName": "Ajaccio", 
+            "date": "2014-04-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-04-04", 
+    "time_start": "2014-04-04"
+}

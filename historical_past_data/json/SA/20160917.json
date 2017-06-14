@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "4.33", 
+            "B365H": "1.5", 
+            "awayTeamName": "Pescara", 
+            "date": "2016-09-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lazio", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "12", 
+            "B365D": "6", 
+            "B365H": "1.25", 
+            "awayTeamName": "Bologna", 
+            "date": "2016-09-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Napoli", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-09-17", 
+    "time_start": "2016-09-17"
+}

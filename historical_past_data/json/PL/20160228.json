@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "1.4", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2016-02-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2016-02-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-02-28", 
+    "time_start": "2016-02-28"
+}

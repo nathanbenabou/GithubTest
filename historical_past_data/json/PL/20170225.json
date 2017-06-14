@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "1.25", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2017-02-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Middlesbrough", 
+            "date": "2017-02-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Crystal Palace", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "1.4", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2017-02-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.15", 
+            "B365H": "1", 
+            "awayTeamName": "Burnley", 
+            "date": "2017-02-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hull", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.63", 
+            "B365H": "1", 
+            "awayTeamName": "West Ham", 
+            "date": "2017-02-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Watford", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Bournemouth", 
+            "date": "2017-02-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2017-02-25", 
+    "time_start": "2017-02-25"
+}

@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.65", 
+            "B365D": "3", 
+            "B365H": "2.9", 
+            "awayTeamName": "Montpellier", 
+            "date": "2016-02-20", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Angers", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.1", 
+            "B365H": "2.2", 
+            "awayTeamName": "Guingamp", 
+            "date": "2016-02-20", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "9.5", 
+            "B365D": "4.75", 
+            "B365H": "1.36", 
+            "awayTeamName": "Troyes", 
+            "date": "2016-02-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "17", 
+            "B365D": "7", 
+            "B365H": "1.18", 
+            "awayTeamName": "Reims", 
+            "date": "2016-02-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.3", 
+            "B365H": "1.8", 
+            "awayTeamName": "Ajaccio GFCO", 
+            "date": "2016-02-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2016-02-20", 
+    "time_start": "2016-02-20"
+}

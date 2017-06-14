@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.25", 
+            "B365D": "3.25", 
+            "B365H": "3.4", 
+            "awayTeamName": "Palermo", 
+            "date": "2015-03-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Cesena", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.85", 
+            "B365D": "3.4", 
+            "B365H": "4.75", 
+            "awayTeamName": "Roma", 
+            "date": "2015-03-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Chievo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.3", 
+            "B365H": "2.15", 
+            "awayTeamName": "Genoa", 
+            "date": "2015-03-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Empoli", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.5", 
+            "B365H": "1.95", 
+            "awayTeamName": "Inter", 
+            "date": "2015-03-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Napoli", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.15", 
+            "B365D": "3.2", 
+            "B365H": "3.75", 
+            "awayTeamName": "Atalanta", 
+            "date": "2015-03-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Parma", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3", 
+            "B365H": "2.6", 
+            "awayTeamName": "Torino", 
+            "date": "2015-03-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2015-03-08", 
+    "time_start": "2015-03-08"
+}

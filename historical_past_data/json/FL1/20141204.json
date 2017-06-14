@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "4.2", 
+            "B365H": "1.5", 
+            "awayTeamName": "Reims", 
+            "date": "2014-12-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-12-04", 
+    "time_start": "2014-12-04"
+}

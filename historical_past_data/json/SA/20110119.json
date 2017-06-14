@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "12", 
+            "B365D": "6", 
+            "B365H": "1.22", 
+            "awayTeamName": "Cesena", 
+            "date": "2011-01-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Inter", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2011-01-19", 
+    "time_start": "2011-01-19"
+}

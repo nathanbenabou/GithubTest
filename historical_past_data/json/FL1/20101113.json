@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.25", 
+            "B365D": "3.3", 
+            "B365H": "1.75", 
+            "awayTeamName": "Nancy", 
+            "date": "2010-11-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Sochaux", 
+            "date": "2010-11-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Brest", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.25", 
+            "B365D": "3", 
+            "B365H": "3.5", 
+            "awayTeamName": "Lille", 
+            "date": "2010-11-13", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Caen", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "4.2", 
+            "B365H": "1.4", 
+            "awayTeamName": "Lens", 
+            "date": "2010-11-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "3.6", 
+            "B365H": "1.53", 
+            "awayTeamName": "Arles", 
+            "date": "2010-11-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.2", 
+            "B365H": "2.05", 
+            "awayTeamName": "Toulouse", 
+            "date": "2010-11-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2010-11-13", 
+    "time_start": "2010-11-13"
+}

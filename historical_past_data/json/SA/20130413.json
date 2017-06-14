@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.25", 
+            "B365D": "3.25", 
+            "B365H": "3.25", 
+            "awayTeamName": "Fiorentina", 
+            "date": "2013-04-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Atalanta", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.25", 
+            "B365H": "3.6", 
+            "awayTeamName": "Siena", 
+            "date": "2013-04-13", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Pescara", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2013-04-13", 
+    "time_start": "2013-04-13"
+}

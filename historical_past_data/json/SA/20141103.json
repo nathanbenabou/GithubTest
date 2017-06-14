@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3.2", 
+            "B365H": "2.88", 
+            "awayTeamName": "Verona", 
+            "date": "2014-11-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Cesena", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "3.8", 
+            "B365H": "1.53", 
+            "awayTeamName": "Cagliari", 
+            "date": "2014-11-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Lazio", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2014-11-03", 
+    "time_start": "2014-11-03"
+}

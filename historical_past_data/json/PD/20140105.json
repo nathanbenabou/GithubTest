@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "26", 
+            "B365D": "11", 
+            "B365H": "1.07", 
+            "awayTeamName": "Elche", 
+            "date": "2014-01-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.2", 
+            "B365H": "2.4", 
+            "awayTeamName": "Espanol", 
+            "date": "2014-01-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5.75", 
+            "B365D": "4.2", 
+            "B365H": "1.53", 
+            "awayTeamName": "Getafe", 
+            "date": "2014-01-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.4", 
+            "B365H": "2.15", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2014-01-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-01-05", 
+    "time_start": "2014-01-05"
+}

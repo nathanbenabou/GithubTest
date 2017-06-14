@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.05", 
+            "B365D": "3.1", 
+            "B365H": "3.9", 
+            "awayTeamName": "Marseille", 
+            "date": "2014-08-09", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.2", 
+            "B365H": "2.38", 
+            "awayTeamName": "Caen", 
+            "date": "2014-08-09", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.1", 
+            "B365H": "3.3", 
+            "awayTeamName": "St Etienne", 
+            "date": "2014-08-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "4.1", 
+            "B365H": "1.5", 
+            "awayTeamName": "Metz", 
+            "date": "2014-08-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.1", 
+            "B365H": "2.3", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2014-08-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.9", 
+            "B365D": "3.25", 
+            "B365H": "2", 
+            "awayTeamName": "Lens", 
+            "date": "2014-08-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nantes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3.1", 
+            "B365H": "2.63", 
+            "awayTeamName": "Toulouse", 
+            "date": "2014-08-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-08-09", 
+    "time_start": "2014-08-09"
+}

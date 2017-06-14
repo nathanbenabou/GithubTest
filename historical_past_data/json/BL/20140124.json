@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.44", 
+            "B365D": "4.5", 
+            "B365H": "6.5", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2014-01-24", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-01-24", 
+    "time_start": "2014-01-24"
+}

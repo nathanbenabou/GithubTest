@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.75", 
+            "B365D": "2.9", 
+            "B365H": "2.8", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2010-11-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2010-11-02", 
+    "time_start": "2010-11-02"
+}

@@ -1,0 +1,105 @@
+{
+    "league_scores": [
+        {
+            "B365A": "10", 
+            "B365D": "5.5", 
+            "B365H": "1.29", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "4.33", 
+            "B365H": "1.57", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.4", 
+            "B365H": "2.25", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.8", 
+            "B365D": "3.6", 
+            "B365H": "4.33", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.5", 
+            "B365H": "2.88", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.5", 
+            "B365H": "2.05", 
+            "awayTeamName": "Nurnberg", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3.6", 
+            "B365H": "3.5", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3.5", 
+            "B365H": "2.3", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Kaiserslautern", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "5", 
+            "B365H": "1.36", 
+            "awayTeamName": "St Pauli", 
+            "date": "2011-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2011-05-14", 
+    "time_start": "2011-05-14"
+}

@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.75", 
+            "B365D": "3.1", 
+            "B365H": "2.3", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2010-09-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.62", 
+            "B365D": "3.25", 
+            "B365H": "5", 
+            "awayTeamName": "Benfica", 
+            "date": "2010-09-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "12", 
+            "B365D": "5.5", 
+            "B365H": "1.17", 
+            "awayTeamName": "Olhanense", 
+            "date": "2010-09-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2010-09-25", 
+    "time_start": "2010-09-25"
+}

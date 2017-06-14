@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "3.3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Augsburg", 
+            "date": "2015-12-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.4", 
+            "B365H": "2.25", 
+            "awayTeamName": "Mainz", 
+            "date": "2015-12-05", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.4", 
+            "B365H": "3.75", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2015-12-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.3", 
+            "B365H": "2.25", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2015-12-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ingolstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.33", 
+            "B365D": "5.25", 
+            "B365H": "9", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2015-12-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.75", 
+            "B365D": "4.33", 
+            "B365H": "4", 
+            "awayTeamName": "Dortmund", 
+            "date": "2015-12-05", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-12-05", 
+    "time_start": "2015-12-05"
+}

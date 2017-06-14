@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.82", 
+            "B365D": "3.23", 
+            "B365H": "2.73", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2015-03-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-03-23", 
+    "time_start": "2015-03-23"
+}

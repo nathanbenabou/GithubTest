@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "1.25", 
+            "B365H": "0", 
+            "awayTeamName": "Reading", 
+            "date": "2012-08-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2012-08-22", 
+    "time_start": "2012-08-22"
+}

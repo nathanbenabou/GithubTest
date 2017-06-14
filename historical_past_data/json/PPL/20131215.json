@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.37", 
+            "B365D": "3.18", 
+            "B365H": "3.4", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2013-12-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.25", 
+            "B365D": "6.2", 
+            "B365H": "14.4", 
+            "awayTeamName": "Benfica", 
+            "date": "2013-12-15", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.55", 
+            "B365D": "4.04", 
+            "B365H": "7.32", 
+            "awayTeamName": "Porto", 
+            "date": "2013-12-15", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-12-15", 
+    "time_start": "2013-12-15"
+}

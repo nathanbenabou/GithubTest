@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.25", 
+            "B365H": "2.5", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2010-08-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hercules", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3.5", 
+            "B365H": "3.6", 
+            "awayTeamName": "Sevilla", 
+            "date": "2010-08-28", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.3", 
+            "B365H": "2.88", 
+            "awayTeamName": "Valencia", 
+            "date": "2010-08-28", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2010-08-28", 
+    "time_start": "2010-08-28"
+}

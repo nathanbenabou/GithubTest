@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.29", 
+            "B365D": "5.5", 
+            "B365H": "10", 
+            "awayTeamName": "Dortmund", 
+            "date": "2014-01-31", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Braunschweig", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-01-31", 
+    "time_start": "2014-01-31"
+}

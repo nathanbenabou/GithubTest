@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.4", 
+            "B365H": "2.25", 
+            "awayTeamName": "Freiburg", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.7", 
+            "B365D": "3.4", 
+            "B365H": "2.5", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Nurnberg", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.4", 
+            "B365H": "2.2", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.6", 
+            "B365H": "1.8", 
+            "awayTeamName": "Kaiserslautern", 
+            "date": "2011-08-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2011-08-06", 
+    "time_start": "2011-08-06"
+}

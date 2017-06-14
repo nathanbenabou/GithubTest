@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Lorient", 
+            "date": "2010-09-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Brest", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.6", 
+            "B365H": "1.6", 
+            "awayTeamName": "Monaco", 
+            "date": "2010-09-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.1", 
+            "B365H": "3.25", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2010-09-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2010-09-12", 
+    "time_start": "2010-09-12"
+}

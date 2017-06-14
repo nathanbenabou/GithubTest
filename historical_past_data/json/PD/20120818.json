@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.2", 
+            "B365D": "3.25", 
+            "B365H": "2.25", 
+            "awayTeamName": "Malaga", 
+            "date": "2012-08-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Celta", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.3", 
+            "B365H": "2", 
+            "awayTeamName": "Espanol", 
+            "date": "2012-08-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Mallorca", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.75", 
+            "B365H": "1.62", 
+            "awayTeamName": "Getafe", 
+            "date": "2012-08-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-08-18", 
+    "time_start": "2012-08-18"
+}

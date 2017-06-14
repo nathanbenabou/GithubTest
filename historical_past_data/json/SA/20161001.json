@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.9", 
+            "B365D": "3.2", 
+            "B365H": "2.55", 
+            "awayTeamName": "Chievo", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Pescara", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.3", 
+            "B365H": "3", 
+            "awayTeamName": "Lazio", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-10-01", 
+    "time_start": "2016-10-01"
+}

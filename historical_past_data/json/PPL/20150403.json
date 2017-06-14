@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.02", 
+            "B365D": "3.09", 
+            "B365H": "2.7", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2015-04-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.78", 
+            "B365D": "3.7", 
+            "B365H": "5.23", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2015-04-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "5.6", 
+            "B365D": "3.78", 
+            "B365H": "1.72", 
+            "awayTeamName": "Arouca", 
+            "date": "2015-04-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-04-03", 
+    "time_start": "2015-04-03"
+}

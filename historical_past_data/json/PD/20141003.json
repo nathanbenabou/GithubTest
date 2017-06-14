@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "3.2", 
+            "B365H": "1.95", 
+            "awayTeamName": "Cordoba", 
+            "date": "2014-10-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-10-03", 
+    "time_start": "2014-10-03"
+}

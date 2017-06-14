@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "3.3", 
+            "B365H": "2", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2013-01-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.1", 
+            "B365H": "2.25", 
+            "awayTeamName": "Bastia", 
+            "date": "2013-01-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.83", 
+            "B365D": "3.25", 
+            "B365H": "4.75", 
+            "awayTeamName": "Marseille", 
+            "date": "2013-01-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-01-13", 
+    "time_start": "2013-01-13"
+}

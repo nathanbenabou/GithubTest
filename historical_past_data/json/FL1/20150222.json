@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "3.2", 
+            "B365H": "2.25", 
+            "awayTeamName": "Montpellier", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "3.8", 
+            "B365H": "1.57", 
+            "awayTeamName": "Nantes", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.1", 
+            "B365H": "2.15", 
+            "awayTeamName": "Metz", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3.2", 
+            "B365H": "2.55", 
+            "awayTeamName": "Marseille", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-02-22", 
+    "time_start": "2015-02-22"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.9", 
+            "B365D": "3.25", 
+            "B365H": "2.5", 
+            "awayTeamName": "Hertha", 
+            "date": "2017-01-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.62", 
+            "B365D": "4.2", 
+            "B365H": "5.25", 
+            "awayTeamName": "Dortmund", 
+            "date": "2017-01-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2017-01-29", 
+    "time_start": "2017-01-29"
+}

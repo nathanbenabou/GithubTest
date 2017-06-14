@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.3", 
+            "B365D": "4.33", 
+            "B365H": "8", 
+            "awayTeamName": "Porto", 
+            "date": "2012-01-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2012-01-29", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leiria", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3", 
+            "B365H": "2.3", 
+            "awayTeamName": "Olhanense", 
+            "date": "2012-01-29", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "4.2", 
+            "B365H": "1.3", 
+            "awayTeamName": "Beira Mar", 
+            "date": "2012-01-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-01-29", 
+    "time_start": "2012-01-29"
+}

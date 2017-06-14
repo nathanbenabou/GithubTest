@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.76", 
+            "B365D": "3.84", 
+            "B365H": "1.61", 
+            "awayTeamName": "Penafiel", 
+            "date": "2015-03-21", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.38", 
+            "B365D": "4.89", 
+            "B365H": "9.91", 
+            "awayTeamName": "Porto", 
+            "date": "2015-03-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.38", 
+            "B365D": "4.9", 
+            "B365H": "9.79", 
+            "awayTeamName": "Benfica", 
+            "date": "2015-03-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-03-21", 
+    "time_start": "2015-03-21"
+}

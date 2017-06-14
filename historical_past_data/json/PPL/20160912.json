@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.25", 
+            "B365D": "3.07", 
+            "B365H": "2.55", 
+            "awayTeamName": "Tondela", 
+            "date": "2016-09-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Feirense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-09-12", 
+    "time_start": "2016-09-12"
+}

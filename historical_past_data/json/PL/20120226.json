@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.5", 
+            "B365H": "1", 
+            "awayTeamName": "Tottenham", 
+            "date": "2012-02-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "6.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2012-02-26", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Norwich", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2012-02-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2012-02-26", 
+    "time_start": "2012-02-26"
+}

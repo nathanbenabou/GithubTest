@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.4", 
+            "B365H": "2.4", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2014-10-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.7", 
+            "B365D": "3.4", 
+            "B365H": "2.5", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2014-10-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Paderborn", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-10-19", 
+    "time_start": "2014-10-19"
+}

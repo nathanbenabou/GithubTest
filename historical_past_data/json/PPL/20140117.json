@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.02", 
+            "B365D": "3.29", 
+            "B365H": "4.42", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2014-01-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-01-17", 
+    "time_start": "2014-01-17"
+}

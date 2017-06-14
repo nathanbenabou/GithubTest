@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "34", 
+            "B365D": "12", 
+            "B365H": "1.07", 
+            "awayTeamName": "Alaves", 
+            "date": "2016-09-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.73", 
+            "B365D": "3.3", 
+            "B365H": "6", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2016-09-10", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Celta", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.1", 
+            "B365H": "2.3", 
+            "awayTeamName": "Villarreal", 
+            "date": "2016-09-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "34", 
+            "B365D": "15", 
+            "B365H": "1.04", 
+            "awayTeamName": "Osasuna", 
+            "date": "2016-09-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4.33", 
+            "B365H": "1.5", 
+            "awayTeamName": "Las Palmas", 
+            "date": "2016-09-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-09-10", 
+    "time_start": "2016-09-10"
+}

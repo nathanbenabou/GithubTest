@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.73", 
+            "B365D": "3.75", 
+            "B365H": "4.5", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2011-04-09", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "21", 
+            "B365D": "8.5", 
+            "B365H": "1.11", 
+            "awayTeamName": "Almeria", 
+            "date": "2011-04-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3.2", 
+            "B365H": "2.6", 
+            "awayTeamName": "Sevilla", 
+            "date": "2011-04-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Mallorca", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-04-09", 
+    "time_start": "2011-04-09"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.74", 
+            "B365D": "3.67", 
+            "B365H": "5.43", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2014-08-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.69", 
+            "B365D": "3.18", 
+            "B365H": "2.91", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2014-08-16", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-08-16", 
+    "time_start": "2014-08-16"
+}

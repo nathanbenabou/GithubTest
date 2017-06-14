@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2013-05-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-05-06", 
+    "time_start": "2013-05-06"
+}

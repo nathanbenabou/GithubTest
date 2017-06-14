@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3.2", 
+            "B365H": "1.8", 
+            "awayTeamName": "Beira Mar", 
+            "date": "2010-10-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.38", 
+            "B365D": "3.1", 
+            "B365H": "2.62", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2010-10-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.4", 
+            "B365H": "1.5", 
+            "awayTeamName": "Olhanense", 
+            "date": "2010-10-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2010-10-23", 
+    "time_start": "2010-10-23"
+}

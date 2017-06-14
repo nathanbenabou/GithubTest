@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.78", 
+            "B365D": "3.1", 
+            "B365H": "2.91", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2016-02-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.35", 
+            "B365D": "5.24", 
+            "B365H": "11", 
+            "awayTeamName": "Benfica", 
+            "date": "2016-02-20", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-02-20", 
+    "time_start": "2016-02-20"
+}

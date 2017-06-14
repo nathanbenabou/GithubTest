@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.5", 
+            "B365D": "4.33", 
+            "B365H": "6", 
+            "awayTeamName": "Dortmund", 
+            "date": "2013-09-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3.5", 
+            "B365H": "2.3", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2013-09-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-09-01", 
+    "time_start": "2013-09-01"
+}

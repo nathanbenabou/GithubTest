@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.62", 
+            "B365D": "4.2", 
+            "B365H": "5.25", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2015-09-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.5", 
+            "B365D": "4.5", 
+            "B365H": "6.5", 
+            "awayTeamName": "Barcelona", 
+            "date": "2015-09-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Celta", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.4", 
+            "B365H": "3.3", 
+            "awayTeamName": "Sevilla", 
+            "date": "2015-09-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Las Palmas", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.1", 
+            "B365H": "2.38", 
+            "awayTeamName": "Eibar", 
+            "date": "2015-09-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3.3", 
+            "B365H": "2.63", 
+            "awayTeamName": "Villarreal", 
+            "date": "2015-09-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.4", 
+            "B365H": "2.25", 
+            "awayTeamName": "Sp Gijon", 
+            "date": "2015-09-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-09-23", 
+    "time_start": "2015-09-23"
+}

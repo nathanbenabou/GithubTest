@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "3.25", 
+            "B365H": "2.1", 
+            "awayTeamName": "Mallorca", 
+            "date": "2012-10-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-10-01", 
+    "time_start": "2012-10-01"
+}

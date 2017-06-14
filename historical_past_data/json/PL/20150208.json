@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.25", 
+            "B365D": "2.6", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2015-02-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Burnley", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.3", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2015-02-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Newcastle", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "4.2", 
+            "B365H": "1", 
+            "awayTeamName": "Man United", 
+            "date": "2015-02-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-02-08", 
+    "time_start": "2015-02-08"
+}

@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.61", 
+            "B365D": "3.22", 
+            "B365H": "2.29", 
+            "awayTeamName": "Arouca", 
+            "date": "2017-04-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "29.51", 
+            "B365D": "8.45", 
+            "B365H": "1.15", 
+            "awayTeamName": "Belenenses", 
+            "date": "2017-04-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "14.01", 
+            "B365D": "5.53", 
+            "B365H": "1.29", 
+            "awayTeamName": "Boavista", 
+            "date": "2017-04-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-04-08", 
+    "time_start": "2017-04-08"
+}

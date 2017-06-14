@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8", 
+            "B365D": "4", 
+            "B365H": "1.33", 
+            "awayTeamName": "Portimonense", 
+            "date": "2011-04-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-04-30", 
+    "time_start": "2011-04-30"
+}

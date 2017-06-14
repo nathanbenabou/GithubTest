@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "4.2", 
+            "B365H": "1.5", 
+            "awayTeamName": "Elche", 
+            "date": "2015-03-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Celta", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-03-02", 
+    "time_start": "2015-03-02"
+}

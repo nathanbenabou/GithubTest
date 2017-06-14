@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "3.2", 
+            "B365H": "1.95", 
+            "awayTeamName": "Nice", 
+            "date": "2010-08-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3", 
+            "B365H": "2.6", 
+            "awayTeamName": "Rennes", 
+            "date": "2010-08-14", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.1", 
+            "B365H": "2", 
+            "awayTeamName": "Sochaux", 
+            "date": "2010-08-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.25", 
+            "B365H": "3.75", 
+            "awayTeamName": "Marseille", 
+            "date": "2010-08-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2010-08-14", 
+    "time_start": "2010-08-14"
+}

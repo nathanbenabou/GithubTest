@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "4", 
+            "B365H": "1.53", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2014-01-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-01-08", 
+    "time_start": "2014-01-08"
+}

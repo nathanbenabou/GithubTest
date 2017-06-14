@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.38", 
+            "B365D": "3.25", 
+            "B365H": "3", 
+            "awayTeamName": "Sevilla", 
+            "date": "2012-03-26", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-03-26", 
+    "time_start": "2012-03-26"
+}

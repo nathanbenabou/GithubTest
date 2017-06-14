@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "1.8", 
+            "B365H": "0", 
+            "awayTeamName": "Wolves", 
+            "date": "2011-04-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-04-26", 
+    "time_start": "2011-04-26"
+}

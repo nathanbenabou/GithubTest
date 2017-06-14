@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8", 
+            "B365D": "4.75", 
+            "B365H": "1.4", 
+            "awayTeamName": "Empoli", 
+            "date": "2015-10-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Roma", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.2", 
+            "B365H": "2.35", 
+            "awayTeamName": "Milan", 
+            "date": "2015-10-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Torino", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2015-10-17", 
+    "time_start": "2015-10-17"
+}

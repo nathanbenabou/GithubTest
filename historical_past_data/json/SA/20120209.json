@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.5", 
+            "B365D": "3.75", 
+            "B365H": "1.5", 
+            "awayTeamName": "Cesena", 
+            "date": "2012-02-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lazio", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2012-02-09", 
+    "time_start": "2012-02-09"
+}

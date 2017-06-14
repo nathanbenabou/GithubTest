@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "16.65", 
+            "B365D": "7.05", 
+            "B365H": "1.21", 
+            "awayTeamName": "Maritimo", 
+            "date": "2014-08-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-08-15", 
+    "time_start": "2014-08-15"
+}

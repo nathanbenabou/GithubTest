@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3", 
+            "B365D": "3.2", 
+            "B365H": "2.4", 
+            "awayTeamName": "Getafe", 
+            "date": "2014-01-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Almeria", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "23", 
+            "B365D": "10", 
+            "B365H": "1.08", 
+            "awayTeamName": "Malaga", 
+            "date": "2014-01-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.15", 
+            "B365D": "3.2", 
+            "B365H": "3.5", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2014-01-26", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.4", 
+            "B365D": "4.5", 
+            "B365H": "8", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2014-01-26", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-01-26", 
+    "time_start": "2014-01-26"
+}

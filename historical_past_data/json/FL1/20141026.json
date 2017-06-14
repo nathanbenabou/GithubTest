@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "3.1", 
+            "B365H": "2.2", 
+            "awayTeamName": "Nice", 
+            "date": "2014-10-26", 
+            "goalsAwayTeam": "7", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3.3", 
+            "B365H": "2.4", 
+            "awayTeamName": "Marseille", 
+            "date": "2014-10-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.2", 
+            "B365H": "2.5", 
+            "awayTeamName": "Lille", 
+            "date": "2014-10-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "3.6", 
+            "B365H": "1.57", 
+            "awayTeamName": "Metz", 
+            "date": "2014-10-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-10-26", 
+    "time_start": "2014-10-26"
+}

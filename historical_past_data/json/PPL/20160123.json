@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "17.4", 
+            "B365D": "6.68", 
+            "B365H": "1.22", 
+            "awayTeamName": "Arouca", 
+            "date": "2016-01-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.17", 
+            "B365D": "3.02", 
+            "B365H": "2.61", 
+            "awayTeamName": "Estoril", 
+            "date": "2016-01-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.52", 
+            "B365D": "4.29", 
+            "B365H": "7.47", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2016-01-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.45", 
+            "B365D": "3.25", 
+            "B365H": "3.23", 
+            "awayTeamName": "Nacional", 
+            "date": "2016-01-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Uniao Madeira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-01-23", 
+    "time_start": "2016-01-23"
+}

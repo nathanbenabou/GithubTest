@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "29", 
+            "B365D": "11", 
+            "B365H": "1.08", 
+            "awayTeamName": "Betis", 
+            "date": "2016-08-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.2", 
+            "B365H": "2.5", 
+            "awayTeamName": "Villarreal", 
+            "date": "2016-08-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "4", 
+            "B365H": "1.67", 
+            "awayTeamName": "Espanol", 
+            "date": "2016-08-20", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-08-20", 
+    "time_start": "2016-08-20"
+}

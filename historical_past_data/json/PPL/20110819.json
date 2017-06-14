@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "13", 
+            "B365D": "6", 
+            "B365H": "1.14", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2011-08-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-08-19", 
+    "time_start": "2011-08-19"
+}

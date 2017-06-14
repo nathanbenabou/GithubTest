@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "2.88", 
+            "B365H": "2.62", 
+            "awayTeamName": "Maritimo", 
+            "date": "2012-01-21", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-01-21", 
+    "time_start": "2012-01-21"
+}

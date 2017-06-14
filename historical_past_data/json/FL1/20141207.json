@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.15", 
+            "B365D": "3.3", 
+            "B365H": "3.5", 
+            "awayTeamName": "Lyon", 
+            "date": "2014-12-07", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3.2", 
+            "B365H": "4.2", 
+            "awayTeamName": "Lille", 
+            "date": "2014-12-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lens", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.75", 
+            "B365H": "1.4", 
+            "awayTeamName": "Metz", 
+            "date": "2014-12-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3", 
+            "B365H": "2.15", 
+            "awayTeamName": "Guingamp", 
+            "date": "2014-12-07", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-12-07", 
+    "time_start": "2014-12-07"
+}

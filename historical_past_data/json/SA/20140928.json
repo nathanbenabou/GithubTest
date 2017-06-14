@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.62", 
+            "B365D": "3.75", 
+            "B365H": "5.5", 
+            "awayTeamName": "Milan", 
+            "date": "2014-09-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Cesena", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.25", 
+            "B365H": "2.25", 
+            "awayTeamName": "Empoli", 
+            "date": "2014-09-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Chievo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3", 
+            "B365H": "2.9", 
+            "awayTeamName": "Sampdoria", 
+            "date": "2014-09-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Genoa", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4.33", 
+            "B365H": "1.44", 
+            "awayTeamName": "Cagliari", 
+            "date": "2014-09-28", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Inter", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.8", 
+            "B365D": "3.5", 
+            "B365H": "4.5", 
+            "awayTeamName": "Napoli", 
+            "date": "2014-09-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sassuolo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.2", 
+            "B365H": "2.88", 
+            "awayTeamName": "Fiorentina", 
+            "date": "2014-09-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Torino", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2014-09-28", 
+    "time_start": "2014-09-28"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "3.2", 
+            "B365H": "2.25", 
+            "awayTeamName": "Celta", 
+            "date": "2013-01-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.44", 
+            "B365D": "4.33", 
+            "B365H": "7", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2013-01-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Sevilla", 
+            "date": "2013-01-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Mallorca", 
+            "date": "2013-01-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Valladolid", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2013-01-12", 
+    "time_start": "2013-01-12"
+}

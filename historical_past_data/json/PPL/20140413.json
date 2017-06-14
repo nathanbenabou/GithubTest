@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.32", 
+            "B365D": "5.21", 
+            "B365H": "12.1", 
+            "awayTeamName": "Benfica", 
+            "date": "2014-04-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.92", 
+            "B365D": "3.49", 
+            "B365H": "4.49", 
+            "awayTeamName": "Porto", 
+            "date": "2014-04-13", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-04-13", 
+    "time_start": "2014-04-13"
+}

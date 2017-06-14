@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2", 
+            "B365D": "3.2", 
+            "B365H": "4", 
+            "awayTeamName": "Marseille", 
+            "date": "2012-03-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-03-09", 
+    "time_start": "2012-03-09"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.75", 
+            "B365D": "1.44", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2015-11-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "6", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2015-11-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Norwich", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.6", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2015-11-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "2.05", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2015-11-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-11-29", 
+    "time_start": "2015-11-29"
+}

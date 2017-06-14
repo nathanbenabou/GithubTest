@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.75", 
+            "B365D": "4", 
+            "B365H": "1.6", 
+            "awayTeamName": "Hannover", 
+            "date": "2015-12-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-12-04", 
+    "time_start": "2015-12-04"
+}

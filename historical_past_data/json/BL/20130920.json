@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8", 
+            "B365D": "4.75", 
+            "B365H": "1.36", 
+            "awayTeamName": "Braunschweig", 
+            "date": "2013-09-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-09-20", 
+    "time_start": "2013-09-20"
+}

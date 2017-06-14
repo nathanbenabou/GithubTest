@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2010-12-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2010-12-13", 
+    "time_start": "2010-12-13"
+}

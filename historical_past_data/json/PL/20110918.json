@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "6.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2011-09-18", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "1.83", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2011-09-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "2.4", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2011-09-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.63", 
+            "B365H": "2", 
+            "awayTeamName": "Liverpool", 
+            "date": "2011-09-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-09-18", 
+    "time_start": "2011-09-18"
+}

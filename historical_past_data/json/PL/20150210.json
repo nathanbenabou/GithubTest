@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "1.29", 
+            "B365H": "0", 
+            "awayTeamName": "Leicester", 
+            "date": "2015-02-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "2.38", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2015-02-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hull", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "1.91", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2015-02-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "1.91", 
+            "B365H": "0", 
+            "awayTeamName": "QPR", 
+            "date": "2015-02-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-02-10", 
+    "time_start": "2015-02-10"
+}

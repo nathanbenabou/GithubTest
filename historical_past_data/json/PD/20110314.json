@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.25", 
+            "B365H": "2.3", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2011-03-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-03-14", 
+    "time_start": "2011-03-14"
+}

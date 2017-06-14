@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.2", 
+            "B365D": "7", 
+            "B365H": "11", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2014-05-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valladolid", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-05-07", 
+    "time_start": "2014-05-07"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.49", 
+            "B365D": "3.32", 
+            "B365H": "1.99", 
+            "awayTeamName": "Boavista", 
+            "date": "2016-10-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.73", 
+            "B365D": "3.29", 
+            "B365H": "2.21", 
+            "awayTeamName": "Nacional", 
+            "date": "2016-10-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-10-21", 
+    "time_start": "2016-10-21"
+}

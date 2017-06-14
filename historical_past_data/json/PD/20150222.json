@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "3.5", 
+            "B365H": "1.91", 
+            "awayTeamName": "Vallecano", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.18", 
+            "B365D": "7", 
+            "B365H": "17", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Elche", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.3", 
+            "B365H": "2.9", 
+            "awayTeamName": "Sevilla", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "4.75", 
+            "B365H": "1.36", 
+            "awayTeamName": "Eibar", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-02-22", 
+    "time_start": "2015-02-22"
+}

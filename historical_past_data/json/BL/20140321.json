@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.25", 
+            "B365D": "3.3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2014-03-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-03-21", 
+    "time_start": "2014-03-21"
+}

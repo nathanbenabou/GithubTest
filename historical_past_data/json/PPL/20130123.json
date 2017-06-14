@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "", 
+            "B365D": "", 
+            "B365H": "", 
+            "awayTeamName": "Porto", 
+            "date": "2013-01-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-01-23", 
+    "time_start": "2013-01-23"
+}

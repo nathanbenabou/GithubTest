@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.39", 
+            "B365D": "4.92", 
+            "B365H": "9.95", 
+            "awayTeamName": "Benfica", 
+            "date": "2016-12-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-12-02", 
+    "time_start": "2016-12-02"
+}

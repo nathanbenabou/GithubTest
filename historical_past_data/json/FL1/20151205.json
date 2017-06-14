@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Nantes", 
+            "date": "2015-12-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ajaccio GFCO", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.15", 
+            "B365D": "3.3", 
+            "B365H": "3.5", 
+            "awayTeamName": "Monaco", 
+            "date": "2015-12-05", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.1", 
+            "B365H": "2.4", 
+            "awayTeamName": "Lille", 
+            "date": "2015-12-05", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Caen", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "3.75", 
+            "B365H": "1.53", 
+            "awayTeamName": "Angers", 
+            "date": "2015-12-05", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.75", 
+            "B365H": "1.67", 
+            "awayTeamName": "Troyes", 
+            "date": "2015-12-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Lorient", 
+            "date": "2015-12-05", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-12-05", 
+    "time_start": "2015-12-05"
+}

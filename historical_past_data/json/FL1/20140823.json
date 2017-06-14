@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3.1", 
+            "B365H": "2.9", 
+            "awayTeamName": "Toulouse", 
+            "date": "2014-08-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.1", 
+            "B365H": "2.9", 
+            "awayTeamName": "Marseille", 
+            "date": "2014-08-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.4", 
+            "B365H": "1.75", 
+            "awayTeamName": "Lorient", 
+            "date": "2014-08-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.5", 
+            "B365H": "1.85", 
+            "awayTeamName": "Metz", 
+            "date": "2014-08-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.2", 
+            "B365H": "3.2", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2014-08-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.25", 
+            "B365H": "2.38", 
+            "awayTeamName": "Caen", 
+            "date": "2014-08-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-08-23", 
+    "time_start": "2014-08-23"
+}

@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Santander", 
+            "date": "2012-05-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.5", 
+            "B365H": "1.83", 
+            "awayTeamName": "Espanol", 
+            "date": "2012-05-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.4", 
+            "B365H": "2.4", 
+            "awayTeamName": "Villarreal", 
+            "date": "2012-05-01", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Gijon", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-05-01", 
+    "time_start": "2012-05-01"
+}

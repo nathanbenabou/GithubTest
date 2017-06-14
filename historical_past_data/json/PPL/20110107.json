@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3", 
+            "B365H": "2.3", 
+            "awayTeamName": "Setubal", 
+            "date": "2011-01-07", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Portimonense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-01-07", 
+    "time_start": "2011-01-07"
+}

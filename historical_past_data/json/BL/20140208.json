@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "3.75", 
+            "B365H": "1.62", 
+            "awayTeamName": "Braunschweig", 
+            "date": "2014-02-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.5", 
+            "B365H": "2.63", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2014-02-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3.4", 
+            "B365H": "2.6", 
+            "awayTeamName": "Hertha", 
+            "date": "2014-02-08", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.22", 
+            "B365D": "6.5", 
+            "B365H": "11", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2014-02-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.36", 
+            "B365D": "4.75", 
+            "B365H": "8", 
+            "awayTeamName": "Dortmund", 
+            "date": "2014-02-08", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.6", 
+            "B365H": "1.8", 
+            "awayTeamName": "Mainz", 
+            "date": "2014-02-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-02-08", 
+    "time_start": "2014-02-08"
+}

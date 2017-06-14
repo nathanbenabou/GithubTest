@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "3.8", 
+            "B365H": "1.57", 
+            "awayTeamName": "Caen", 
+            "date": "2016-02-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.2", 
+            "B365H": "3.1", 
+            "awayTeamName": "Marseille", 
+            "date": "2016-02-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.1", 
+            "B365H": "2.55", 
+            "awayTeamName": "Monaco", 
+            "date": "2016-02-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2016-02-14", 
+    "time_start": "2016-02-14"
+}

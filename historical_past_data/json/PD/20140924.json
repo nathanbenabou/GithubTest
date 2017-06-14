@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.57", 
+            "B365D": "3.8", 
+            "B365H": "6", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2014-09-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Almeria", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3", 
+            "B365H": "3.4", 
+            "awayTeamName": "Villarreal", 
+            "date": "2014-09-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Eibar", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "3.9", 
+            "B365H": "1.5", 
+            "awayTeamName": "Levante", 
+            "date": "2014-09-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.33", 
+            "B365D": "5", 
+            "B365H": "9", 
+            "awayTeamName": "Barcelona", 
+            "date": "2014-09-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.6", 
+            "B365H": "1.8", 
+            "awayTeamName": "Sociedad", 
+            "date": "2014-09-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.25", 
+            "B365D": "3.4", 
+            "B365H": "3.1", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2014-09-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-09-24", 
+    "time_start": "2014-09-24"
+}

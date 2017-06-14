@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.91", 
+            "B365D": "3.4", 
+            "B365H": "4", 
+            "awayTeamName": "Roma", 
+            "date": "2013-12-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Atalanta", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.5", 
+            "B365H": "1.83", 
+            "awayTeamName": "Sassuolo", 
+            "date": "2013-12-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Cagliari", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.75", 
+            "B365D": "3.6", 
+            "B365H": "4.75", 
+            "awayTeamName": "Milan", 
+            "date": "2013-12-01", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Catania", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Livorno", 
+            "date": "2013-12-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Chievo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Sampdoria", 
+            "date": "2013-12-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Inter", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "5", 
+            "B365H": "1.3", 
+            "awayTeamName": "Udinese", 
+            "date": "2013-12-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2013-12-01", 
+    "time_start": "2013-12-01"
+}

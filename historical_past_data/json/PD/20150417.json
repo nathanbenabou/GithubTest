@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.6", 
+            "B365D": "3.1", 
+            "B365H": "2.88", 
+            "awayTeamName": "Espanol", 
+            "date": "2015-04-17", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-04-17", 
+    "time_start": "2015-04-17"
+}

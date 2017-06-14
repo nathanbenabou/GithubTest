@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.74", 
+            "B365D": "3.29", 
+            "B365H": "2.18", 
+            "awayTeamName": "Nacional", 
+            "date": "2014-02-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-02-03", 
+    "time_start": "2014-02-03"
+}

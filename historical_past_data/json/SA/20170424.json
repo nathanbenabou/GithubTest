@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.22", 
+            "B365D": "6.5", 
+            "B365H": "11", 
+            "awayTeamName": "Roma", 
+            "date": "2017-04-24", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Pescara", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2017-04-24", 
+    "time_start": "2017-04-24"
+}

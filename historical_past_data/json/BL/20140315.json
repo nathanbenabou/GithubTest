@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "15", 
+            "B365D": "8", 
+            "B365H": "1.14", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2014-03-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.91", 
+            "B365D": "3.6", 
+            "B365H": "3.8", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2014-03-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Braunschweig", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "5", 
+            "B365H": "1.36", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2014-03-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.5", 
+            "B365H": "1.91", 
+            "awayTeamName": "Hannover", 
+            "date": "2014-03-15", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.5", 
+            "B365H": "2.2", 
+            "awayTeamName": "Mainz", 
+            "date": "2014-03-15", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.7", 
+            "B365D": "3.4", 
+            "B365H": "2.5", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2014-03-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-03-15", 
+    "time_start": "2014-03-15"
+}

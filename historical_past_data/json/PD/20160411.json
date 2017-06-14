@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "3.3", 
+            "B365H": "2.05", 
+            "awayTeamName": "Las Palmas", 
+            "date": "2016-04-11", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-04-11", 
+    "time_start": "2016-04-11"
+}

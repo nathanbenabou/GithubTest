@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.43", 
+            "B365D": "3.46", 
+            "B365H": "1.96", 
+            "awayTeamName": "Boavista", 
+            "date": "2014-12-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-12-12", 
+    "time_start": "2014-12-12"
+}

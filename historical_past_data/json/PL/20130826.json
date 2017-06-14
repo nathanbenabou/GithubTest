@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.45", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2013-08-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-08-26", 
+    "time_start": "2013-08-26"
+}

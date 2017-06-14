@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "3.25", 
+            "B365H": "2.1", 
+            "awayTeamName": "Lyon", 
+            "date": "2010-12-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3", 
+            "B365H": "2.7", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2010-12-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2010-12-19", 
+    "time_start": "2010-12-19"
+}

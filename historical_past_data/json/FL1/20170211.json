@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.3", 
+            "B365H": "2.38", 
+            "awayTeamName": "Caen", 
+            "date": "2017-02-11", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Dijon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3.6", 
+            "B365H": "3.7", 
+            "awayTeamName": "Lyon", 
+            "date": "2017-02-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.2", 
+            "B365H": "1.91", 
+            "awayTeamName": "Angers", 
+            "date": "2017-02-11", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "6.5", 
+            "B365H": "1.22", 
+            "awayTeamName": "Metz", 
+            "date": "2017-02-11", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.5", 
+            "awayTeamName": "Montpellier", 
+            "date": "2017-02-11", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.3", 
+            "B365H": "1.83", 
+            "awayTeamName": "Bastia", 
+            "date": "2017-02-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2017-02-11", 
+    "time_start": "2017-02-11"
+}

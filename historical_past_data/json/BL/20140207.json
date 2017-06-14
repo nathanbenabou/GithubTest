@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.7", 
+            "B365D": "3.3", 
+            "B365H": "2.55", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2014-02-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-02-07", 
+    "time_start": "2014-02-07"
+}

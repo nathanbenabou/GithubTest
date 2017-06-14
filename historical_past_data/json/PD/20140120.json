@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8.5", 
+            "B365D": "4.75", 
+            "B365H": "1.36", 
+            "awayTeamName": "Valladolid", 
+            "date": "2014-01-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-01-20", 
+    "time_start": "2014-01-20"
+}

@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "17", 
+            "B365D": "11", 
+            "B365H": "1.1", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2014-10-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.62", 
+            "B365D": "4", 
+            "B365H": "5", 
+            "awayTeamName": "Dortmund", 
+            "date": "2014-10-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3.5", 
+            "B365H": "3.5", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2014-10-18", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.25", 
+            "B365D": "3.4", 
+            "B365H": "3.1", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2014-10-18", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.4", 
+            "B365H": "2.3", 
+            "awayTeamName": "Augsburg", 
+            "date": "2014-10-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.8", 
+            "B365H": "1.67", 
+            "awayTeamName": "Hertha", 
+            "date": "2014-10-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.5", 
+            "B365H": "3.4", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2014-10-18", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-10-18", 
+    "time_start": "2014-10-18"
+}

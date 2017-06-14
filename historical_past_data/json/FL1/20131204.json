@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.2", 
+            "B365D": "3.1", 
+            "B365H": "3.5", 
+            "awayTeamName": "Bastia", 
+            "date": "2013-12-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.33", 
+            "B365D": "5", 
+            "B365H": "8.5", 
+            "awayTeamName": "Paris SG", 
+            "date": "2013-12-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2013-12-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.3", 
+            "B365H": "1.91", 
+            "awayTeamName": "Lorient", 
+            "date": "2013-12-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3", 
+            "B365H": "2.88", 
+            "awayTeamName": "St Etienne", 
+            "date": "2013-12-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.2", 
+            "B365H": "2.1", 
+            "awayTeamName": "Reims", 
+            "date": "2013-12-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-12-04", 
+    "time_start": "2013-12-04"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.66", 
+            "B365D": "2.96", 
+            "B365H": "2.45", 
+            "awayTeamName": "Chaves", 
+            "date": "2017-03-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.6", 
+            "B365D": "3.1", 
+            "B365H": "2.06", 
+            "awayTeamName": "Setubal", 
+            "date": "2017-03-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.22", 
+            "B365D": "3.38", 
+            "B365H": "2.03", 
+            "awayTeamName": "Tondela", 
+            "date": "2017-03-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "7.68", 
+            "B365D": "4.68", 
+            "B365H": "1.47", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2017-03-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-03-05", 
+    "time_start": "2017-03-05"
+}

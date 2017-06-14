@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.62", 
+            "B365D": "3.25", 
+            "B365H": "5", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2011-12-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Leiria", 
+            "date": "2011-12-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Feirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3", 
+            "B365H": "1.83", 
+            "awayTeamName": "Setubal", 
+            "date": "2011-12-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "2.88", 
+            "B365H": "2.25", 
+            "awayTeamName": "Beira Mar", 
+            "date": "2011-12-18", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-12-18", 
+    "time_start": "2011-12-18"
+}

@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.2", 
+            "B365D": "3.1", 
+            "B365H": "3.5", 
+            "awayTeamName": "Lille", 
+            "date": "2013-02-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.1", 
+            "B365H": "2.9", 
+            "awayTeamName": "Montpellier", 
+            "date": "2013-02-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.1", 
+            "B365H": "3.5", 
+            "awayTeamName": "St Etienne", 
+            "date": "2013-02-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.6", 
+            "B365H": "1.62", 
+            "awayTeamName": "Sochaux", 
+            "date": "2013-02-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.9", 
+            "B365D": "3.25", 
+            "B365H": "2", 
+            "awayTeamName": "Bastia", 
+            "date": "2013-02-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Troyes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.1", 
+            "B365H": "2.3", 
+            "awayTeamName": "Toulouse", 
+            "date": "2013-02-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-02-23", 
+    "time_start": "2013-02-23"
+}

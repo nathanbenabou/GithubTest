@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.36", 
+            "B365D": "4.6", 
+            "B365H": "9", 
+            "awayTeamName": "Paris SG", 
+            "date": "2014-08-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-08-22", 
+    "time_start": "2014-08-22"
+}

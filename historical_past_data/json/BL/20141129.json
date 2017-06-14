@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "Hamburg", 
+            "date": "2014-11-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.18", 
+            "B365D": "7.5", 
+            "B365H": "15", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2014-11-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "4", 
+            "B365H": "1.7", 
+            "awayTeamName": "Hannover", 
+            "date": "2014-11-29", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "4.33", 
+            "B365H": "1.5", 
+            "awayTeamName": "FC Koln", 
+            "date": "2014-11-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.7", 
+            "B365H": "1.95", 
+            "awayTeamName": "Mainz", 
+            "date": "2014-11-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.5", 
+            "B365H": "2.2", 
+            "awayTeamName": "Paderborn", 
+            "date": "2014-11-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-11-29", 
+    "time_start": "2014-11-29"
+}

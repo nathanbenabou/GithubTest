@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.03", 
+            "B365D": "3.4", 
+            "B365H": "1.86", 
+            "awayTeamName": "Academica", 
+            "date": "2014-11-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-11-10", 
+    "time_start": "2014-11-10"
+}

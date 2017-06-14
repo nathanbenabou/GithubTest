@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3.5", 
+            "B365H": "1.91", 
+            "awayTeamName": "Sociedad", 
+            "date": "2014-01-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-01-13", 
+    "time_start": "2014-01-13"
+}

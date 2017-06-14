@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8", 
+            "B365D": "4.2", 
+            "B365H": "1.45", 
+            "awayTeamName": "Sampdoria", 
+            "date": "2015-12-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lazio", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2015-12-14", 
+    "time_start": "2015-12-14"
+}

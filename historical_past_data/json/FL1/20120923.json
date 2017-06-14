@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.5", 
+            "B365D": "3.4", 
+            "B365H": "1.57", 
+            "awayTeamName": "Ajaccio", 
+            "date": "2012-09-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Lyon", 
+            "date": "2012-09-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2012-09-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-09-23", 
+    "time_start": "2012-09-23"
+}

@@ -1,0 +1,116 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "1.29", 
+            "B365H": "0", 
+            "awayTeamName": "Cardiff", 
+            "date": "2014-01-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.38", 
+            "B365H": "1", 
+            "awayTeamName": "Norwich", 
+            "date": "2014-01-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Crystal Palace", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.5", 
+            "B365H": "1", 
+            "awayTeamName": "West Ham", 
+            "date": "2014-01-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "1.3", 
+            "B365H": "0", 
+            "awayTeamName": "Hull", 
+            "date": "2014-01-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "1.8", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2014-01-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "4", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2014-01-01", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Southampton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "4", 
+            "B365H": "0", 
+            "awayTeamName": "Everton", 
+            "date": "2014-01-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.15", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2014-01-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.25", 
+            "B365D": "5.75", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2014-01-01", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.6", 
+            "B365H": "1", 
+            "awayTeamName": "Newcastle", 
+            "date": "2014-01-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-01-01", 
+    "time_start": "2014-01-01"
+}

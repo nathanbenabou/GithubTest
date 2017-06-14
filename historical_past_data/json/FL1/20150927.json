@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.38", 
+            "B365D": "3.1", 
+            "B365H": "3.25", 
+            "awayTeamName": "Monaco", 
+            "date": "2015-09-27", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "8.5", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Angers", 
+            "date": "2015-09-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.25", 
+            "B365H": "2.2", 
+            "awayTeamName": "Lorient", 
+            "date": "2015-09-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "3.6", 
+            "B365H": "1.73", 
+            "awayTeamName": "Nice", 
+            "date": "2015-09-27", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-09-27", 
+    "time_start": "2015-09-27"
+}

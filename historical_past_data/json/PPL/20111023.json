@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.5", 
+            "B365D": "3.25", 
+            "B365H": "1.67", 
+            "awayTeamName": "Setubal", 
+            "date": "2011-10-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "15", 
+            "B365D": "6", 
+            "B365H": "1.12", 
+            "awayTeamName": "Nacional", 
+            "date": "2011-10-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3", 
+            "B365H": "2", 
+            "awayTeamName": "Leiria", 
+            "date": "2011-10-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "3.75", 
+            "B365H": "1.36", 
+            "awayTeamName": "Feirense", 
+            "date": "2011-10-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-10-23", 
+    "time_start": "2011-10-23"
+}

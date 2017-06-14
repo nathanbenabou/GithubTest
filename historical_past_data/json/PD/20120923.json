@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.2", 
+            "B365D": "3.4", 
+            "B365H": "2.2", 
+            "awayTeamName": "Malaga", 
+            "date": "2012-09-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "5.25", 
+            "B365H": "1.3", 
+            "awayTeamName": "Valladolid", 
+            "date": "2012-09-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Sociedad", 
+            "date": "2012-09-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.25", 
+            "B365H": "2.8", 
+            "awayTeamName": "Valencia", 
+            "date": "2012-09-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Mallorca", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-09-23", 
+    "time_start": "2012-09-23"
+}

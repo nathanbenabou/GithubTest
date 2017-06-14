@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.6", 
+            "B365H": "0", 
+            "awayTeamName": "Norwich", 
+            "date": "2015-10-18", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Newcastle", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-10-18", 
+    "time_start": "2015-10-18"
+}

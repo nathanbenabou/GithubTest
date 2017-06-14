@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Santander", 
+            "date": "2011-04-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.2", 
+            "B365H": "2.3", 
+            "awayTeamName": "Mallorca", 
+            "date": "2011-04-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.25", 
+            "B365H": "2.3", 
+            "awayTeamName": "Malaga", 
+            "date": "2011-04-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.25", 
+            "B365H": "2.5", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2011-04-03", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4", 
+            "B365H": "1.53", 
+            "awayTeamName": "Zaragoza", 
+            "date": "2011-04-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.5", 
+            "B365H": "1.83", 
+            "awayTeamName": "Hercules", 
+            "date": "2011-04-03", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-04-03", 
+    "time_start": "2011-04-03"
+}

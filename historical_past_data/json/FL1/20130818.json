@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "3.2", 
+            "B365H": "2.15", 
+            "awayTeamName": "Nantes", 
+            "date": "2013-08-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "3.8", 
+            "B365H": "1.53", 
+            "awayTeamName": "Montpellier", 
+            "date": "2013-08-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "6.5", 
+            "B365H": "1.2", 
+            "awayTeamName": "Ajaccio", 
+            "date": "2013-08-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-08-18", 
+    "time_start": "2013-08-18"
+}

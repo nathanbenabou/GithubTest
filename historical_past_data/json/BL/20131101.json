@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "12", 
+            "B365D": "6", 
+            "B365H": "1.22", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2013-11-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-11-01", 
+    "time_start": "2013-11-01"
+}

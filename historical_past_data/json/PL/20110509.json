@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.25", 
+            "B365D": "2.88", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2011-05-09", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-05-09", 
+    "time_start": "2011-05-09"
+}

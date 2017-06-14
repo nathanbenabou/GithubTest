@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "12", 
+            "B365D": "6", 
+            "B365H": "1.25", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2014-12-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.55", 
+            "B365D": "3.2", 
+            "B365H": "2.88", 
+            "awayTeamName": "Augsburg", 
+            "date": "2014-12-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.95", 
+            "B365D": "3.6", 
+            "B365H": "3.8", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2014-12-06", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "3.8", 
+            "B365H": "1.67", 
+            "awayTeamName": "Hertha", 
+            "date": "2014-12-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.3", 
+            "B365H": "2.38", 
+            "awayTeamName": "Freiburg", 
+            "date": "2014-12-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Paderborn", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.4", 
+            "B365H": "2.25", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2014-12-06", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-12-06", 
+    "time_start": "2014-12-06"
+}

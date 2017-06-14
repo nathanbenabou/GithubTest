@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "4.2", 
+            "B365H": "1.55", 
+            "awayTeamName": "Granada", 
+            "date": "2017-02-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Eibar", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-02-13", 
+    "time_start": "2017-02-13"
+}

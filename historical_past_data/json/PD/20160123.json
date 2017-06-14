@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.55", 
+            "B365D": "3.2", 
+            "B365H": "2.9", 
+            "awayTeamName": "Villarreal", 
+            "date": "2016-01-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3.1", 
+            "B365H": "2.63", 
+            "awayTeamName": "Getafe", 
+            "date": "2016-01-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.33", 
+            "B365D": "5.5", 
+            "B365H": "8.5", 
+            "awayTeamName": "Barcelona", 
+            "date": "2016-01-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.63", 
+            "B365D": "3.4", 
+            "B365H": "2.7", 
+            "awayTeamName": "Celta", 
+            "date": "2016-01-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-01-23", 
+    "time_start": "2016-01-23"
+}

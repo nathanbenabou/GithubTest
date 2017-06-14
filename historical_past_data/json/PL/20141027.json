@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.25", 
+            "B365D": "2.38", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2014-10-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "QPR", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-10-27", 
+    "time_start": "2014-10-27"
+}

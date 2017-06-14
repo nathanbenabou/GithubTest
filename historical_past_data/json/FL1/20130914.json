@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3", 
+            "B365H": "2.7", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2013-09-14", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.25", 
+            "B365H": "2.05", 
+            "awayTeamName": "Bastia", 
+            "date": "2013-09-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.25", 
+            "B365H": "1.83", 
+            "awayTeamName": "Reims", 
+            "date": "2013-09-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.25", 
+            "B365H": "1.91", 
+            "awayTeamName": "Sochaux", 
+            "date": "2013-09-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nantes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3", 
+            "B365H": "2.88", 
+            "awayTeamName": "Marseille", 
+            "date": "2013-09-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.25", 
+            "B365D": "3.1", 
+            "B365H": "3.4", 
+            "awayTeamName": "St Etienne", 
+            "date": "2013-09-14", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-09-14", 
+    "time_start": "2013-09-14"
+}

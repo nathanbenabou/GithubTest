@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8.5", 
+            "B365D": "4.33", 
+            "B365H": "1.4", 
+            "awayTeamName": "Zaragoza", 
+            "date": "2011-12-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Getafe", 
+            "date": "2011-12-17", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mallorca", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.4", 
+            "B365D": "4.5", 
+            "B365H": "8", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2011-12-17", 
+            "goalsAwayTeam": "6", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.25", 
+            "B365H": "2.2", 
+            "awayTeamName": "Espanol", 
+            "date": "2011-12-17", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Gijon", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-12-17", 
+    "time_start": "2011-12-17"
+}

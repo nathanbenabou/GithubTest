@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.45", 
+            "B365D": "3.22", 
+            "B365H": "2.33", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2015-05-04", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.11", 
+            "B365D": "3.37", 
+            "B365H": "3.85", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2015-05-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-05-04", 
+    "time_start": "2015-05-04"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "3.5", 
+            "B365H": "1.83", 
+            "awayTeamName": "Betis", 
+            "date": "2012-08-19", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "26", 
+            "B365D": "9", 
+            "B365H": "1.1", 
+            "awayTeamName": "Sociedad", 
+            "date": "2012-08-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.4", 
+            "B365H": "3.2", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2012-08-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "6", 
+            "B365H": "1.25", 
+            "awayTeamName": "Valencia", 
+            "date": "2012-08-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-08-19", 
+    "time_start": "2012-08-19"
+}

@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3.23", 
+            "B365H": "3.12", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2015-04-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.95", 
+            "B365D": "3.42", 
+            "B365H": "2.06", 
+            "awayTeamName": "Moreirense", 
+            "date": "2015-04-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.62", 
+            "B365D": "3.22", 
+            "B365H": "2.96", 
+            "awayTeamName": "Arouca", 
+            "date": "2015-04-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Penafiel", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.85", 
+            "B365D": "3.22", 
+            "B365H": "2.71", 
+            "awayTeamName": "Estoril", 
+            "date": "2015-04-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "19.3", 
+            "B365D": "7.45", 
+            "B365H": "1.18", 
+            "awayTeamName": "Boavista", 
+            "date": "2015-04-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-04-19", 
+    "time_start": "2015-04-19"
+}

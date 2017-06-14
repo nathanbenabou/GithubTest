@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.25", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2013-04-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4.33", 
+            "B365H": "1.4", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2013-04-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.25", 
+            "B365H": "2.2", 
+            "awayTeamName": "Maritimo", 
+            "date": "2013-04-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.2", 
+            "B365H": "3.1", 
+            "awayTeamName": "Estoril", 
+            "date": "2013-04-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-04-21", 
+    "time_start": "2013-04-21"
+}

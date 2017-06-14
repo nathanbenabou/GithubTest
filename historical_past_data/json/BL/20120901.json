@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.4", 
+            "B365D": "3.3", 
+            "B365H": "2.9", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2012-09-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Fortuna Dusseldorf", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.4", 
+            "B365H": "2.05", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2012-09-01", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "4", 
+            "B365H": "1.57", 
+            "awayTeamName": "Freiburg", 
+            "date": "2012-09-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.55", 
+            "B365D": "4", 
+            "B365H": "6", 
+            "awayTeamName": "Dortmund", 
+            "date": "2012-09-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "8.5", 
+            "B365D": "4.75", 
+            "B365H": "1.36", 
+            "awayTeamName": "Augsburg", 
+            "date": "2012-09-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.75", 
+            "B365H": "1.73", 
+            "awayTeamName": "Hamburg", 
+            "date": "2012-09-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-09-01", 
+    "time_start": "2012-09-01"
+}

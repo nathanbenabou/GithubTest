@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "15", 
+            "B365D": "7", 
+            "B365H": "1.17", 
+            "awayTeamName": "Freiburg", 
+            "date": "2011-09-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "7", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Hertha", 
+            "date": "2011-09-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2011-09-10", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.6", 
+            "B365H": "1.91", 
+            "awayTeamName": "Kaiserslautern", 
+            "date": "2011-09-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.6", 
+            "B365H": "1.85", 
+            "awayTeamName": "Hannover", 
+            "date": "2011-09-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "4.2", 
+            "B365H": "1.6", 
+            "awayTeamName": "Hamburg", 
+            "date": "2011-09-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2011-09-10", 
+    "time_start": "2011-09-10"
+}

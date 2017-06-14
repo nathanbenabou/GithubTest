@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "1.29", 
+            "B365H": "0", 
+            "awayTeamName": "Bolton", 
+            "date": "2012-02-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "1.17", 
+            "B365H": "0", 
+            "awayTeamName": "Blackburn", 
+            "date": "2012-02-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Man City", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "1.57", 
+            "B365H": "0", 
+            "awayTeamName": "Wolves", 
+            "date": "2012-02-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Newcastle", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.63", 
+            "B365H": "0", 
+            "awayTeamName": "Fulham", 
+            "date": "2012-02-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "QPR", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.4", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2012-02-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.75", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2012-02-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Wigan", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2012-02-25", 
+    "time_start": "2012-02-25"
+}

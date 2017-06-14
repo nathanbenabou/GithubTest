@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.24", 
+            "B365D": "3.45", 
+            "B365H": "1.98", 
+            "awayTeamName": "Belenenses", 
+            "date": "2014-02-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.35", 
+            "B365D": "3.13", 
+            "B365H": "3.5", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2014-02-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-02-08", 
+    "time_start": "2014-02-08"
+}

@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "1.67", 
+            "B365H": "0", 
+            "awayTeamName": "Blackburn", 
+            "date": "2010-10-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "2.5", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2010-10-24", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Man City", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "5.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2010-10-24", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2010-10-24", 
+    "time_start": "2010-10-24"
+}

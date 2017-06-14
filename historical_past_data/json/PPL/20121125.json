@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.2", 
+            "B365D": "3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2012-11-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.2", 
+            "B365H": "1.83", 
+            "awayTeamName": "Estoril", 
+            "date": "2012-11-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.62", 
+            "B365D": "3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2012-11-25", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3", 
+            "B365H": "3.4", 
+            "awayTeamName": "Porto", 
+            "date": "2012-11-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-11-25", 
+    "time_start": "2012-11-25"
+}

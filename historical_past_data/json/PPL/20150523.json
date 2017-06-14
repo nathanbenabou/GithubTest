@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.49", 
+            "B365D": "3.24", 
+            "B365H": "3.11", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.39", 
+            "B365D": "3.35", 
+            "B365H": "2.29", 
+            "awayTeamName": "Moreirense", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "18.25", 
+            "B365D": "8.76", 
+            "B365H": "1.16", 
+            "awayTeamName": "Maritimo", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.66", 
+            "B365D": "3.54", 
+            "B365H": "1.88", 
+            "awayTeamName": "Boavista", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.82", 
+            "B365D": "3.72", 
+            "B365H": "4.72", 
+            "awayTeamName": "Belenenses", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.34", 
+            "B365D": "3.52", 
+            "B365H": "2.23", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.63", 
+            "B365D": "4", 
+            "B365H": "5.99", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "9.85", 
+            "B365D": "4.63", 
+            "B365H": "1.4", 
+            "awayTeamName": "Setubal", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-05-23", 
+    "time_start": "2015-05-23"
+}

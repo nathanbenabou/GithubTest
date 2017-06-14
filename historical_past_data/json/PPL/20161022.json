@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.06", 
+            "B365D": "3.03", 
+            "B365H": "2.71", 
+            "awayTeamName": "Setubal", 
+            "date": "2016-10-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Feirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "17.67", 
+            "B365D": "7.44", 
+            "B365H": "1.2", 
+            "awayTeamName": "Arouca", 
+            "date": "2016-10-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "17.73", 
+            "B365D": "7.89", 
+            "B365H": "1.19", 
+            "awayTeamName": "Tondela", 
+            "date": "2016-10-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-10-22", 
+    "time_start": "2016-10-22"
+}

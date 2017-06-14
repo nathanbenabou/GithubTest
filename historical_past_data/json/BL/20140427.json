@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3.6", 
+            "B365H": "1.85", 
+            "awayTeamName": "Hamburg", 
+            "date": "2014-04-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.6", 
+            "B365H": "2", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2014-04-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-04-27", 
+    "time_start": "2014-04-27"
+}

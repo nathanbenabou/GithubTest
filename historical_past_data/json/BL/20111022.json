@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "9.5", 
+            "B365D": "5.5", 
+            "B365H": "1.29", 
+            "awayTeamName": "FC Koln", 
+            "date": "2011-10-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.4", 
+            "B365H": "2.15", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2011-10-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.5", 
+            "B365H": "1.95", 
+            "awayTeamName": "Mainz", 
+            "date": "2011-10-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2011-10-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "Freiburg", 
+            "date": "2011-10-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Kaiserslautern", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.7", 
+            "B365D": "3.4", 
+            "B365H": "2.5", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2011-10-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2011-10-22", 
+    "time_start": "2011-10-22"
+}

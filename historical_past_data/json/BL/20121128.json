@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.36", 
+            "B365D": "4.75", 
+            "B365H": "8", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2012-11-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3.4", 
+            "B365H": "2.38", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2012-11-28", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.4", 
+            "B365H": "2.3", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2012-11-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "4", 
+            "B365H": "1.6", 
+            "awayTeamName": "Augsburg", 
+            "date": "2012-11-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.55", 
+            "B365D": "3.5", 
+            "B365H": "2.6", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2012-11-28", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-11-28", 
+    "time_start": "2012-11-28"
+}

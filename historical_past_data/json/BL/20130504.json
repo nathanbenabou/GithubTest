@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.25", 
+            "B365D": "3.4", 
+            "B365H": "3.1", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.5", 
+            "B365H": "1.8", 
+            "awayTeamName": "Fortuna Dusseldorf", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3.4", 
+            "B365H": "2.38", 
+            "awayTeamName": "Mainz", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.91", 
+            "B365D": "3.6", 
+            "B365H": "3.75", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.75", 
+            "B365H": "1.67", 
+            "awayTeamName": "Greuther Furth", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.6", 
+            "B365H": "2.1", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2013-05-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-05-04", 
+    "time_start": "2013-05-04"
+}

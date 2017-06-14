@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2016-09-11", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.4", 
+            "B365H": "2.3", 
+            "awayTeamName": "Augsburg", 
+            "date": "2016-09-11", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-09-11", 
+    "time_start": "2016-09-11"
+}

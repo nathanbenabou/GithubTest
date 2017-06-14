@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "10", 
+            "B365D": "6", 
+            "B365H": "1.29", 
+            "awayTeamName": "Sevilla", 
+            "date": "2015-02-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-02-04", 
+    "time_start": "2015-02-04"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "9", 
+            "B365D": "1.17", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2014-03-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.4", 
+            "B365H": "1", 
+            "awayTeamName": "Hull", 
+            "date": "2014-03-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-03-26", 
+    "time_start": "2014-03-26"
+}

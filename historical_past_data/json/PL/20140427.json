@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "7.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2014-04-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Crystal Palace", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "1.67", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2014-04-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "1.91", 
+            "B365H": "1", 
+            "awayTeamName": "Cardiff", 
+            "date": "2014-04-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-04-27", 
+    "time_start": "2014-04-27"
+}

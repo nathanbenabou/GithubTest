@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "9", 
+            "B365D": "1.1", 
+            "B365H": "0", 
+            "awayTeamName": "Blackpool", 
+            "date": "2010-09-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "1.7", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2010-09-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "5", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2010-09-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Wigan", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2010-09-19", 
+    "time_start": "2010-09-19"
+}

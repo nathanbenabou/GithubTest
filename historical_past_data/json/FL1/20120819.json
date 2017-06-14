@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.62", 
+            "B365D": "3.6", 
+            "B365H": "6", 
+            "awayTeamName": "Paris SG", 
+            "date": "2012-08-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ajaccio", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.1", 
+            "B365H": "2.1", 
+            "awayTeamName": "Rennes", 
+            "date": "2012-08-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4", 
+            "B365H": "1.44", 
+            "awayTeamName": "Sochaux", 
+            "date": "2012-08-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-08-19", 
+    "time_start": "2012-08-19"
+}

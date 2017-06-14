@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.53", 
+            "B365D": "4.29", 
+            "B365H": "7.02", 
+            "awayTeamName": "Benfica", 
+            "date": "2015-01-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-01-26", 
+    "time_start": "2015-01-26"
+}

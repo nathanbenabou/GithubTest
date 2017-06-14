@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Mallorca", 
+            "date": "2010-09-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.25", 
+            "B365H": "2.1", 
+            "awayTeamName": "Sociedad", 
+            "date": "2010-09-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "15", 
+            "B365D": "7", 
+            "B365H": "1.17", 
+            "awayTeamName": "Espanol", 
+            "date": "2010-09-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2010-09-21", 
+    "time_start": "2010-09-21"
+}

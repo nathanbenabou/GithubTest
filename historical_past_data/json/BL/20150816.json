@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "3.3", 
+            "B365H": "2.05", 
+            "awayTeamName": "FC Koln", 
+            "date": "2015-08-16", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4.75", 
+            "B365H": "1.44", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2015-08-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-08-16", 
+    "time_start": "2015-08-16"
+}

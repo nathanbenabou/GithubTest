@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.17", 
+            "B365D": "7.5", 
+            "B365H": "17", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2014-12-12", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Almeria", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-12-12", 
+    "time_start": "2014-12-12"
+}

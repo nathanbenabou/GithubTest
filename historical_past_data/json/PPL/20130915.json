@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.64", 
+            "B365D": "3.25", 
+            "B365H": "2.23", 
+            "awayTeamName": "Belenenses", 
+            "date": "2013-09-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.95", 
+            "B365D": "3.72", 
+            "B365H": "1.79", 
+            "awayTeamName": "Arouca", 
+            "date": "2013-09-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.51", 
+            "B365D": "4.16", 
+            "B365H": "7.89", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2013-09-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.63", 
+            "B365D": "3.14", 
+            "B365H": "3.03", 
+            "awayTeamName": "Maritimo", 
+            "date": "2013-09-15", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "6.04", 
+            "B365D": "4", 
+            "B365H": "1.63", 
+            "awayTeamName": "Estoril", 
+            "date": "2013-09-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-09-15", 
+    "time_start": "2013-09-15"
+}

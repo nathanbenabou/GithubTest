@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.99", 
+            "B365D": "3.13", 
+            "B365H": "2.2", 
+            "awayTeamName": "Arouca", 
+            "date": "2017-02-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Chaves", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.18", 
+            "B365D": "2.91", 
+            "B365H": "2.72", 
+            "awayTeamName": "Boavista", 
+            "date": "2017-02-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Feirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.91", 
+            "B365D": "3.19", 
+            "B365H": "2.19", 
+            "awayTeamName": "Estoril", 
+            "date": "2017-02-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "9.63", 
+            "B365D": "4.82", 
+            "B365H": "1.4", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2017-02-18", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-02-18", 
+    "time_start": "2017-02-18"
+}

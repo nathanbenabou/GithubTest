@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3.28", 
+            "B365H": "3.08", 
+            "awayTeamName": "Nacional", 
+            "date": "2014-02-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.27", 
+            "B365D": "5.9", 
+            "B365H": "14", 
+            "awayTeamName": "Porto", 
+            "date": "2014-02-16", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.55", 
+            "B365D": "3.11", 
+            "B365H": "2.34", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2014-02-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.15", 
+            "B365D": "3.55", 
+            "B365H": "1.97", 
+            "awayTeamName": "Setubal", 
+            "date": "2014-02-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.41", 
+            "B365D": "4.8", 
+            "B365H": "8.93", 
+            "awayTeamName": "Benfica", 
+            "date": "2014-02-16", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-02-16", 
+    "time_start": "2014-02-16"
+}

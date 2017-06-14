@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.4", 
+            "B365D": "3.2", 
+            "B365H": "2.87", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2013-05-19", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "15", 
+            "B365D": "7", 
+            "B365H": "1.14", 
+            "awayTeamName": "Moreirense", 
+            "date": "2013-05-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.87", 
+            "B365D": "3.1", 
+            "B365H": "2.4", 
+            "awayTeamName": "Estoril", 
+            "date": "2013-05-19", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.4", 
+            "B365H": "1.83", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2013-05-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.4", 
+            "B365H": "1.95", 
+            "awayTeamName": "Academica", 
+            "date": "2013-05-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.4", 
+            "B365H": "1.8", 
+            "awayTeamName": "Maritimo", 
+            "date": "2013-05-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.25", 
+            "B365D": "5.5", 
+            "B365H": "9.5", 
+            "awayTeamName": "Porto", 
+            "date": "2013-05-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.2", 
+            "B365H": "3.2", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2013-05-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-05-19", 
+    "time_start": "2013-05-19"
+}

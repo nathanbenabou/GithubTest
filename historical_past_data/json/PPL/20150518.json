@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3.34", 
+            "B365H": "3.02", 
+            "awayTeamName": "Nacional", 
+            "date": "2015-05-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-05-18", 
+    "time_start": "2015-05-18"
+}

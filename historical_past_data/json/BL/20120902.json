@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "11", 
+            "B365D": "6", 
+            "B365H": "1.25", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2012-09-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.5", 
+            "B365H": "1.95", 
+            "awayTeamName": "Hannover", 
+            "date": "2012-09-02", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-09-02", 
+    "time_start": "2012-09-02"
+}

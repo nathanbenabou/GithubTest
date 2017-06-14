@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.4", 
+            "B365H": "0", 
+            "awayTeamName": "Leicester", 
+            "date": "2016-12-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bournemouth", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "4.2", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2016-12-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-12-13", 
+    "time_start": "2016-12-13"
+}

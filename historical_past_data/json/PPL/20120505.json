@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "3", 
+            "B365H": "1.91", 
+            "awayTeamName": "Setubal", 
+            "date": "2012-05-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "", 
+            "B365D": "", 
+            "B365H": "", 
+            "awayTeamName": "Leiria", 
+            "date": "2012-05-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "2.88", 
+            "B365H": "2.62", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2012-05-05", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Feirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3", 
+            "B365H": "1.83", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2012-05-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "2.88", 
+            "B365H": "2.62", 
+            "awayTeamName": "Maritimo", 
+            "date": "2012-05-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2012-05-05", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.4", 
+            "B365H": "1.53", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2012-05-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4", 
+            "B365H": "1.33", 
+            "awayTeamName": "Beira Mar", 
+            "date": "2012-05-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-05-05", 
+    "time_start": "2012-05-05"
+}

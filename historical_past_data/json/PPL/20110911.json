@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "3.2", 
+            "B365H": "2.1", 
+            "awayTeamName": "Leiria", 
+            "date": "2011-09-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.25", 
+            "B365H": "2", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2011-09-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.2", 
+            "B365H": "1.91", 
+            "awayTeamName": "Feirense", 
+            "date": "2011-09-11", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4", 
+            "B365H": "1.44", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2011-09-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-09-11", 
+    "time_start": "2011-09-11"
+}

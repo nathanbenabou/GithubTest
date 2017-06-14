@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "21", 
+            "B365D": "8", 
+            "B365H": "1.13", 
+            "awayTeamName": "Augsburg", 
+            "date": "2012-04-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.4", 
+            "B365H": "2.8", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2012-04-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Nurnberg", 
+            "date": "2012-04-07", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.3", 
+            "B365H": "2.75", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2012-04-07", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Kaiserslautern", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.75", 
+            "B365H": "1.57", 
+            "awayTeamName": "Hertha", 
+            "date": "2012-04-07", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.4", 
+            "B365H": "2.05", 
+            "awayTeamName": "Mainz", 
+            "date": "2012-04-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.57", 
+            "B365D": "4", 
+            "B365H": "5.5", 
+            "awayTeamName": "Dortmund", 
+            "date": "2012-04-07", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-04-07", 
+    "time_start": "2012-04-07"
+}

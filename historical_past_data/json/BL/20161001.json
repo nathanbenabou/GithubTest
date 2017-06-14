@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "19", 
+            "B365D": "7", 
+            "B365H": "1.17", 
+            "awayTeamName": "FC Koln", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.4", 
+            "B365H": "3.1", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Darmstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.3", 
+            "B365H": "2.3", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.25", 
+            "B365H": "2", 
+            "awayTeamName": "Hamburg", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2.05", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ingolstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.95", 
+            "B365D": "3.6", 
+            "B365H": "3.8", 
+            "awayTeamName": "Dortmund", 
+            "date": "2016-10-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-10-01", 
+    "time_start": "2016-10-01"
+}

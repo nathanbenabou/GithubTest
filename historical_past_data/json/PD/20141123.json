@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Cordoba", 
+            "date": "2014-11-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Elche", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.67", 
+            "B365D": "3.75", 
+            "B365H": "5", 
+            "awayTeamName": "Valencia", 
+            "date": "2014-11-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.55", 
+            "B365D": "3.3", 
+            "B365H": "2.7", 
+            "awayTeamName": "Celta", 
+            "date": "2014-11-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "4.5", 
+            "B365H": "1.44", 
+            "awayTeamName": "Getafe", 
+            "date": "2014-11-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-11-23", 
+    "time_start": "2014-11-23"
+}

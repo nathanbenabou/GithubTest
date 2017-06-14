@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "4.5", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2017-05-18", 
+            "goalsAwayTeam": "6", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Leicester", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2017-05-18", 
+    "time_start": "2017-05-18"
+}

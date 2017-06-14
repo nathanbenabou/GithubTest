@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8.5", 
+            "B365D": "5", 
+            "B365H": "1.36", 
+            "awayTeamName": "Bologna", 
+            "date": "2017-04-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Atalanta", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.63", 
+            "B365D": "3.4", 
+            "B365H": "2.7", 
+            "awayTeamName": "Inter", 
+            "date": "2017-04-22", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Fiorentina", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2017-04-22", 
+    "time_start": "2017-04-22"
+}

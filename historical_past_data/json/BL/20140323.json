@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.5", 
+            "B365D": "3.8", 
+            "B365H": "1.73", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2014-03-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3.3", 
+            "B365H": "2.4", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2014-03-23", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-03-23", 
+    "time_start": "2014-03-23"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "13", 
+            "B365D": "6.5", 
+            "B365H": "1.2", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2013-08-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-08-23", 
+    "time_start": "2013-08-23"
+}

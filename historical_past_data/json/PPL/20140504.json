@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.52", 
+            "B365D": "3.18", 
+            "B365H": "2.32", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2014-05-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.51", 
+            "B365D": "3.01", 
+            "B365H": "2.42", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2014-05-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "13.13", 
+            "B365D": "6.42", 
+            "B365H": "1.25", 
+            "awayTeamName": "Setubal", 
+            "date": "2014-05-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.77", 
+            "B365D": "3.32", 
+            "B365H": "2.15", 
+            "awayTeamName": "Belenenses", 
+            "date": "2014-05-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.6", 
+            "B365D": "4.24", 
+            "B365H": "5.91", 
+            "awayTeamName": "Porto", 
+            "date": "2014-05-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.22", 
+            "B365D": "3.26", 
+            "B365H": "3.65", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2014-05-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.32", 
+            "B365D": "3.68", 
+            "B365H": "1.9", 
+            "awayTeamName": "Maritimo", 
+            "date": "2014-05-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-05-04", 
+    "time_start": "2014-05-04"
+}

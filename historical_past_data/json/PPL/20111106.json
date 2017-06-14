@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.2", 
+            "B365D": "3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Feirense", 
+            "date": "2011-11-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.7", 
+            "B365D": "3", 
+            "B365H": "2.38", 
+            "awayTeamName": "Nacional", 
+            "date": "2011-11-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2011-11-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3", 
+            "B365H": "3.4", 
+            "awayTeamName": "Benfica", 
+            "date": "2011-11-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "5", 
+            "B365H": "1.22", 
+            "awayTeamName": "Leiria", 
+            "date": "2011-11-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-11-06", 
+    "time_start": "2011-11-06"
+}

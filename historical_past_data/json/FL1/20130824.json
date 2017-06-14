@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "3.6", 
+            "B365H": "1.7", 
+            "awayTeamName": "Bastia", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.38", 
+            "awayTeamName": "Rennes", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.1", 
+            "B365H": "2.3", 
+            "awayTeamName": "Lorient", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4", 
+            "B365H": "1.53", 
+            "awayTeamName": "Reims", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.5", 
+            "B365H": "1.73", 
+            "awayTeamName": "Sochaux", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.3", 
+            "B365H": "3.5", 
+            "awayTeamName": "Marseille", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-08-24", 
+    "time_start": "2013-08-24"
+}

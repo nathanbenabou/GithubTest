@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "4.33", 
+            "B365H": "1.5", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2013-12-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.6", 
+            "B365H": "2.1", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2013-12-07", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.5", 
+            "B365H": "2.05", 
+            "awayTeamName": "Augsburg", 
+            "date": "2013-12-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.4", 
+            "B365H": "2.25", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2013-12-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "Hannover", 
+            "date": "2013-12-07", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.22", 
+            "B365D": "6", 
+            "B365H": "12", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2013-12-07", 
+            "goalsAwayTeam": "7", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-12-07", 
+    "time_start": "2013-12-07"
+}

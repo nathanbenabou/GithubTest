@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "10", 
+            "B365D": "6", 
+            "B365H": "1.17", 
+            "awayTeamName": "Maritimo", 
+            "date": "2011-01-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.1", 
+            "B365H": "1.8", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2011-01-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-01-08", 
+    "time_start": "2011-01-08"
+}

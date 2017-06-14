@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.59", 
+            "B365D": "3.21", 
+            "B365H": "3.01", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "6.04", 
+            "B365D": "3.58", 
+            "B365H": "1.71", 
+            "awayTeamName": "Academica", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.3", 
+            "B365D": "3.33", 
+            "B365H": "2.01", 
+            "awayTeamName": "Belenenses", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "19", 
+            "B365D": "7.39", 
+            "B365H": "1.19", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-02-22", 
+    "time_start": "2015-02-22"
+}

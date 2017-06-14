@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.5", 
+            "B365D": "4.33", 
+            "B365H": "6.5", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2015-01-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-01-30", 
+    "time_start": "2015-01-30"
+}

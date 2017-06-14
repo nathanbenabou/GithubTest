@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.24", 
+            "B365D": "6.16", 
+            "B365H": "15.66", 
+            "awayTeamName": "Benfica", 
+            "date": "2015-03-08", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.11", 
+            "B365D": "3.21", 
+            "B365H": "4.09", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2015-03-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "5.07", 
+            "B365D": "3.61", 
+            "B365H": "1.8", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2015-03-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.08", 
+            "B365D": "3.35", 
+            "B365H": "2.46", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2015-03-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.48", 
+            "B365D": "3.2", 
+            "B365H": "2.02", 
+            "awayTeamName": "Academica", 
+            "date": "2015-03-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-03-08", 
+    "time_start": "2015-03-08"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.53", 
+            "B365D": "4.33", 
+            "B365H": "6", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2017-02-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-02-22", 
+    "time_start": "2017-02-22"
+}

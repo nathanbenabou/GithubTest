@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.6", 
+            "B365D": "3.1", 
+            "B365H": "2.8", 
+            "awayTeamName": "Lyon", 
+            "date": "2013-05-05", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "12", 
+            "B365D": "6.5", 
+            "B365H": "1.2", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2013-05-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.1", 
+            "B365H": "2.6", 
+            "awayTeamName": "Nice", 
+            "date": "2013-05-05", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-05-05", 
+    "time_start": "2013-05-05"
+}

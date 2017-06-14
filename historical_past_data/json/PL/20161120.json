@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "7", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2016-11-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Middlesbrough", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-11-20", 
+    "time_start": "2016-11-20"
+}

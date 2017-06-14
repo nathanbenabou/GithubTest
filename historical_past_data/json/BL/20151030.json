@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.17", 
+            "B365D": "8", 
+            "B365H": "15", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2015-10-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-10-30", 
+    "time_start": "2015-10-30"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "11", 
+            "B365D": "5.5", 
+            "B365H": "1.17", 
+            "awayTeamName": "Feirense", 
+            "date": "2011-08-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-08-20", 
+    "time_start": "2011-08-20"
+}

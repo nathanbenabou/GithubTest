@@ -1,0 +1,116 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.25", 
+            "B365D": "1.4", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2015-05-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Burnley", 
+            "date": "2015-05-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "1.36", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2015-05-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "2.25", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2015-05-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Crystal Palace", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "2.4", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2015-05-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.2", 
+            "B365H": "1", 
+            "awayTeamName": "Man United", 
+            "date": "2015-05-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hull", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "1.6", 
+            "B365H": "0", 
+            "awayTeamName": "QPR", 
+            "date": "2015-05-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Leicester", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "1.57", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2015-05-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Man City", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "1.83", 
+            "B365H": "0", 
+            "awayTeamName": "West Ham", 
+            "date": "2015-05-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Newcastle", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.5", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2015-05-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-05-24", 
+    "time_start": "2015-05-24"
+}

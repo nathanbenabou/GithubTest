@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "2.25", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2015-09-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-09-14", 
+    "time_start": "2015-09-14"
+}

@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "3.6", 
+            "B365H": "1.57", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2012-10-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "3.5", 
+            "B365H": "1.7", 
+            "awayTeamName": "Nice", 
+            "date": "2012-10-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.5", 
+            "B365D": "3.75", 
+            "B365H": "7.5", 
+            "awayTeamName": "Paris SG", 
+            "date": "2012-10-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.4", 
+            "B365H": "1.75", 
+            "awayTeamName": "Troyes", 
+            "date": "2012-10-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "3.75", 
+            "B365H": "1.5", 
+            "awayTeamName": "Brest", 
+            "date": "2012-10-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-10-27", 
+    "time_start": "2012-10-27"
+}

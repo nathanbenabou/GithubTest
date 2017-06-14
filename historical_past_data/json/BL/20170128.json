@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.15", 
+            "B365D": "3.3", 
+            "B365H": "3.6", 
+            "awayTeamName": "FC Koln", 
+            "date": "2017-01-28", 
+            "goalsAwayTeam": "6", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Darmstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.2", 
+            "B365H": "2.2", 
+            "awayTeamName": "Hamburg", 
+            "date": "2017-01-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ingolstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.6", 
+            "B365H": "1.85", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2017-01-28", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.8", 
+            "B365D": "3.75", 
+            "B365H": "1.73", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2017-01-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "RB Leipzig", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.2", 
+            "B365D": "6.5", 
+            "B365H": "15", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2017-01-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.5", 
+            "B365H": "1.95", 
+            "awayTeamName": "Augsburg", 
+            "date": "2017-01-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2017-01-28", 
+    "time_start": "2017-01-28"
+}

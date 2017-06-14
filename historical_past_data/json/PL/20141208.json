@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.8", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2014-12-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Southampton", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-12-08", 
+    "time_start": "2014-12-08"
+}

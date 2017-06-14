@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.38", 
+            "B365D": "3.4", 
+            "B365H": "2.88", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2014-02-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Betis", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.5", 
+            "B365D": "4", 
+            "B365H": "7", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2014-02-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "4.1", 
+            "B365H": "1.5", 
+            "awayTeamName": "Granada", 
+            "date": "2014-02-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.25", 
+            "B365D": "3.4", 
+            "B365H": "3.1", 
+            "awayTeamName": "Sevilla", 
+            "date": "2014-02-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-02-23", 
+    "time_start": "2014-02-23"
+}

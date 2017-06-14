@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.75", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2016-04-16", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.7", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2016-04-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "1.22", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2016-04-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.3", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2016-04-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Newcastle", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.4", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2016-04-16", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Norwich", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "2.4", 
+            "B365H": "0", 
+            "awayTeamName": "Watford", 
+            "date": "2016-04-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-04-16", 
+    "time_start": "2016-04-16"
+}

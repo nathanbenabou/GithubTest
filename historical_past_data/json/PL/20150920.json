@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "1.67", 
+            "B365H": "0", 
+            "awayTeamName": "Norwich", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.1", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Southampton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "2", 
+            "B365H": "0", 
+            "awayTeamName": "Crystal Palace", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-09-20", 
+    "time_start": "2015-09-20"
+}

@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "3.4", 
+            "B365H": "2.2", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2015-03-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.38", 
+            "B365D": "3.4", 
+            "B365H": "3", 
+            "awayTeamName": "Augsburg", 
+            "date": "2015-03-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.62", 
+            "B365D": "4.2", 
+            "B365H": "5", 
+            "awayTeamName": "Dortmund", 
+            "date": "2015-03-21", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3.5", 
+            "B365H": "3.75", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2015-03-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Paderborn", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.5", 
+            "B365H": "3", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2015-03-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.4", 
+            "B365H": "2.5", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2015-03-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-03-21", 
+    "time_start": "2015-03-21"
+}

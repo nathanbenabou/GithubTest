@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.3", 
+            "B365D": "3.3", 
+            "B365H": "3.1", 
+            "awayTeamName": "Roma", 
+            "date": "2013-09-16", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Parma", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2013-09-16", 
+    "time_start": "2013-09-16"
+}

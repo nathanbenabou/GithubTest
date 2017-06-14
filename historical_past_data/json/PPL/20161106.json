@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.36", 
+            "B365D": "3.39", 
+            "B365H": "3.27", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2016-11-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.66", 
+            "B365D": "3.24", 
+            "B365H": "2.25", 
+            "awayTeamName": "Setubal", 
+            "date": "2016-11-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.32", 
+            "B365H": "2.19", 
+            "awayTeamName": "Benfica", 
+            "date": "2016-11-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "16", 
+            "B365D": "6.89", 
+            "B365H": "1.22", 
+            "awayTeamName": "Arouca", 
+            "date": "2016-11-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-11-06", 
+    "time_start": "2016-11-06"
+}

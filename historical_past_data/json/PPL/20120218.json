@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.73", 
+            "B365D": "3.2", 
+            "B365H": "4.33", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2012-02-18", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-02-18", 
+    "time_start": "2012-02-18"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.75", 
+            "B365D": "1.25", 
+            "B365H": "1", 
+            "awayTeamName": "Watford", 
+            "date": "2017-05-15", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2017-05-15", 
+    "time_start": "2017-05-15"
+}

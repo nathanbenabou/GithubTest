@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "9.4", 
+            "B365D": "4.56", 
+            "B365H": "1.43", 
+            "awayTeamName": "Belenenses", 
+            "date": "2015-04-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-04-24", 
+    "time_start": "2015-04-24"
+}

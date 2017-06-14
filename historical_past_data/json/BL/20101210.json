@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.4", 
+            "B365H": "2.4", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2010-12-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2010-12-10", 
+    "time_start": "2010-12-10"
+}

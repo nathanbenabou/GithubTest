@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "3.3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Vallecano", 
+            "date": "2013-10-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "7", 
+            "B365H": "1.18", 
+            "awayTeamName": "Sevilla", 
+            "date": "2013-10-30", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "7", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Almeria", 
+            "date": "2013-10-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.3", 
+            "B365H": "2.8", 
+            "awayTeamName": "Sociedad", 
+            "date": "2013-10-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valladolid", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2013-10-30", 
+    "time_start": "2013-10-30"
+}

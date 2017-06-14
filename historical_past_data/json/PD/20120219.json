@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "3.6", 
+            "B365H": "1.83", 
+            "awayTeamName": "Malaga", 
+            "date": "2012-02-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "5.75", 
+            "B365H": "1.25", 
+            "awayTeamName": "Valencia", 
+            "date": "2012-02-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.2", 
+            "B365H": "2.3", 
+            "awayTeamName": "Sociedad", 
+            "date": "2012-02-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.2", 
+            "B365H": "2.3", 
+            "awayTeamName": "Vallecano", 
+            "date": "2012-02-19", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.25", 
+            "B365H": "2.25", 
+            "awayTeamName": "Villarreal", 
+            "date": "2012-02-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Mallorca", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.91", 
+            "B365D": "3.4", 
+            "B365H": "4", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2012-02-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Gijon", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-02-19", 
+    "time_start": "2012-02-19"
+}

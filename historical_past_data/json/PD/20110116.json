@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.25", 
+            "B365D": "6", 
+            "B365H": "10", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2011-01-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Almeria", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "23", 
+            "B365D": "10", 
+            "B365H": "1.08", 
+            "awayTeamName": "Malaga", 
+            "date": "2011-01-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "La Coruna", 
+            "date": "2011-01-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-01-16", 
+    "time_start": "2011-01-16"
+}

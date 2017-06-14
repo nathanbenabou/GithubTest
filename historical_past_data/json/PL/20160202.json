@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "1.75", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2016-02-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.45", 
+            "B365H": "0", 
+            "awayTeamName": "Bournemouth", 
+            "date": "2016-02-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Crystal Palace", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.63", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2016-02-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leicester", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "1.7", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2016-02-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "4.5", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2016-02-02", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Norwich", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "8", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2016-02-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "2.63", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2016-02-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "1.91", 
+            "B365H": "1", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2016-02-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-02-02", 
+    "time_start": "2016-02-02"
+}

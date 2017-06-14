@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Hannover", 
+            "date": "2013-03-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "5.5", 
+            "B365H": "1.3", 
+            "awayTeamName": "Hamburg", 
+            "date": "2013-03-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "9", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.8", 
+            "B365D": "3.6", 
+            "B365H": "4.33", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2013-03-30", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Fortuna Dusseldorf", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2013-03-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.5", 
+            "B365H": "2.05", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2013-03-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "4.1", 
+            "B365H": "1.57", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2013-03-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.91", 
+            "B365D": "3.6", 
+            "B365H": "3.8", 
+            "awayTeamName": "Dortmund", 
+            "date": "2013-03-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-03-30", 
+    "time_start": "2013-03-30"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "4", 
+            "B365H": "1.5", 
+            "awayTeamName": "Nice", 
+            "date": "2014-08-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-08-29", 
+    "time_start": "2014-08-29"
+}

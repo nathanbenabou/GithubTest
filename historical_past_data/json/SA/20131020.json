@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.6", 
+            "B365D": "3.2", 
+            "B365H": "2.7", 
+            "awayTeamName": "Lazio", 
+            "date": "2013-10-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Atalanta", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.3", 
+            "B365H": "3.5", 
+            "awayTeamName": "Juventus", 
+            "date": "2013-10-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Fiorentina", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Chievo", 
+            "date": "2013-10-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Genoa", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.2", 
+            "B365H": "2.3", 
+            "awayTeamName": "Sampdoria", 
+            "date": "2013-10-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Livorno", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.2", 
+            "B365H": "2.38", 
+            "awayTeamName": "Bologna", 
+            "date": "2013-10-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sassuolo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.5", 
+            "B365H": "3.4", 
+            "awayTeamName": "Inter", 
+            "date": "2013-10-20", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Torino", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.2", 
+            "B365H": "2.3", 
+            "awayTeamName": "Parma", 
+            "date": "2013-10-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Verona", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2013-10-20", 
+    "time_start": "2013-10-20"
+}

@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "3.2", 
+            "B365H": "2.1", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2016-10-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.3", 
+            "B365H": "1.91", 
+            "awayTeamName": "Nantes", 
+            "date": "2016-10-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4", 
+            "B365H": "1.57", 
+            "awayTeamName": "Metz", 
+            "date": "2016-10-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2016-10-30", 
+    "time_start": "2016-10-30"
+}

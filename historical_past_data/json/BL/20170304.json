@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "4.33", 
+            "B365H": "1.5", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.4", 
+            "B365D": "4.75", 
+            "B365H": "8.5", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.75", 
+            "B365H": "1.75", 
+            "awayTeamName": "Ingolstadt", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.4", 
+            "B365H": "2.25", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.3", 
+            "B365H": "2.3", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "4", 
+            "B365H": "1.67", 
+            "awayTeamName": "Darmstadt", 
+            "date": "2017-03-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2017-03-04", 
+    "time_start": "2017-03-04"
+}

@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "1.62", 
+            "B365H": "0", 
+            "awayTeamName": "Wigan", 
+            "date": "2011-10-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "6.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2011-10-01", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Blackburn", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.1", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2011-10-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "1.17", 
+            "B365H": "0", 
+            "awayTeamName": "Norwich", 
+            "date": "2011-10-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.25", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2011-10-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.5", 
+            "B365H": "0", 
+            "awayTeamName": "Newcastle", 
+            "date": "2011-10-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Wolves", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-10-01", 
+    "time_start": "2011-10-01"
+}

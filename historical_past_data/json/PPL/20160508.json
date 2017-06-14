@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.69", 
+            "B365D": "3.26", 
+            "B365H": "2.23", 
+            "awayTeamName": "Uniao Madeira", 
+            "date": "2016-05-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.1", 
+            "B365D": "3.56", 
+            "B365H": "2", 
+            "awayTeamName": "Moreirense", 
+            "date": "2016-05-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.32", 
+            "B365D": "5.68", 
+            "B365H": "10.78", 
+            "awayTeamName": "Benfica", 
+            "date": "2016-05-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.65", 
+            "B365D": "3.6", 
+            "B365H": "2.11", 
+            "awayTeamName": "Belenenses", 
+            "date": "2016-05-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-05-08", 
+    "time_start": "2016-05-08"
+}

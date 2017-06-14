@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "1.25", 
+            "B365H": "0", 
+            "awayTeamName": "QPR", 
+            "date": "2011-12-31", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.2", 
+            "B365H": "0", 
+            "awayTeamName": "Wolves", 
+            "date": "2011-12-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bolton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "1.29", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2011-12-31", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "1.13", 
+            "B365H": "0", 
+            "awayTeamName": "Blackburn", 
+            "date": "2011-12-31", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.6", 
+            "B365H": "0", 
+            "awayTeamName": "Fulham", 
+            "date": "2011-12-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Norwich", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "1.67", 
+            "B365H": "1", 
+            "awayTeamName": "Wigan", 
+            "date": "2011-12-31", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "5.5", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2011-12-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-12-31", 
+    "time_start": "2011-12-31"
+}

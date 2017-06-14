@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "10", 
+            "B365D": "5", 
+            "B365H": "1.3", 
+            "awayTeamName": "Reims", 
+            "date": "2014-02-21", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-02-21", 
+    "time_start": "2014-02-21"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.9", 
+            "B365D": "3.1", 
+            "B365H": "2.5", 
+            "awayTeamName": "Sampdoria", 
+            "date": "2012-10-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Chievo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Palermo", 
+            "date": "2012-10-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Genoa", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2012-10-06", 
+    "time_start": "2012-10-06"
+}

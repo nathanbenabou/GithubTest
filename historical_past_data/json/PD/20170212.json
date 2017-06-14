@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8.5", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Celta", 
+            "date": "2017-02-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.6", 
+            "B365H": "3.3", 
+            "awayTeamName": "Sevilla", 
+            "date": "2017-02-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Las Palmas", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.4", 
+            "B365H": "1.83", 
+            "awayTeamName": "Sp Gijon", 
+            "date": "2017-02-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Leganes", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.5", 
+            "B365H": "1.8", 
+            "awayTeamName": "Malaga", 
+            "date": "2017-02-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-02-12", 
+    "time_start": "2017-02-12"
+}

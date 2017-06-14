@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.29", 
+            "B365D": "5.25", 
+            "B365H": "10", 
+            "awayTeamName": "Paris SG", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.3", 
+            "B365H": "1.85", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "6", 
+            "B365H": "1.22", 
+            "awayTeamName": "Sochaux", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.75", 
+            "B365H": "1.57", 
+            "awayTeamName": "Ajaccio", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nantes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.6", 
+            "B365D": "3.25", 
+            "B365H": "1.85", 
+            "awayTeamName": "Reims", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.1", 
+            "B365H": "2.25", 
+            "awayTeamName": "Rennes", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-03-08", 
+    "time_start": "2014-03-08"
+}

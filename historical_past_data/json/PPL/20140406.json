@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.31", 
+            "B365D": "3.18", 
+            "B365H": "2.42", 
+            "awayTeamName": "Belenenses", 
+            "date": "2014-04-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.29", 
+            "B365D": "3.39", 
+            "B365H": "1.99", 
+            "awayTeamName": "Arouca", 
+            "date": "2014-04-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "13.83", 
+            "B365D": "5.48", 
+            "B365H": "1.29", 
+            "awayTeamName": "Academica", 
+            "date": "2014-04-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.49", 
+            "B365D": "3.29", 
+            "B365H": "3.09", 
+            "awayTeamName": "Nacional", 
+            "date": "2014-04-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-04-06", 
+    "time_start": "2014-04-06"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.17", 
+            "B365D": "3.26", 
+            "B365H": "2.45", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2015-03-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-03-02", 
+    "time_start": "2015-03-02"
+}

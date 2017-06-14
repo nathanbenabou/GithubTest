@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "1.4", 
+            "B365H": "0", 
+            "awayTeamName": "Wigan", 
+            "date": "2013-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "6", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2013-05-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Reading", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-05-14", 
+    "time_start": "2013-05-14"
+}

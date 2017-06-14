@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2012-08-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.2", 
+            "B365H": "1.8", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2012-08-26", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3", 
+            "B365H": "2.88", 
+            "awayTeamName": "Nacional", 
+            "date": "2012-08-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.3", 
+            "B365D": "4.33", 
+            "B365H": "8.5", 
+            "awayTeamName": "Benfica", 
+            "date": "2012-08-26", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-08-26", 
+    "time_start": "2012-08-26"
+}

@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.3", 
+            "B365D": "3.1", 
+            "B365H": "3.25", 
+            "awayTeamName": "Palermo", 
+            "date": "2010-09-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Brescia", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.1", 
+            "B365H": "2.25", 
+            "awayTeamName": "Parma", 
+            "date": "2010-09-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Catania", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "3.5", 
+            "B365H": "1.7", 
+            "awayTeamName": "Chievo", 
+            "date": "2010-09-12", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Genoa", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.5", 
+            "B365H": "1.8", 
+            "awayTeamName": "Sampdoria", 
+            "date": "2010-09-12", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "3.4", 
+            "B365H": "1.73", 
+            "awayTeamName": "Bologna", 
+            "date": "2010-09-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lazio", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.1", 
+            "B365H": "3.5", 
+            "awayTeamName": "Fiorentina", 
+            "date": "2010-09-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lecce", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "3.4", 
+            "B365H": "1.73", 
+            "awayTeamName": "Bari", 
+            "date": "2010-09-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Napoli", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2010-09-12", 
+    "time_start": "2010-09-12"
+}

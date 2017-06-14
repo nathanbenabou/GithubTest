@@ -1,0 +1,105 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.2", 
+            "B365D": "3.3", 
+            "B365H": "3.4", 
+            "awayTeamName": "Roma", 
+            "date": "2016-01-06", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Chievo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.25", 
+            "B365D": "3.2", 
+            "B365H": "3.4", 
+            "awayTeamName": "Inter", 
+            "date": "2016-01-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Empoli", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "19", 
+            "B365D": "7", 
+            "B365H": "1.17", 
+            "awayTeamName": "Verona", 
+            "date": "2016-01-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.75", 
+            "B365H": "1.4", 
+            "awayTeamName": "Carpi", 
+            "date": "2016-01-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lazio", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4.2", 
+            "B365H": "1.5", 
+            "awayTeamName": "Bologna", 
+            "date": "2016-01-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Milan", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "5", 
+            "B365H": "1.36", 
+            "awayTeamName": "Torino", 
+            "date": "2016-01-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Napoli", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.83", 
+            "B365D": "3.6", 
+            "B365H": "4.33", 
+            "awayTeamName": "Fiorentina", 
+            "date": "2016-01-06", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Palermo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4", 
+            "B365H": "1.53", 
+            "awayTeamName": "Frosinone", 
+            "date": "2016-01-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sassuolo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.25", 
+            "B365H": "2.2", 
+            "awayTeamName": "Atalanta", 
+            "date": "2016-01-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-01-06", 
+    "time_start": "2016-01-06"
+}

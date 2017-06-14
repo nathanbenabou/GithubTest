@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.2", 
+            "B365D": "2.3", 
+            "B365H": "2.88", 
+            "awayTeamName": "Lazio", 
+            "date": "2011-04-17", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Catania", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4", 
+            "B365H": "1.5", 
+            "awayTeamName": "Bari", 
+            "date": "2011-04-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Cesena", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "", 
+            "B365D": "", 
+            "B365H": "", 
+            "awayTeamName": "Bologna", 
+            "date": "2011-04-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Chievo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.63", 
+            "B365D": "3.25", 
+            "B365H": "2.63", 
+            "awayTeamName": "Juventus", 
+            "date": "2011-04-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Fiorentina", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "", 
+            "B365D": "", 
+            "B365H": "", 
+            "awayTeamName": "Brescia", 
+            "date": "2011-04-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Genoa", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "3.8", 
+            "B365H": "1.5", 
+            "awayTeamName": "Cagliari", 
+            "date": "2011-04-17", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lecce", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.5", 
+            "B365H": "1.6", 
+            "awayTeamName": "Udinese", 
+            "date": "2011-04-17", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Napoli", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2011-04-17", 
+    "time_start": "2011-04-17"
+}

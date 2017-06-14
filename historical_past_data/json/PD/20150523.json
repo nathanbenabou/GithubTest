@@ -1,0 +1,116 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.67", 
+            "B365D": "4.2", 
+            "B365H": "4.75", 
+            "awayTeamName": "Valencia", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Almeria", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "4", 
+            "B365H": "1.67", 
+            "awayTeamName": "Villarreal", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "6", 
+            "B365H": "1.25", 
+            "awayTeamName": "La Coruna", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "4", 
+            "B365H": "1.7", 
+            "awayTeamName": "Espanol", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Celta", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "9.5", 
+            "B365D": "5", 
+            "B365H": "1.33", 
+            "awayTeamName": "Cordoba", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Eibar", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "2.5", 
+            "B365H": "4.33", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.5", 
+            "B365H": "1.95", 
+            "awayTeamName": "Elche", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.75", 
+            "B365H": "3.3", 
+            "awayTeamName": "Sevilla", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "21", 
+            "B365D": "9", 
+            "B365H": "1.13", 
+            "awayTeamName": "Getafe", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "7", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.8", 
+            "B365H": "1.85", 
+            "awayTeamName": "Sociedad", 
+            "date": "2015-05-23", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-05-23", 
+    "time_start": "2015-05-23"
+}

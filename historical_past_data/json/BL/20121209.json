@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.4", 
+            "B365D": "3.5", 
+            "B365H": "2.8", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2012-12-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3.3", 
+            "B365H": "2.4", 
+            "awayTeamName": "Mainz", 
+            "date": "2012-12-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-12-09", 
+    "time_start": "2012-12-09"
+}

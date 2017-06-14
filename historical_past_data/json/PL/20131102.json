@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "2.3", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "6.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.15", 
+            "B365H": "2", 
+            "awayTeamName": "Sunderland", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hull", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "1.2", 
+            "B365H": "0", 
+            "awayTeamName": "Norwich", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "7", 
+            "homeTeamName": "Man City", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "6", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Newcastle", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.3", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "1.55", 
+            "B365H": "0", 
+            "awayTeamName": "Crystal Palace", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "2.25", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-11-02", 
+    "time_start": "2013-11-02"
+}

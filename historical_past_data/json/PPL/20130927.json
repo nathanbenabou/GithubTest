@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "18.4", 
+            "B365D": "7.35", 
+            "B365H": "1.2", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2013-09-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-09-27", 
+    "time_start": "2013-09-27"
+}

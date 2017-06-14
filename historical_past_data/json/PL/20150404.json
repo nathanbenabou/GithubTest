@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "1.83", 
+            "B365H": "1", 
+            "awayTeamName": "Liverpool", 
+            "date": "2015-04-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "1.29", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2015-04-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "2.63", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2015-04-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.38", 
+            "B365H": "0", 
+            "awayTeamName": "West Ham", 
+            "date": "2015-04-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leicester", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "1.3", 
+            "B365H": "0", 
+            "awayTeamName": "Aston Villa", 
+            "date": "2015-04-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "1.91", 
+            "B365H": "1", 
+            "awayTeamName": "Hull", 
+            "date": "2015-04-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "1.8", 
+            "B365H": "0", 
+            "awayTeamName": "QPR", 
+            "date": "2015-04-04", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-04-04", 
+    "time_start": "2015-04-04"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.38", 
+            "B365D": "3", 
+            "B365H": "3.4", 
+            "awayTeamName": "Lille", 
+            "date": "2017-04-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.75", 
+            "B365H": "1.4", 
+            "awayTeamName": "Dijon", 
+            "date": "2017-04-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2017-04-01", 
+    "time_start": "2017-04-01"
+}

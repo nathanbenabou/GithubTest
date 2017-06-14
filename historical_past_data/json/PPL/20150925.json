@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.24", 
+            "B365D": "6.16", 
+            "B365H": "17.52", 
+            "awayTeamName": "Porto", 
+            "date": "2015-09-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-09-25", 
+    "time_start": "2015-09-25"
+}

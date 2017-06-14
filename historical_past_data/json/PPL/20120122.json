@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "15", 
+            "B365D": "6.5", 
+            "B365H": "1.1", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2012-01-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.25", 
+            "B365H": "1.91", 
+            "awayTeamName": "Feirense", 
+            "date": "2012-01-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3", 
+            "B365H": "2", 
+            "awayTeamName": "Setubal", 
+            "date": "2012-01-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "5.5", 
+            "B365H": "1.2", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2012-01-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.33", 
+            "B365H": "1.3", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2012-01-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-01-22", 
+    "time_start": "2012-01-22"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.75", 
+            "B365D": "3.2", 
+            "B365H": "2.25", 
+            "awayTeamName": "Academica", 
+            "date": "2010-10-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leiria", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2010-10-01", 
+    "time_start": "2010-10-01"
+}

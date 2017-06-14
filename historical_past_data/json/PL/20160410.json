@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "1.55", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2016-04-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.4", 
+            "B365H": "0", 
+            "awayTeamName": "Leicester", 
+            "date": "2016-04-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sunderland", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "1.91", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2016-04-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-04-10", 
+    "time_start": "2016-04-10"
+}

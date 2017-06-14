@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.9", 
+            "B365D": "4.75", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2015-03-07", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "QPR", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-03-07", 
+    "time_start": "2015-03-07"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "3.75", 
+            "B365H": "1.67", 
+            "awayTeamName": "Eibar", 
+            "date": "2016-01-24", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.5", 
+            "B365H": "1.67", 
+            "awayTeamName": "Sevilla", 
+            "date": "2016-01-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.3", 
+            "B365D": "5.75", 
+            "B365H": "9.5", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2016-01-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Betis", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.3", 
+            "B365H": "2.25", 
+            "awayTeamName": "Valencia", 
+            "date": "2016-01-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-01-24", 
+    "time_start": "2016-01-24"
+}

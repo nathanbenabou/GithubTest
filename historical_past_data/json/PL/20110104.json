@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.25", 
+            "B365D": "2.3", 
+            "B365H": "0", 
+            "awayTeamName": "Birmingham", 
+            "date": "2011-01-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Blackpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "2.2", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2011-01-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "5.75", 
+            "B365D": "1.25", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2011-01-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-01-04", 
+    "time_start": "2011-01-04"
+}

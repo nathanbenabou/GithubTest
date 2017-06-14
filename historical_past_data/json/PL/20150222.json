@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "1.83", 
+            "B365H": "0", 
+            "awayTeamName": "Leicester", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.63", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Southampton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "1.8", 
+            "B365H": "0", 
+            "awayTeamName": "West Ham", 
+            "date": "2015-02-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-02-22", 
+    "time_start": "2015-02-22"
+}

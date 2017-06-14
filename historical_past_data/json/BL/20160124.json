@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.05", 
+            "B365D": "3.5", 
+            "B365H": "3.6", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2016-01-24", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "4", 
+            "B365H": "1.67", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2016-01-24", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-01-24", 
+    "time_start": "2016-01-24"
+}

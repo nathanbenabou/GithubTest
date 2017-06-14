@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.81", 
+            "B365D": "3.56", 
+            "B365H": "5.06", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2014-08-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-08-25", 
+    "time_start": "2014-08-25"
+}

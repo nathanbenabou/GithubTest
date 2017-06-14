@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.3", 
+            "B365H": "2.25", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2014-03-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-03-14", 
+    "time_start": "2014-03-14"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "26.63", 
+            "B365D": "9.87", 
+            "B365H": "1.13", 
+            "awayTeamName": "Tondela", 
+            "date": "2017-02-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-02-17", 
+    "time_start": "2017-02-17"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.9", 
+            "B365D": "1.83", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2013-02-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Man City", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.6", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2013-02-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-02-03", 
+    "time_start": "2013-02-03"
+}

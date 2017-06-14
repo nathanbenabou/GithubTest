@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "3.25", 
+            "B365H": "2.1", 
+            "awayTeamName": "Eibar", 
+            "date": "2016-03-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-03-18", 
+    "time_start": "2016-03-18"
+}

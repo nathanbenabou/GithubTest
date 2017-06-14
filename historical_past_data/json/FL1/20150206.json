@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "3.75", 
+            "B365H": "1.57", 
+            "awayTeamName": "Lens", 
+            "date": "2015-02-06", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-02-06", 
+    "time_start": "2015-02-06"
+}

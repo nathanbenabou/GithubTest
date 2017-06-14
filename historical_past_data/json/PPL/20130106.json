@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.33", 
+            "B365D": "4.33", 
+            "B365H": "7.5", 
+            "awayTeamName": "Benfica", 
+            "date": "2013-01-06", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.2", 
+            "B365H": "1.91", 
+            "awayTeamName": "Beira Mar", 
+            "date": "2013-01-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.5", 
+            "B365H": "1.29", 
+            "awayTeamName": "Moreirense", 
+            "date": "2013-01-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-01-06", 
+    "time_start": "2013-01-06"
+}

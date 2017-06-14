@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "10.77", 
+            "B365D": "5.41", 
+            "B365H": "1.33", 
+            "awayTeamName": "Estoril", 
+            "date": "2015-08-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.48", 
+            "B365D": "3.22", 
+            "B365H": "2.31", 
+            "awayTeamName": "Arouca", 
+            "date": "2015-08-16", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.42", 
+            "B365D": "3.18", 
+            "B365H": "2.36", 
+            "awayTeamName": "Boavista", 
+            "date": "2015-08-16", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "5.92", 
+            "B365D": "3.79", 
+            "B365H": "1.68", 
+            "awayTeamName": "Nacional", 
+            "date": "2015-08-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.56", 
+            "B365D": "3.22", 
+            "B365H": "3.04", 
+            "awayTeamName": "Maritimo", 
+            "date": "2015-08-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Uniao Madeira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-08-16", 
+    "time_start": "2015-08-16"
+}

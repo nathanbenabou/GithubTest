@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "11", 
+            "B365D": "7", 
+            "B365H": "1.14", 
+            "awayTeamName": "Estoril", 
+            "date": "2013-05-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-05-06", 
+    "time_start": "2013-05-06"
+}

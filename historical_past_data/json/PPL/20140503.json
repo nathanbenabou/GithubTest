@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.99", 
+            "B365D": "3.64", 
+            "B365H": "3.96", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2014-05-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-05-03", 
+    "time_start": "2014-05-03"
+}

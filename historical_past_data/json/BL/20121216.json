@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.44", 
+            "B365D": "4.33", 
+            "B365H": "7", 
+            "awayTeamName": "Dortmund", 
+            "date": "2012-12-16", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "4", 
+            "B365H": "1.83", 
+            "awayTeamName": "Nurnberg", 
+            "date": "2012-12-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2012-12-16", 
+    "time_start": "2012-12-16"
+}

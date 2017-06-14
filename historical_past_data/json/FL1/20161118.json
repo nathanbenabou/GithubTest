@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.45", 
+            "B365D": "3.1", 
+            "B365H": "3.1", 
+            "awayTeamName": "Lyon", 
+            "date": "2016-11-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.8", 
+            "B365D": "3.6", 
+            "B365H": "4.33", 
+            "awayTeamName": "Monaco", 
+            "date": "2016-11-18", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2016-11-18", 
+    "time_start": "2016-11-18"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.75", 
+            "B365D": "3", 
+            "B365H": "2.8", 
+            "awayTeamName": "Lille", 
+            "date": "2015-02-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.9", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Lens", 
+            "date": "2015-02-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Caen", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "12", 
+            "B365D": "6", 
+            "B365H": "1.25", 
+            "awayTeamName": "Toulouse", 
+            "date": "2015-02-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.1", 
+            "B365H": "2.4", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2015-02-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-02-21", 
+    "time_start": "2015-02-21"
+}

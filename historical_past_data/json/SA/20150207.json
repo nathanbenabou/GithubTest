@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "10", 
+            "B365D": "5", 
+            "B365H": "1.33", 
+            "awayTeamName": "Milan", 
+            "date": "2015-02-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.1", 
+            "B365H": "3.1", 
+            "awayTeamName": "Torino", 
+            "date": "2015-02-07", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Verona", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2015-02-07", 
+    "time_start": "2015-02-07"
+}

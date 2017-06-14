@@ -1,0 +1,116 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.7", 
+            "B365D": "2.9", 
+            "B365H": "2.88", 
+            "awayTeamName": "Fiorentina", 
+            "date": "2011-01-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bologna", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.2", 
+            "B365H": "1.91", 
+            "awayTeamName": "Cesena", 
+            "date": "2011-01-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Brescia", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.91", 
+            "B365D": "3.25", 
+            "B365H": "4.33", 
+            "awayTeamName": "Milan", 
+            "date": "2011-01-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Cagliari", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3", 
+            "B365H": "2.38", 
+            "awayTeamName": "Lazio", 
+            "date": "2011-01-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Genoa", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4.6", 
+            "B365D": "3.4", 
+            "B365H": "1.8", 
+            "awayTeamName": "Napoli", 
+            "date": "2011-01-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Inter", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4", 
+            "B365H": "1.44", 
+            "awayTeamName": "Parma", 
+            "date": "2011-01-06", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.1", 
+            "B365H": "2.3", 
+            "awayTeamName": "Bari", 
+            "date": "2011-01-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lecce", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.3", 
+            "B365H": "1.91", 
+            "awayTeamName": "Sampdoria", 
+            "date": "2011-01-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Palermo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4", 
+            "B365H": "1.5", 
+            "awayTeamName": "Catania", 
+            "date": "2011-01-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Roma", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.4", 
+            "B365H": "1.75", 
+            "awayTeamName": "Chievo", 
+            "date": "2011-01-06", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2011-01-06", 
+    "time_start": "2011-01-06"
+}

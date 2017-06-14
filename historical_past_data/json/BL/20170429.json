@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.25", 
+            "B365D": "3.3", 
+            "B365H": "3.3", 
+            "awayTeamName": "Freiburg", 
+            "date": "2017-04-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Darmstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "5.75", 
+            "B365H": "1.29", 
+            "awayTeamName": "FC Koln", 
+            "date": "2017-04-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.4", 
+            "B365H": "2.2", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2017-04-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4.5", 
+            "B365H": "1.45", 
+            "awayTeamName": "Ingolstadt", 
+            "date": "2017-04-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "RB Leipzig", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.5", 
+            "B365H": "2.05", 
+            "awayTeamName": "Hertha", 
+            "date": "2017-04-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.4", 
+            "B365D": "4.75", 
+            "B365H": "8", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2017-04-29", 
+            "goalsAwayTeam": "6", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2017-04-29", 
+    "time_start": "2017-04-29"
+}

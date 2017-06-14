@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "6.25", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2014-12-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-12-22", 
+    "time_start": "2014-12-22"
+}

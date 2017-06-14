@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.61", 
+            "B365D": "3.12", 
+            "B365H": "3.07", 
+            "awayTeamName": "Maritimo", 
+            "date": "2013-12-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.1", 
+            "B365D": "3.3", 
+            "B365H": "2.08", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2013-12-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.68", 
+            "B365D": "3.64", 
+            "B365H": "1.85", 
+            "awayTeamName": "Setubal", 
+            "date": "2013-12-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.57", 
+            "B365D": "3.97", 
+            "B365H": "7.05", 
+            "awayTeamName": "Benfica", 
+            "date": "2013-12-01", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "8.04", 
+            "B365D": "4.63", 
+            "B365H": "1.45", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2013-12-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-12-01", 
+    "time_start": "2013-12-01"
+}

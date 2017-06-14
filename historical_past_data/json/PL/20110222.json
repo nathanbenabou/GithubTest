@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "4", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2011-02-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Blackpool", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-02-22", 
+    "time_start": "2011-02-22"
+}

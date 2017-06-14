@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "9", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2014-08-18", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Burnley", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-08-18", 
+    "time_start": "2014-08-18"
+}

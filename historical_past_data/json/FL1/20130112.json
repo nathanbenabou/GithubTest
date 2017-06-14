@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.5", 
+            "B365D": "3.4", 
+            "B365H": "1.83", 
+            "awayTeamName": "Brest", 
+            "date": "2013-01-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.4", 
+            "B365H": "1.85", 
+            "awayTeamName": "Lorient", 
+            "date": "2013-01-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3.2", 
+            "B365H": "4", 
+            "awayTeamName": "Lille", 
+            "date": "2013-01-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.1", 
+            "B365H": "2.3", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2013-01-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.91", 
+            "B365D": "3.25", 
+            "B365H": "4.33", 
+            "awayTeamName": "Lyon", 
+            "date": "2013-01-12", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Troyes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-01-12", 
+    "time_start": "2013-01-12"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.5", 
+            "B365D": "4.5", 
+            "B365H": "1.44", 
+            "awayTeamName": "Espanol", 
+            "date": "2015-11-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "17", 
+            "B365D": "6.5", 
+            "B365H": "1.2", 
+            "awayTeamName": "Sp Gijon", 
+            "date": "2015-11-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "5.5", 
+            "B365H": "1.3", 
+            "awayTeamName": "Villarreal", 
+            "date": "2015-11-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.91", 
+            "B365D": "4", 
+            "B365H": "3.6", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2015-11-08", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-11-08", 
+    "time_start": "2015-11-08"
+}

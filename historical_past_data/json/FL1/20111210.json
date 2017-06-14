@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.25", 
+            "B365D": "3.4", 
+            "B365H": "1.73", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2011-12-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.3", 
+            "B365H": "1.73", 
+            "awayTeamName": "Ajaccio", 
+            "date": "2011-12-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.6", 
+            "B365H": "1.62", 
+            "awayTeamName": "Brest", 
+            "date": "2011-12-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.95", 
+            "B365D": "3.3", 
+            "B365H": "4", 
+            "awayTeamName": "Paris SG", 
+            "date": "2011-12-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.3", 
+            "B365H": "1.8", 
+            "awayTeamName": "Caen", 
+            "date": "2011-12-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.3", 
+            "B365H": "1.73", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2011-12-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Montpellier", 
+            "date": "2011-12-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2011-12-10", 
+    "time_start": "2011-12-10"
+}

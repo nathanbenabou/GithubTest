@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.54", 
+            "B365D": "3.24", 
+            "B365H": "3.05", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2014-09-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.97", 
+            "B365D": "3.14", 
+            "B365H": "2.67", 
+            "awayTeamName": "Setubal", 
+            "date": "2014-09-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Penafiel", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-09-20", 
+    "time_start": "2014-09-20"
+}

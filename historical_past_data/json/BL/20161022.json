@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "12", 
+            "B365D": "7.5", 
+            "B365H": "1.2", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2016-10-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.8", 
+            "B365D": "3.6", 
+            "B365H": "4.5", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2016-10-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Darmstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.7", 
+            "B365D": "3.3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Augsburg", 
+            "date": "2016-10-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.2", 
+            "B365H": "2.5", 
+            "awayTeamName": "FC Koln", 
+            "date": "2016-10-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.53", 
+            "B365D": "4.2", 
+            "B365H": "6", 
+            "awayTeamName": "Dortmund", 
+            "date": "2016-10-22", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ingolstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4.33", 
+            "B365H": "1.5", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2016-10-22", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-10-22", 
+    "time_start": "2016-10-22"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.9", 
+            "B365D": "4.5", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2017-04-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Crystal Palace", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2017-04-10", 
+    "time_start": "2017-04-10"
+}

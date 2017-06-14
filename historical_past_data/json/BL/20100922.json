@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "4", 
+            "B365H": "1.5", 
+            "awayTeamName": "Kaiserslautern", 
+            "date": "2010-09-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.25", 
+            "B365D": "3.3", 
+            "B365H": "3.1", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2010-09-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Freiburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.9", 
+            "B365D": "3.5", 
+            "B365H": "1.91", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2010-09-22", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "3.6", 
+            "B365H": "1.67", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2010-09-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.3", 
+            "B365H": "2", 
+            "awayTeamName": "St Pauli", 
+            "date": "2010-09-22", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.3", 
+            "B365H": "3.1", 
+            "awayTeamName": "Stuttgart", 
+            "date": "2010-09-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2010-09-22", 
+    "time_start": "2010-09-22"
+}

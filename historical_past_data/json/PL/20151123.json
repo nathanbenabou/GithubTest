@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "1.57", 
+            "B365H": "0", 
+            "awayTeamName": "Sunderland", 
+            "date": "2015-11-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Crystal Palace", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-11-23", 
+    "time_start": "2015-11-23"
+}

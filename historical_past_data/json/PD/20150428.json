@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "3.8", 
+            "B365H": "1.67", 
+            "awayTeamName": "Sociedad", 
+            "date": "2015-04-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "41", 
+            "B365D": "17", 
+            "B365H": "1.04", 
+            "awayTeamName": "Getafe", 
+            "date": "2015-04-28", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.5", 
+            "B365H": "1.85", 
+            "awayTeamName": "Cordoba", 
+            "date": "2015-04-28", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-04-28", 
+    "time_start": "2015-04-28"
+}

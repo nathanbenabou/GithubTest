@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3.1", 
+            "B365H": "2.1", 
+            "awayTeamName": "Toulouse", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.3", 
+            "B365H": "2.05", 
+            "awayTeamName": "Lyon", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.6", 
+            "B365H": "1.7", 
+            "awayTeamName": "Lorient", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.5", 
+            "B365H": "1.67", 
+            "awayTeamName": "Nantes", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-09-20", 
+    "time_start": "2015-09-20"
+}

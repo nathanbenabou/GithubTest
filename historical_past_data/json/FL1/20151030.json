@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.5", 
+            "B365D": "4", 
+            "B365H": "7.5", 
+            "awayTeamName": "Paris SG", 
+            "date": "2015-10-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-10-30", 
+    "time_start": "2015-10-30"
+}

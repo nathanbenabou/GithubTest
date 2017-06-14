@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.75", 
+            "B365D": "3.2", 
+            "B365H": "2.6", 
+            "awayTeamName": "Mainz", 
+            "date": "2013-12-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nurnberg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-12-06", 
+    "time_start": "2013-12-06"
+}

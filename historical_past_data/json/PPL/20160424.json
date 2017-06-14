@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.15", 
+            "B365D": "3.39", 
+            "B365H": "2.43", 
+            "awayTeamName": "Estoril", 
+            "date": "2016-04-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.38", 
+            "B365D": "3.44", 
+            "B365H": "2.28", 
+            "awayTeamName": "Arouca", 
+            "date": "2016-04-24", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.14", 
+            "B365D": "3.35", 
+            "B365H": "2.06", 
+            "awayTeamName": "Moreirense", 
+            "date": "2016-04-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.47", 
+            "B365D": "4.69", 
+            "B365H": "7.5", 
+            "awayTeamName": "Benfica", 
+            "date": "2016-04-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.65", 
+            "B365D": "3.46", 
+            "B365H": "2.16", 
+            "awayTeamName": "Tondela", 
+            "date": "2016-04-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-04-24", 
+    "time_start": "2016-04-24"
+}

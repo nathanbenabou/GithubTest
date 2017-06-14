@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.91", 
+            "B365D": "3.15", 
+            "B365H": "2.71", 
+            "awayTeamName": "Estoril", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "8.56", 
+            "B365D": "4.54", 
+            "B365H": "1.44", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "5.69", 
+            "B365D": "3.74", 
+            "B365H": "1.7", 
+            "awayTeamName": "Setubal", 
+            "date": "2015-03-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-03-14", 
+    "time_start": "2015-03-14"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.7", 
+            "B365D": "3.2", 
+            "B365H": "2.63", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2013-10-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2013-10-28", 
+    "time_start": "2013-10-28"
+}

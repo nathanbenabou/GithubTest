@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "3.1", 
+            "B365H": "2.3", 
+            "awayTeamName": "Milan", 
+            "date": "2016-09-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Fiorentina", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "4", 
+            "B365H": "1.65", 
+            "awayTeamName": "Pescara", 
+            "date": "2016-09-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Genoa", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "8.5", 
+            "B365D": "4.2", 
+            "B365H": "1.45", 
+            "awayTeamName": "Bologna", 
+            "date": "2016-09-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Inter", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "8.5", 
+            "B365D": "4.2", 
+            "B365H": "1.44", 
+            "awayTeamName": "Empoli", 
+            "date": "2016-09-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lazio", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.3", 
+            "B365H": "2.05", 
+            "awayTeamName": "Udinese", 
+            "date": "2016-09-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sassuolo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3.5", 
+            "B365H": "3.75", 
+            "awayTeamName": "Roma", 
+            "date": "2016-09-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Torino", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-09-25", 
+    "time_start": "2016-09-25"
+}

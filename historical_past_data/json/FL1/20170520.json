@@ -1,0 +1,116 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "3.5", 
+            "B365H": "2.1", 
+            "awayTeamName": "Montpellier", 
+            "date": "2017-05-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Angers", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "4.2", 
+            "B365H": "1.6", 
+            "awayTeamName": "Metz", 
+            "date": "2017-05-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.9", 
+            "B365D": "3.3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Nantes", 
+            "date": "2017-05-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3.5", 
+            "B365H": "2.5", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2017-05-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.25", 
+            "B365D": "4.75", 
+            "B365H": "1.53", 
+            "awayTeamName": "Nice", 
+            "date": "2017-05-20", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "5.5", 
+            "B365H": "1.29", 
+            "awayTeamName": "Bastia", 
+            "date": "2017-05-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.5", 
+            "B365H": "2.05", 
+            "awayTeamName": "St Etienne", 
+            "date": "2017-05-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Nancy", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "7.5", 
+            "B365H": "1.18", 
+            "awayTeamName": "Caen", 
+            "date": "2017-05-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.6", 
+            "B365H": "3.5", 
+            "awayTeamName": "Monaco", 
+            "date": "2017-05-20", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.4", 
+            "B365H": "2.5", 
+            "awayTeamName": "Dijon", 
+            "date": "2017-05-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2017-05-20", 
+    "time_start": "2017-05-20"
+}

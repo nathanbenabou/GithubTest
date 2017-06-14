@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "29", 
+            "B365D": "12", 
+            "B365H": "1.06", 
+            "awayTeamName": "Levante", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.1", 
+            "B365H": "2.05", 
+            "awayTeamName": "Sp Gijon", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.5", 
+            "B365H": "1.91", 
+            "awayTeamName": "Vallecano", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Las Palmas", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.75", 
+            "B365H": "1.8", 
+            "awayTeamName": "Celta", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2015-09-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-09-20", 
+    "time_start": "2015-09-20"
+}

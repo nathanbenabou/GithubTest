@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.31", 
+            "B365D": "3.37", 
+            "B365H": "2.32", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2015-05-11", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-05-11", 
+    "time_start": "2015-05-11"
+}

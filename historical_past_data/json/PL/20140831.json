@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "2.3", 
+            "B365H": "0", 
+            "awayTeamName": "Hull", 
+            "date": "2014-08-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "4.75", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2014-08-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Leicester", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "2.7", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2014-08-31", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-08-31", 
+    "time_start": "2014-08-31"
+}

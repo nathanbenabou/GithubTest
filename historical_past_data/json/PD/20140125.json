@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "26", 
+            "B365D": "15", 
+            "B365H": "1.05", 
+            "awayTeamName": "Granada", 
+            "date": "2014-01-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "8.5", 
+            "B365D": "4.75", 
+            "B365H": "1.36", 
+            "awayTeamName": "Levante", 
+            "date": "2014-01-25", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4", 
+            "B365H": "1.53", 
+            "awayTeamName": "Espanol", 
+            "date": "2014-01-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.95", 
+            "B365D": "3.3", 
+            "B365H": "4", 
+            "awayTeamName": "Villarreal", 
+            "date": "2014-01-25", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valladolid", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-01-25", 
+    "time_start": "2014-01-25"
+}

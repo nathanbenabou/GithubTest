@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "3.39", 
+            "B365H": "2.01", 
+            "awayTeamName": "Belenenses", 
+            "date": "2014-02-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.52", 
+            "B365D": "3.16", 
+            "B365H": "3.15", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2014-02-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "8.28", 
+            "B365D": "4.47", 
+            "B365H": "1.46", 
+            "awayTeamName": "Estoril", 
+            "date": "2014-02-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.73", 
+            "B365D": "3.22", 
+            "B365H": "2.84", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2014-02-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-02-23", 
+    "time_start": "2014-02-23"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "1.4", 
+            "B365H": "0", 
+            "awayTeamName": "West Ham", 
+            "date": "2014-04-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-04-15", 
+    "time_start": "2014-04-15"
+}

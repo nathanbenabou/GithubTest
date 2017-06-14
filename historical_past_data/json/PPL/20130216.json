@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.1", 
+            "B365D": "3.1", 
+            "B365H": "3.2", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2013-02-16", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-02-16", 
+    "time_start": "2013-02-16"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "3.75", 
+            "B365H": "1.73", 
+            "awayTeamName": "Palermo", 
+            "date": "2015-09-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Milan", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.3", 
+            "B365H": "2.25", 
+            "awayTeamName": "Empoli", 
+            "date": "2015-09-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2015-09-19", 
+    "time_start": "2015-09-19"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.1", 
+            "B365D": "3.2", 
+            "B365H": "3", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2011-03-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Portimonense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-03-18", 
+    "time_start": "2011-03-18"
+}

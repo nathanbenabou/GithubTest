@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.2", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Nacional", 
+            "date": "2011-04-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2011-04-08", 
+    "time_start": "2011-04-08"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "26", 
+            "B365D": "10", 
+            "B365H": "1.1", 
+            "awayTeamName": "FC Koln", 
+            "date": "2015-02-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2015-02-27", 
+    "time_start": "2015-02-27"
+}

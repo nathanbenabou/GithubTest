@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.5", 
+            "awayTeamName": "Empoli", 
+            "date": "2015-12-19", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bologna", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2015-12-19", 
+    "time_start": "2015-12-19"
+}

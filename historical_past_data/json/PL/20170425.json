@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.6", 
+            "B365D": "1.45", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2017-04-25", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2017-04-25", 
+    "time_start": "2017-04-25"
+}

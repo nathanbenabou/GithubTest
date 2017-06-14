@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.97", 
+            "B365D": "3.09", 
+            "B365H": "2.7", 
+            "awayTeamName": "Moreirense", 
+            "date": "2015-05-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.06", 
+            "B365D": "3.33", 
+            "B365H": "2.07", 
+            "awayTeamName": "Arouca", 
+            "date": "2015-05-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.19", 
+            "B365H": "3.15", 
+            "awayTeamName": "Academica", 
+            "date": "2015-05-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Penafiel", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.2", 
+            "B365D": "6.9", 
+            "B365H": "19", 
+            "awayTeamName": "Porto", 
+            "date": "2015-05-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-05-03", 
+    "time_start": "2015-05-03"
+}

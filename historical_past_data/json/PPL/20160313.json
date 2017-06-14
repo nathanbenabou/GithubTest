@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.13", 
+            "B365D": "3.56", 
+            "B365H": "1.99", 
+            "awayTeamName": "Setubal", 
+            "date": "2016-03-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.12", 
+            "B365D": "3.47", 
+            "B365H": "3.76", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2016-03-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.02", 
+            "B365D": "3.5", 
+            "B365H": "2.04", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2016-03-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.54", 
+            "B365D": "3.4", 
+            "B365H": "2.22", 
+            "awayTeamName": "Academica", 
+            "date": "2016-03-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.32", 
+            "B365D": "3.37", 
+            "B365H": "2.34", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2016-03-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-03-13", 
+    "time_start": "2016-03-13"
+}

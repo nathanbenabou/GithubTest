@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.25", 
+            "B365D": "3.2", 
+            "B365H": "2.25", 
+            "awayTeamName": "Vallecano", 
+            "date": "2012-01-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.29", 
+            "B365D": "5", 
+            "B365H": "11", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2012-01-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mallorca", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.5", 
+            "B365H": "1.8", 
+            "awayTeamName": "Espanol", 
+            "date": "2012-01-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Sociedad", 
+            "date": "2012-01-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3.2", 
+            "B365H": "2.6", 
+            "awayTeamName": "Getafe", 
+            "date": "2012-01-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Zaragoza", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-01-14", 
+    "time_start": "2012-01-14"
+}

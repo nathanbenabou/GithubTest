@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "2", 
+            "B365H": "0", 
+            "awayTeamName": "QPR", 
+            "date": "2013-04-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-04-01", 
+    "time_start": "2013-04-01"
+}

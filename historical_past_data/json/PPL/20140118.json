@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.54", 
+            "B365D": "4.05", 
+            "B365H": "7.52", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2014-01-18", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-01-18", 
+    "time_start": "2014-01-18"
+}

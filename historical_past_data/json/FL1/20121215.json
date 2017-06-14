@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "3.75", 
+            "B365H": "1.62", 
+            "awayTeamName": "Bastia", 
+            "date": "2012-12-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.3", 
+            "B365H": "1.91", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2012-12-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.83", 
+            "B365D": "3.25", 
+            "B365H": "4.75", 
+            "awayTeamName": "Lille", 
+            "date": "2012-12-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.1", 
+            "B365H": "2.2", 
+            "awayTeamName": "Brest", 
+            "date": "2012-12-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3.1", 
+            "B365H": "2.63", 
+            "awayTeamName": "Marseille", 
+            "date": "2012-12-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.4", 
+            "awayTeamName": "Ajaccio", 
+            "date": "2012-12-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Troyes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-12-15", 
+    "time_start": "2012-12-15"
+}

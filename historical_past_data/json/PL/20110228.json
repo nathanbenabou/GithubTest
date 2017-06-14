@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "1.91", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2011-02-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Stoke", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-02-28", 
+    "time_start": "2011-02-28"
+}

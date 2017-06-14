@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.75", 
+            "B365D": "3.3", 
+            "B365H": "2.6", 
+            "awayTeamName": "Marseille", 
+            "date": "2015-04-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.1", 
+            "B365H": "3.25", 
+            "awayTeamName": "Lille", 
+            "date": "2015-04-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Evian Thonon Gaillard", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3.2", 
+            "B365H": "2.7", 
+            "awayTeamName": "Lorient", 
+            "date": "2015-04-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lens", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.2", 
+            "B365H": "2.3", 
+            "awayTeamName": "Nice", 
+            "date": "2015-04-12", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.1", 
+            "B365H": "2.2", 
+            "awayTeamName": "Guingamp", 
+            "date": "2015-04-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Rennes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "3.6", 
+            "B365H": "1.62", 
+            "awayTeamName": "Nantes", 
+            "date": "2015-04-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.3", 
+            "B365H": "2.38", 
+            "awayTeamName": "Montpellier", 
+            "date": "2015-04-12", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-04-12", 
+    "time_start": "2015-04-12"
+}

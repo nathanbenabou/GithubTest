@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.1", 
+            "B365D": "3.3", 
+            "B365H": "3.5", 
+            "awayTeamName": "Valencia", 
+            "date": "2011-01-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Santander", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-01-31", 
+    "time_start": "2011-01-31"
+}

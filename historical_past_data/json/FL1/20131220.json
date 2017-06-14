@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "13", 
+            "B365D": "5.75", 
+            "B365H": "1.22", 
+            "awayTeamName": "Valenciennes", 
+            "date": "2013-12-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-12-20", 
+    "time_start": "2013-12-20"
+}

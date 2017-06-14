@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.25", 
+            "B365D": "5", 
+            "B365H": "10", 
+            "awayTeamName": "Porto", 
+            "date": "2013-02-15", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-02-15", 
+    "time_start": "2013-02-15"
+}

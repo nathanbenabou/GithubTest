@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.75", 
+            "B365D": "3.6", 
+            "B365H": "1.73", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2016-04-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2016-04-01", 
+    "time_start": "2016-04-01"
+}

@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "3.1", 
+            "B365H": "2.15", 
+            "awayTeamName": "Rennes", 
+            "date": "2013-10-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "4.75", 
+            "B365H": "1.33", 
+            "awayTeamName": "Ajaccio", 
+            "date": "2013-10-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "3.75", 
+            "B365H": "1.53", 
+            "awayTeamName": "St Etienne", 
+            "date": "2013-10-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.4", 
+            "B365H": "1.83", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2013-10-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Nantes", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.3", 
+            "B365H": "1.95", 
+            "awayTeamName": "Nice", 
+            "date": "2013-10-05", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.1", 
+            "B365H": "2.2", 
+            "awayTeamName": "Reims", 
+            "date": "2013-10-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-10-05", 
+    "time_start": "2013-10-05"
+}

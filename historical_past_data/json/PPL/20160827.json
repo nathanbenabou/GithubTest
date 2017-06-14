@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.09", 
+            "B365D": "3.34", 
+            "B365H": "4.05", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2016-08-27", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.42", 
+            "B365D": "4.67", 
+            "B365H": "9.31", 
+            "awayTeamName": "Benfica", 
+            "date": "2016-08-27", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.12", 
+            "B365H": "2.55", 
+            "awayTeamName": "Belenenses", 
+            "date": "2016-08-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-08-27", 
+    "time_start": "2016-08-27"
+}

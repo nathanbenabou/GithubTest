@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.75", 
+            "B365D": "3.4", 
+            "B365H": "1.8", 
+            "awayTeamName": "Malaga", 
+            "date": "2010-09-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "4", 
+            "B365H": "1.5", 
+            "awayTeamName": "Santander", 
+            "date": "2010-09-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.75", 
+            "B365H": "1.67", 
+            "awayTeamName": "La Coruna", 
+            "date": "2010-09-23", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2010-09-23", 
+    "time_start": "2010-09-23"
+}

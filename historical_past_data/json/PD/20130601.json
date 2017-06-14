@@ -1,0 +1,116 @@
+{
+    "league_scores": [
+        {
+            "B365A": "10", 
+            "B365D": "6", 
+            "B365H": "1.25", 
+            "awayTeamName": "Malaga", 
+            "date": "2013-06-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "4.5", 
+            "B365H": "1.44", 
+            "awayTeamName": "Espanol", 
+            "date": "2013-06-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Celta", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.6", 
+            "B365H": "1.95", 
+            "awayTeamName": "Getafe", 
+            "date": "2013-06-01", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3.5", 
+            "B365H": "2.6", 
+            "awayTeamName": "Sociedad", 
+            "date": "2013-06-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "La Coruna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.4", 
+            "B365H": "3.2", 
+            "awayTeamName": "Betis", 
+            "date": "2013-06-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4.33", 
+            "B365H": "1.5", 
+            "awayTeamName": "Valladolid", 
+            "date": "2013-06-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Mallorca", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "10", 
+            "B365D": "6", 
+            "B365H": "1.25", 
+            "awayTeamName": "Osasuna", 
+            "date": "2013-06-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.1", 
+            "B365D": "3.5", 
+            "B365H": "3.3", 
+            "awayTeamName": "Valencia", 
+            "date": "2013-06-01", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "3.6", 
+            "B365H": "2.05", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2013-06-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.5", 
+            "B365H": "2.2", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2013-06-01", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Zaragoza", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2013-06-01", 
+    "time_start": "2013-06-01"
+}

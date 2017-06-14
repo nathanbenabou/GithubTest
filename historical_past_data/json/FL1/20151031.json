@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.95", 
+            "B365D": "3.4", 
+            "B365H": "4.2", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2015-10-31", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ajaccio GFCO", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3.1", 
+            "B365H": "2.9", 
+            "awayTeamName": "Caen", 
+            "date": "2015-10-31", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.3", 
+            "B365H": "2", 
+            "awayTeamName": "Lorient", 
+            "date": "2015-10-31", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.8", 
+            "B365H": "1.62", 
+            "awayTeamName": "Reims", 
+            "date": "2015-10-31", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.25", 
+            "B365H": "2.1", 
+            "awayTeamName": "Montpellier", 
+            "date": "2015-10-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.7", 
+            "B365D": "3.6", 
+            "B365H": "5.5", 
+            "awayTeamName": "Lyon", 
+            "date": "2015-10-31", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Troyes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-10-31", 
+    "time_start": "2015-10-31"
+}

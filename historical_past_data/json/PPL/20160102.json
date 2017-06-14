@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.43", 
+            "B365D": "3.13", 
+            "B365H": "2.41", 
+            "awayTeamName": "Uniao Madeira", 
+            "date": "2016-01-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.15", 
+            "B365D": "2.98", 
+            "B365H": "2.69", 
+            "awayTeamName": "Moreirense", 
+            "date": "2016-01-02", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.58", 
+            "B365D": "4.07", 
+            "B365H": "6.84", 
+            "awayTeamName": "Benfica", 
+            "date": "2016-01-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.49", 
+            "B365D": "3.36", 
+            "B365H": "1.98", 
+            "awayTeamName": "Estoril", 
+            "date": "2016-01-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.01", 
+            "B365D": "3.17", 
+            "B365H": "2.17", 
+            "awayTeamName": "Arouca", 
+            "date": "2016-01-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.67", 
+            "B365D": "3.46", 
+            "B365H": "1.92", 
+            "awayTeamName": "Belenenses", 
+            "date": "2016-01-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.92", 
+            "B365D": "3.57", 
+            "B365H": "4.45", 
+            "awayTeamName": "Sp Braga", 
+            "date": "2016-01-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.04", 
+            "B365D": "3.22", 
+            "B365H": "2.59", 
+            "awayTeamName": "Porto", 
+            "date": "2016-01-02", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-01-02", 
+    "time_start": "2016-01-02"
+}

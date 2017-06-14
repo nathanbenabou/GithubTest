@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "19.5", 
+            "B365D": "6.54", 
+            "B365H": "1.22", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2015-02-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-02-13", 
+    "time_start": "2015-02-13"
+}

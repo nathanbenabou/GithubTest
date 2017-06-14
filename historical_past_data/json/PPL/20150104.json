@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.82", 
+            "B365D": "3.13", 
+            "B365H": "2.81", 
+            "awayTeamName": "Arouca", 
+            "date": "2015-01-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.92", 
+            "B365D": "3.35", 
+            "B365H": "2.1", 
+            "awayTeamName": "Nacional", 
+            "date": "2015-01-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.3", 
+            "B365D": "5.55", 
+            "B365H": "12.74", 
+            "awayTeamName": "Benfica", 
+            "date": "2015-01-04", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Penafiel", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.59", 
+            "B365D": "3.17", 
+            "B365H": "3.04", 
+            "awayTeamName": "Moreirense", 
+            "date": "2015-01-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-01-04", 
+    "time_start": "2015-01-04"
+}

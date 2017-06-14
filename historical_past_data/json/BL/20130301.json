@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2013-03-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ein Frankfurt", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-03-01", 
+    "time_start": "2013-03-01"
+}

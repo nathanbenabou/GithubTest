@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.4", 
+            "B365D": "3.2", 
+            "B365H": "3", 
+            "awayTeamName": "Mainz", 
+            "date": "2013-03-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Fortuna Dusseldorf", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.25", 
+            "B365D": "5.5", 
+            "B365H": "12", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2013-03-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-03-03", 
+    "time_start": "2013-03-03"
+}

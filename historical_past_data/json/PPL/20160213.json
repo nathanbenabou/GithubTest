@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.8", 
+            "B365D": "3.61", 
+            "B365H": "1.85", 
+            "awayTeamName": "Setubal", 
+            "date": "2016-02-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.54", 
+            "B365D": "3.1", 
+            "B365H": "2.35", 
+            "awayTeamName": "Belenenses", 
+            "date": "2016-02-13", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.49", 
+            "B365D": "4.53", 
+            "B365H": "7.5", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2016-02-13", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-02-13", 
+    "time_start": "2016-02-13"
+}

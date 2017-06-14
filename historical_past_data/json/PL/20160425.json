@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "1.22", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2016-04-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-04-25", 
+    "time_start": "2016-04-25"
+}

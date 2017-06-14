@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "4.33", 
+            "B365H": "1.44", 
+            "awayTeamName": "Freiburg", 
+            "date": "2010-12-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.85", 
+            "B365D": "3.6", 
+            "B365H": "4", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2010-12-19", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2010-12-19", 
+    "time_start": "2010-12-19"
+}

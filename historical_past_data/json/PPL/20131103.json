@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.57", 
+            "B365D": "3.21", 
+            "B365H": "3.04", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2013-11-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "5.91", 
+            "B365D": "4.12", 
+            "B365H": "1.62", 
+            "awayTeamName": "Setubal", 
+            "date": "2013-11-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.65", 
+            "B365D": "3.26", 
+            "B365H": "2.89", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2013-11-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "6.71", 
+            "B365D": "4.04", 
+            "B365H": "1.58", 
+            "awayTeamName": "Olhanense", 
+            "date": "2013-11-03", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "6.09", 
+            "B365D": "3.81", 
+            "B365H": "1.66", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2013-11-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-11-03", 
+    "time_start": "2013-11-03"
+}

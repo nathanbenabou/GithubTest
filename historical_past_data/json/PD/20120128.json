@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Mallorca", 
+            "date": "2012-01-28", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "26", 
+            "B365D": "11", 
+            "B365H": "1.07", 
+            "awayTeamName": "Zaragoza", 
+            "date": "2012-01-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.38", 
+            "B365D": "3.2", 
+            "B365H": "3", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2012-01-28", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.22", 
+            "B365D": "6", 
+            "B365H": "12", 
+            "awayTeamName": "Barcelona", 
+            "date": "2012-01-28", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2012-01-28", 
+    "time_start": "2012-01-28"
+}

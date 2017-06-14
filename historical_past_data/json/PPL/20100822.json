@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.2", 
+            "B365H": "2.2", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2010-08-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Leiria", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3.1", 
+            "B365H": "2.38", 
+            "awayTeamName": "Naval", 
+            "date": "2010-08-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Portimonense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "12", 
+            "B365D": "6.5", 
+            "B365H": "1.12", 
+            "awayTeamName": "Beira Mar", 
+            "date": "2010-08-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.6", 
+            "B365H": "1.5", 
+            "awayTeamName": "Maritimo", 
+            "date": "2010-08-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2010-08-22", 
+    "time_start": "2010-08-22"
+}

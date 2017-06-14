@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.98", 
+            "B365D": "3.31", 
+            "B365H": "4.49", 
+            "awayTeamName": "Estoril", 
+            "date": "2014-03-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-03-24", 
+    "time_start": "2014-03-24"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.32", 
+            "B365D": "5.42", 
+            "B365H": "12.47", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2015-08-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-08-14", 
+    "time_start": "2015-08-14"
+}

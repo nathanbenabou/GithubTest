@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.5", 
+            "B365D": "1.2", 
+            "B365H": "0", 
+            "awayTeamName": "Burnley", 
+            "date": "2017-01-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "1.18", 
+            "B365H": "0", 
+            "awayTeamName": "Hull", 
+            "date": "2017-01-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Chelsea", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "1.83", 
+            "B365H": "0", 
+            "awayTeamName": "Leicester", 
+            "date": "2017-01-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Southampton", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2017-01-22", 
+    "time_start": "2017-01-22"
+}

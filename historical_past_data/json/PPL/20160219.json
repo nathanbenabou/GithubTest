@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.98", 
+            "B365D": "2.98", 
+            "B365H": "2.82", 
+            "awayTeamName": "Estoril", 
+            "date": "2016-02-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Uniao Madeira", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-02-19", 
+    "time_start": "2016-02-19"
+}

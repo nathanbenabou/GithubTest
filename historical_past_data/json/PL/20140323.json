@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "2.2", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2014-03-23", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.25", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2014-03-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-03-23", 
+    "time_start": "2014-03-23"
+}

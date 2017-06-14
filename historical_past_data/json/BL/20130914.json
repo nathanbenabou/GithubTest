@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "3.4", 
+            "B365H": "2", 
+            "awayTeamName": "Freiburg", 
+            "date": "2013-09-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "21", 
+            "B365D": "8.5", 
+            "B365H": "1.13", 
+            "awayTeamName": "Hannover", 
+            "date": "2013-09-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "6", 
+            "B365H": "1.25", 
+            "awayTeamName": "Hamburg", 
+            "date": "2013-09-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.75", 
+            "B365H": "1.8", 
+            "awayTeamName": "Wolfsburg", 
+            "date": "2013-09-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3.4", 
+            "B365H": "2.6", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2013-09-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.3", 
+            "B365H": "2.45", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2013-09-14", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-09-14", 
+    "time_start": "2013-09-14"
+}

@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "1.95", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2016-11-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "5.75", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2016-11-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hull", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "1.8", 
+            "B365H": "0", 
+            "awayTeamName": "West Brom", 
+            "date": "2016-11-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Leicester", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "1.29", 
+            "B365H": "0", 
+            "awayTeamName": "Watford", 
+            "date": "2016-11-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "5", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2016-11-06", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Swansea", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-11-06", 
+    "time_start": "2016-11-06"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.4", 
+            "B365D": "4.33", 
+            "B365H": "8.5", 
+            "awayTeamName": "Juventus", 
+            "date": "2013-12-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bologna", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2013-12-06", 
+    "time_start": "2013-12-06"
+}

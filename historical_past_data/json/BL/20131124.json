@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "3.6", 
+            "B365H": "2", 
+            "awayTeamName": "Hannover", 
+            "date": "2013-11-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3.4", 
+            "B365H": "2.38", 
+            "awayTeamName": "Mainz", 
+            "date": "2013-11-24", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-11-24", 
+    "time_start": "2013-11-24"
+}

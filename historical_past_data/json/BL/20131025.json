@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "4", 
+            "B365H": "1.62", 
+            "awayTeamName": "Nurnberg", 
+            "date": "2013-10-25", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-10-25", 
+    "time_start": "2013-10-25"
+}

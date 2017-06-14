@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.4", 
+            "B365D": "3.1", 
+            "B365H": "3.1", 
+            "awayTeamName": "Lille", 
+            "date": "2012-11-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-11-16", 
+    "time_start": "2012-11-16"
+}

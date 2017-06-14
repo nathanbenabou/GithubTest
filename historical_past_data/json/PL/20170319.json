@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.75", 
+            "B365D": "2", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2017-03-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Man City", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.7", 
+            "B365D": "6", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2017-03-19", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Middlesbrough", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "1.73", 
+            "B365H": "0", 
+            "awayTeamName": "Southampton", 
+            "date": "2017-03-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2017-03-19", 
+    "time_start": "2017-03-19"
+}

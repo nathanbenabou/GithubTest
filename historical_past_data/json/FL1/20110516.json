@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2", 
+            "B365D": "3.3", 
+            "B365H": "3.8", 
+            "awayTeamName": "Lyon", 
+            "date": "2011-05-16", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Brest", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2011-05-16", 
+    "time_start": "2011-05-16"
+}

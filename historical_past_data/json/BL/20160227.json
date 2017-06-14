@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "3", 
+            "B365H": "2.4", 
+            "awayTeamName": "Ingolstadt", 
+            "date": "2016-02-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "4", 
+            "B365H": "1.53", 
+            "awayTeamName": "Hannover", 
+            "date": "2016-02-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.4", 
+            "B365H": "2.1", 
+            "awayTeamName": "Darmstadt", 
+            "date": "2016-02-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.4", 
+            "B365D": "4.5", 
+            "B365H": "9", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2016-02-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-02-27", 
+    "time_start": "2016-02-27"
+}

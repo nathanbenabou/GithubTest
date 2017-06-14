@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.75", 
+            "B365D": "3.8", 
+            "B365H": "1.65", 
+            "awayTeamName": "Betis", 
+            "date": "2017-05-08", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Leganes", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-05-08", 
+    "time_start": "2017-05-08"
+}

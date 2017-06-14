@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "13", 
+            "B365D": "5.75", 
+            "B365H": "1.25", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2015-09-11", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-09-11", 
+    "time_start": "2015-09-11"
+}

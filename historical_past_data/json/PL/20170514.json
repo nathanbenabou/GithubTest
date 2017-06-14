@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Hull", 
+            "date": "2017-05-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Crystal Palace", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.9", 
+            "B365D": "1.73", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2017-05-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "5.25", 
+            "B365H": "0", 
+            "awayTeamName": "Liverpool", 
+            "date": "2017-05-14", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2017-05-14", 
+    "time_start": "2017-05-14"
+}

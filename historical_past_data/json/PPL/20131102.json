@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.33", 
+            "B365D": "5.14", 
+            "B365H": "11.69", 
+            "awayTeamName": "Porto", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "9.89", 
+            "B365D": "4.93", 
+            "B365H": "1.38", 
+            "awayTeamName": "Maritimo", 
+            "date": "2013-11-02", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-11-02", 
+    "time_start": "2013-11-02"
+}

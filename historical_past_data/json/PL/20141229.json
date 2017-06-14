@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "1.7", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2014-12-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-12-29", 
+    "time_start": "2014-12-29"
+}

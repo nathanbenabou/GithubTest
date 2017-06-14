@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "10", 
+            "B365D": "5.75", 
+            "B365H": "1.29", 
+            "awayTeamName": "Genoa", 
+            "date": "2017-02-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Napoli", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2017-02-10", 
+    "time_start": "2017-02-10"
+}

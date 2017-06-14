@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "12", 
+            "B365D": "5", 
+            "B365H": "1.29", 
+            "awayTeamName": "Chievo", 
+            "date": "2011-05-09", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2011-05-09", 
+    "time_start": "2011-05-09"
+}

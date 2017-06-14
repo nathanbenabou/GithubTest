@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "3.3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Vallecano", 
+            "date": "2014-10-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-10-17", 
+    "time_start": "2014-10-17"
+}

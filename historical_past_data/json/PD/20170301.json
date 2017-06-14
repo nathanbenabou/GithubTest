@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "41", 
+            "B365D": "15", 
+            "B365H": "1.05", 
+            "awayTeamName": "Sp Gijon", 
+            "date": "2017-03-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.4", 
+            "B365H": "1.91", 
+            "awayTeamName": "Espanol", 
+            "date": "2017-03-01", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Celta", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.2", 
+            "B365H": "2.63", 
+            "awayTeamName": "Alaves", 
+            "date": "2017-03-01", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.4", 
+            "B365H": "3.8", 
+            "awayTeamName": "Villarreal", 
+            "date": "2017-03-01", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "21", 
+            "B365D": "9", 
+            "B365H": "1.13", 
+            "awayTeamName": "Las Palmas", 
+            "date": "2017-03-01", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-03-01", 
+    "time_start": "2017-03-01"
+}

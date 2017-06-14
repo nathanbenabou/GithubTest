@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.88", 
+            "B365D": "3.3", 
+            "B365H": "2.63", 
+            "awayTeamName": "Inter", 
+            "date": "2013-04-03", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sampdoria", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2013-04-03", 
+    "time_start": "2013-04-03"
+}

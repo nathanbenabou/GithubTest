@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8", 
+            "B365D": "4", 
+            "B365H": "1.44", 
+            "awayTeamName": "Brest", 
+            "date": "2013-02-24", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.5", 
+            "B365H": "1.67", 
+            "awayTeamName": "Lorient", 
+            "date": "2013-02-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "3.8", 
+            "B365H": "1.5", 
+            "awayTeamName": "Marseille", 
+            "date": "2013-02-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-02-24", 
+    "time_start": "2013-02-24"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "11", 
+            "B365D": "5", 
+            "B365H": "1.29", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2013-11-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-11-08", 
+    "time_start": "2013-11-08"
+}

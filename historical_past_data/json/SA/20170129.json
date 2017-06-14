@@ -1,0 +1,94 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3", 
+            "B365D": "3.25", 
+            "B365H": "2.45", 
+            "awayTeamName": "Bologna", 
+            "date": "2017-01-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Cagliari", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.1", 
+            "B365H": "2.38", 
+            "awayTeamName": "Empoli", 
+            "date": "2017-01-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Crotone", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "4", 
+            "B365H": "1.62", 
+            "awayTeamName": "Genoa", 
+            "date": "2017-01-29", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Fiorentina", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "21", 
+            "B365D": "9", 
+            "B365H": "1.13", 
+            "awayTeamName": "Palermo", 
+            "date": "2017-01-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Napoli", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.75", 
+            "B365D": "3.8", 
+            "B365H": "4.75", 
+            "awayTeamName": "Roma", 
+            "date": "2017-01-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sampdoria", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.5", 
+            "B365D": "4.33", 
+            "B365H": "6.5", 
+            "awayTeamName": "Juventus", 
+            "date": "2017-01-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sassuolo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.25", 
+            "B365H": "2.4", 
+            "awayTeamName": "Atalanta", 
+            "date": "2017-01-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Torino", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.3", 
+            "B365H": "3.2", 
+            "awayTeamName": "Milan", 
+            "date": "2017-01-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2017-01-29", 
+    "time_start": "2017-01-29"
+}

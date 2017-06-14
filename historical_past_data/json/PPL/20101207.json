@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "3.25", 
+            "B365H": "1.53", 
+            "awayTeamName": "Naval", 
+            "date": "2010-12-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Nacional", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2010-12-07", 
+    "time_start": "2010-12-07"
+}

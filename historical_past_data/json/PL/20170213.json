@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "7.5", 
+            "B365H": "0", 
+            "awayTeamName": "Man City", 
+            "date": "2017-02-13", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bournemouth", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2017-02-13", 
+    "time_start": "2017-02-13"
+}

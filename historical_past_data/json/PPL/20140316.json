@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.4", 
+            "B365D": "3.31", 
+            "B365H": "2", 
+            "awayTeamName": "Olhanense", 
+            "date": "2014-03-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Arouca", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.6", 
+            "awayTeamName": "Setubal", 
+            "date": "2014-03-16", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.37", 
+            "B365D": "3.39", 
+            "B365H": "3.2", 
+            "awayTeamName": "Porto", 
+            "date": "2014-03-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-03-16", 
+    "time_start": "2014-03-16"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.25", 
+            "B365D": "2.75", 
+            "B365H": "0", 
+            "awayTeamName": "Everton", 
+            "date": "2011-02-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bolton", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-02-13", 
+    "time_start": "2011-02-13"
+}

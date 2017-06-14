@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.26", 
+            "B365D": "6.22", 
+            "B365H": "14.49", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2014-12-05", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-12-05", 
+    "time_start": "2014-12-05"
+}

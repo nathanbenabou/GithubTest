@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.5", 
+            "B365D": "3.6", 
+            "B365H": "1.57", 
+            "awayTeamName": "Sochaux", 
+            "date": "2013-10-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.91", 
+            "B365D": "3.4", 
+            "B365H": "4", 
+            "awayTeamName": "Paris SG", 
+            "date": "2013-10-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.2", 
+            "B365H": "2.3", 
+            "awayTeamName": "Lyon", 
+            "date": "2013-10-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Montpellier", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-10-06", 
+    "time_start": "2013-10-06"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "3", 
+            "B365H": "1.83", 
+            "awayTeamName": "Nacional", 
+            "date": "2012-04-07", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3", 
+            "B365H": "2.25", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2012-04-07", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Olhanense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.25", 
+            "B365H": "1.67", 
+            "awayTeamName": "Feirense", 
+            "date": "2012-04-07", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Rio Ave", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3", 
+            "B365H": "3", 
+            "awayTeamName": "Porto", 
+            "date": "2012-04-07", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-04-07", 
+    "time_start": "2012-04-07"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "9", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Milan", 
+            "date": "2017-03-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2017-03-10", 
+    "time_start": "2017-03-10"
+}

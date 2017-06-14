@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "3", 
+            "B365H": "2.25", 
+            "awayTeamName": "Lille", 
+            "date": "2012-10-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2012-10-19", 
+    "time_start": "2012-10-19"
+}

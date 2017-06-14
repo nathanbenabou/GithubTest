@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "3.75", 
+            "B365H": "1.57", 
+            "awayTeamName": "La Coruna", 
+            "date": "2014-09-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Celta", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "23", 
+            "B365D": "12", 
+            "B365H": "1.08", 
+            "awayTeamName": "Elche", 
+            "date": "2014-09-23", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-09-23", 
+    "time_start": "2014-09-23"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.01", 
+            "B365D": "3.2", 
+            "B365H": "2.6", 
+            "awayTeamName": "Nacional", 
+            "date": "2014-08-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.25", 
+            "B365D": "5.95", 
+            "B365H": "15.9", 
+            "awayTeamName": "Benfica", 
+            "date": "2014-08-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.3", 
+            "B365H": "1.98", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2014-08-24", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Estoril", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.63", 
+            "B365D": "3.23", 
+            "B365H": "2.25", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2014-08-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-08-24", 
+    "time_start": "2014-08-24"
+}

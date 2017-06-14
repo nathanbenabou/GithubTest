@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.25", 
+            "B365D": "1.29", 
+            "B365H": "0", 
+            "awayTeamName": "QPR", 
+            "date": "2014-09-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-09-14", 
+    "time_start": "2014-09-14"
+}

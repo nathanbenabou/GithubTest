@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "2", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2012-04-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.3", 
+            "B365H": "1", 
+            "awayTeamName": "Sunderland", 
+            "date": "2012-04-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Aston Villa", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.4", 
+            "B365D": "2.1", 
+            "B365H": "0", 
+            "awayTeamName": "Norwich", 
+            "date": "2012-04-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Blackburn", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "2.2", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2012-04-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bolton", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "1.91", 
+            "B365H": "0", 
+            "awayTeamName": "Wigan", 
+            "date": "2012-04-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Fulham", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "1.67", 
+            "B365H": "0", 
+            "awayTeamName": "Stoke", 
+            "date": "2012-04-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Newcastle", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "4", 
+            "B365H": "0", 
+            "awayTeamName": "Tottenham", 
+            "date": "2012-04-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "QPR", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2012-04-21", 
+    "time_start": "2012-04-21"
+}

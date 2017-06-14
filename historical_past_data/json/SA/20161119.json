@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "3.5", 
+            "B365H": "1.91", 
+            "awayTeamName": "Cagliari", 
+            "date": "2016-11-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Chievo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "19", 
+            "B365D": "8", 
+            "B365H": "1.14", 
+            "awayTeamName": "Pescara", 
+            "date": "2016-11-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.75", 
+            "B365D": "3.75", 
+            "B365H": "4.75", 
+            "awayTeamName": "Napoli", 
+            "date": "2016-11-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-11-19", 
+    "time_start": "2016-11-19"
+}

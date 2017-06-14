@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.58", 
+            "B365D": "4.03", 
+            "B365H": "6.62", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2015-04-27", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-04-27", 
+    "time_start": "2015-04-27"
+}

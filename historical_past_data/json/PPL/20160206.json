@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.72", 
+            "B365D": "3.24", 
+            "B365H": "2.87", 
+            "awayTeamName": "Maritimo", 
+            "date": "2016-02-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.14", 
+            "B365D": "3.45", 
+            "B365H": "3.73", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2016-02-06", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Tondela", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-02-06", 
+    "time_start": "2016-02-06"
+}

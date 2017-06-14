@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.62", 
+            "B365D": "4", 
+            "B365H": "5.5", 
+            "awayTeamName": "Paris SG", 
+            "date": "2017-02-10", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2017-02-10", 
+    "time_start": "2017-02-10"
+}

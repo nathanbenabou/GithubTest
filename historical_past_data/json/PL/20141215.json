@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.5", 
+            "B365D": "1.45", 
+            "B365H": "0", 
+            "awayTeamName": "QPR", 
+            "date": "2014-12-15", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Everton", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-12-15", 
+    "time_start": "2014-12-15"
+}

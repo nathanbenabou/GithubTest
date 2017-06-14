@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "5", 
+            "B365H": "0", 
+            "awayTeamName": "Man United", 
+            "date": "2014-10-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "West Brom", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2014-10-20", 
+    "time_start": "2014-10-20"
+}

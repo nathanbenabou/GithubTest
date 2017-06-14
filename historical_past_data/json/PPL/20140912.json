@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.49", 
+            "B365D": "4.29", 
+            "B365H": "8.29", 
+            "awayTeamName": "Benfica", 
+            "date": "2014-09-12", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-09-12", 
+    "time_start": "2014-09-12"
+}

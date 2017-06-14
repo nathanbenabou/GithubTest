@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3.1", 
+            "B365H": "2.5", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2012-04-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.4", 
+            "B365D": "4", 
+            "B365H": "6.5", 
+            "awayTeamName": "Porto", 
+            "date": "2012-04-28", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-04-28", 
+    "time_start": "2012-04-28"
+}

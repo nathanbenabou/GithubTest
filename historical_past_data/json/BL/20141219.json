@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.2", 
+            "B365D": "7", 
+            "B365H": "15", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2014-12-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-12-19", 
+    "time_start": "2014-12-19"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.71", 
+            "B365D": "3.51", 
+            "B365H": "1.89", 
+            "awayTeamName": "Moreirense", 
+            "date": "2014-11-28", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-11-28", 
+    "time_start": "2014-11-28"
+}

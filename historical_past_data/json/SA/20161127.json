@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3.2", 
+            "B365H": "3", 
+            "awayTeamName": "Atalanta", 
+            "date": "2016-11-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Bologna", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.4", 
+            "B365H": "2.38", 
+            "awayTeamName": "Udinese", 
+            "date": "2016-11-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Cagliari", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.2", 
+            "B365D": "3.4", 
+            "B365H": "3.3", 
+            "awayTeamName": "Sampdoria", 
+            "date": "2016-11-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Crotone", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.62", 
+            "B365D": "3.75", 
+            "B365H": "6", 
+            "awayTeamName": "Juventus", 
+            "date": "2016-11-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Genoa", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "1.62", 
+            "B365D": "4", 
+            "B365H": "5.5", 
+            "awayTeamName": "Lazio", 
+            "date": "2016-11-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Palermo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "12", 
+            "B365D": "7.5", 
+            "B365H": "1.2", 
+            "awayTeamName": "Pescara", 
+            "date": "2016-11-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Roma", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-11-27", 
+    "time_start": "2016-11-27"
+}

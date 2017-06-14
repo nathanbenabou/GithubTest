@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7", 
+            "B365D": "3.75", 
+            "B365H": "1.53", 
+            "awayTeamName": "Eibar", 
+            "date": "2014-09-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "4", 
+            "B365H": "1.67", 
+            "awayTeamName": "Sevilla", 
+            "date": "2014-09-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "17", 
+            "B365D": "8.5", 
+            "B365H": "1.13", 
+            "awayTeamName": "Granada", 
+            "date": "2014-09-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.2", 
+            "B365H": "3", 
+            "awayTeamName": "Vallecano", 
+            "date": "2014-09-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.62", 
+            "B365D": "4", 
+            "B365H": "5.25", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2014-09-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-09-27", 
+    "time_start": "2014-09-27"
+}

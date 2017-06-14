@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3", 
+            "B365D": "3.2", 
+            "B365H": "2.38", 
+            "awayTeamName": "Rennes", 
+            "date": "2013-11-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.1", 
+            "B365H": "3.25", 
+            "awayTeamName": "Lille", 
+            "date": "2013-11-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.3", 
+            "B365H": "1.91", 
+            "awayTeamName": "Reims", 
+            "date": "2013-11-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "15", 
+            "B365D": "5.5", 
+            "B365H": "1.22", 
+            "awayTeamName": "Nice", 
+            "date": "2013-11-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.8", 
+            "B365H": "1.57", 
+            "awayTeamName": "Ajaccio", 
+            "date": "2013-11-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Toulouse", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.8", 
+            "B365D": "3.1", 
+            "B365H": "2.6", 
+            "awayTeamName": "Montpellier", 
+            "date": "2013-11-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valenciennes", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-11-09", 
+    "time_start": "2013-11-09"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.25", 
+            "B365D": "3.3", 
+            "B365H": "3.2", 
+            "awayTeamName": "Lazio", 
+            "date": "2014-10-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Verona", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2014-10-30", 
+    "time_start": "2014-10-30"
+}

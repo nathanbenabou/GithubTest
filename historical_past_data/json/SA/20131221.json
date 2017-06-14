@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.05", 
+            "B365D": "3.4", 
+            "B365H": "3.5", 
+            "awayTeamName": "Napoli", 
+            "date": "2013-12-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Cagliari", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.1", 
+            "B365H": "3.1", 
+            "awayTeamName": "Udinese", 
+            "date": "2013-12-21", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Livorno", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2013-12-21", 
+    "time_start": "2013-12-21"
+}

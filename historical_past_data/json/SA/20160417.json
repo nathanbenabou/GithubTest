@@ -1,0 +1,83 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.75", 
+            "B365D": "3.6", 
+            "B365H": "5", 
+            "awayTeamName": "Roma", 
+            "date": "2016-04-17", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Atalanta", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.6", 
+            "B365H": "1.85", 
+            "awayTeamName": "Sassuolo", 
+            "date": "2016-04-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Fiorentina", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "21", 
+            "B365D": "8", 
+            "B365H": "1.14", 
+            "awayTeamName": "Palermo", 
+            "date": "2016-04-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.75", 
+            "B365H": "1.73", 
+            "awayTeamName": "Empoli", 
+            "date": "2016-04-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Lazio", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.3", 
+            "B365H": "3", 
+            "awayTeamName": "Milan", 
+            "date": "2016-04-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Sampdoria", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.4", 
+            "B365H": "1.95", 
+            "awayTeamName": "Chievo", 
+            "date": "2016-04-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "3.8", 
+            "B365H": "1.8", 
+            "awayTeamName": "Frosinone", 
+            "date": "2016-04-17", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Verona", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2016-04-17", 
+    "time_start": "2016-04-17"
+}

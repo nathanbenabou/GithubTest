@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.8", 
+            "B365D": "3.3", 
+            "B365H": "3.75", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2010-10-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.62", 
+            "B365D": "3.25", 
+            "B365H": "5", 
+            "awayTeamName": "Porto", 
+            "date": "2010-10-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2010-10-04", 
+    "time_start": "2010-10-04"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "9", 
+            "B365D": "4.5", 
+            "B365H": "1.36", 
+            "awayTeamName": "Brest", 
+            "date": "2013-04-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Marseille", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-04-20", 
+    "time_start": "2013-04-20"
+}

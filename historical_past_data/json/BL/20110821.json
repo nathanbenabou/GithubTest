@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.3", 
+            "B365D": "3.3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Hertha", 
+            "date": "2011-08-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hannover", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3.3", 
+            "B365H": "2.5", 
+            "awayTeamName": "Schalke 04", 
+            "date": "2011-08-21", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2011-08-21", 
+    "time_start": "2011-08-21"
+}

@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.33", 
+            "B365D": "5.46", 
+            "B365H": "11.21", 
+            "awayTeamName": "Porto", 
+            "date": "2016-03-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "15.81", 
+            "B365D": "6.37", 
+            "B365H": "1.24", 
+            "awayTeamName": "Arouca", 
+            "date": "2016-03-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-03-19", 
+    "time_start": "2016-03-19"
+}

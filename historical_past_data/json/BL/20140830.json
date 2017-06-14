@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5", 
+            "B365D": "3.8", 
+            "B365H": "1.67", 
+            "awayTeamName": "Paderborn", 
+            "date": "2014-08-30", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "4.5", 
+            "B365H": "1.44", 
+            "awayTeamName": "Hertha", 
+            "date": "2014-08-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.44", 
+            "B365D": "4.75", 
+            "B365H": "6", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2014-08-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.6", 
+            "B365D": "3.5", 
+            "B365H": "2", 
+            "awayTeamName": "FC Koln", 
+            "date": "2014-08-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.15", 
+            "B365D": "3.5", 
+            "B365H": "3.2", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2014-08-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "4.33", 
+            "B365H": "1.57", 
+            "awayTeamName": "Ein Frankfurt", 
+            "date": "2014-08-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-08-30", 
+    "time_start": "2014-08-30"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.7", 
+            "B365D": "3.4", 
+            "B365H": "2.6", 
+            "awayTeamName": "M'gladbach", 
+            "date": "2016-01-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-01-29", 
+    "time_start": "2016-01-29"
+}

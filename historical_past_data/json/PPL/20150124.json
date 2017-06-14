@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.47", 
+            "B365D": "4.55", 
+            "B365H": "1.48", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2015-01-24", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-01-24", 
+    "time_start": "2015-01-24"
+}

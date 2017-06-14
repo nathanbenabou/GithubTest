@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.15", 
+            "B365D": "3.25", 
+            "B365H": "3.4", 
+            "awayTeamName": "St Etienne", 
+            "date": "2014-09-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lens", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.4", 
+            "B365H": "1.8", 
+            "awayTeamName": "Montpellier", 
+            "date": "2014-09-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "3.7", 
+            "B365H": "1.57", 
+            "awayTeamName": "Guingamp", 
+            "date": "2014-09-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "5", 
+            "B365H": "1.33", 
+            "awayTeamName": "Lyon", 
+            "date": "2014-09-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Paris SG", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2014-09-21", 
+    "time_start": "2014-09-21"
+}

@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.43", 
+            "B365D": "3.27", 
+            "B365H": "3.2", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2015-01-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "11.32", 
+            "B365D": "5.14", 
+            "B365H": "1.34", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2015-01-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "19.81", 
+            "B365D": "7.52", 
+            "B365H": "1.18", 
+            "awayTeamName": "Belenenses", 
+            "date": "2015-01-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-01-10", 
+    "time_start": "2015-01-10"
+}

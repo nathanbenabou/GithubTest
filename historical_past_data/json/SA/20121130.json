@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.25", 
+            "B365D": "3.25", 
+            "B365H": "3.2", 
+            "awayTeamName": "Milan", 
+            "date": "2012-11-30", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Catania", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2012-11-30", 
+    "time_start": "2012-11-30"
+}

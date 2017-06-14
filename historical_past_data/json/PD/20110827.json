@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3", 
+            "B365D": "3.4", 
+            "B365H": "2.3", 
+            "awayTeamName": "Betis", 
+            "date": "2011-08-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.25", 
+            "B365H": "2.05", 
+            "awayTeamName": "Sociedad", 
+            "date": "2011-08-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Gijon", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.33", 
+            "B365H": "1.4", 
+            "awayTeamName": "Santander", 
+            "date": "2011-08-27", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-08-27", 
+    "time_start": "2011-08-27"
+}

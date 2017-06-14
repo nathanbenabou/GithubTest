@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.2", 
+            "B365D": "3.25", 
+            "B365H": "2", 
+            "awayTeamName": "Nantes", 
+            "date": "2015-11-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Nice", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-11-04", 
+    "time_start": "2015-11-04"
+}

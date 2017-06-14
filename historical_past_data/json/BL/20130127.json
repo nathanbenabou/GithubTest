@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.5", 
+            "B365H": "2.38", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Hamburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.4", 
+            "B365D": "4.5", 
+            "B365H": "8", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2013-01-27", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-01-27", 
+    "time_start": "2013-01-27"
+}

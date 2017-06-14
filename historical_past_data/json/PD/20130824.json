@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.2", 
+            "B365D": "3.4", 
+            "B365H": "3.2", 
+            "awayTeamName": "Sociedad", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Elche", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.38", 
+            "B365D": "3.25", 
+            "B365H": "3", 
+            "awayTeamName": "Valencia", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "3.6", 
+            "B365H": "1.85", 
+            "awayTeamName": "Valladolid", 
+            "date": "2013-08-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2013-08-24", 
+    "time_start": "2013-08-24"
+}

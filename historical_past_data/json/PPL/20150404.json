@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.8", 
+            "B365D": "3.14", 
+            "B365H": "2.23", 
+            "awayTeamName": "Moreirense", 
+            "date": "2015-04-04", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "16", 
+            "B365D": "6.7", 
+            "B365H": "1.22", 
+            "awayTeamName": "Nacional", 
+            "date": "2015-04-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "1.66", 
+            "B365D": "3.95", 
+            "B365H": "5.73", 
+            "awayTeamName": "Sp Lisbon", 
+            "date": "2015-04-04", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Pacos Ferreira", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.11", 
+            "B365D": "3.06", 
+            "B365H": "2.62", 
+            "awayTeamName": "Boavista", 
+            "date": "2015-04-04", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Penafiel", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-04-04", 
+    "time_start": "2015-04-04"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "2.3", 
+            "B365H": "0", 
+            "awayTeamName": "Arsenal", 
+            "date": "2013-03-03", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2013-03-03", 
+    "time_start": "2013-03-03"
+}

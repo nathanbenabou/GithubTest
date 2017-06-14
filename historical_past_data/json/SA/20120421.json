@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.33", 
+            "B365D": "2.8", 
+            "B365H": "2.1", 
+            "awayTeamName": "Atalanta", 
+            "date": "2012-04-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Catania", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.4", 
+            "B365D": "3.1", 
+            "B365H": "3.1", 
+            "awayTeamName": "Udinese", 
+            "date": "2012-04-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Chievo", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "12", 
+            "B365D": "6", 
+            "B365H": "1.22", 
+            "awayTeamName": "Novara", 
+            "date": "2012-04-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Napoli", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "4", 
+            "B365D": "2.7", 
+            "B365H": "2.25", 
+            "awayTeamName": "Cagliari", 
+            "date": "2012-04-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Parma", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2012-04-21", 
+    "time_start": "2012-04-21"
+}

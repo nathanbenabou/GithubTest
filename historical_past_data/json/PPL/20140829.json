@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.62", 
+            "B365D": "3.22", 
+            "B365H": "2.28", 
+            "awayTeamName": "Setubal", 
+            "date": "2014-08-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-08-29", 
+    "time_start": "2014-08-29"
+}

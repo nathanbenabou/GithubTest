@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "21.48", 
+            "B365D": "7.93", 
+            "B365H": "1.17", 
+            "awayTeamName": "Arouca", 
+            "date": "2013-12-06", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-12-06", 
+    "time_start": "2013-12-06"
+}

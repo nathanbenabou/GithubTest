@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "15", 
+            "B365D": "7", 
+            "B365H": "1.1", 
+            "awayTeamName": "Setubal", 
+            "date": "2012-01-14", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Gil Vicente", 
+            "date": "2012-01-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Feirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "6.5", 
+            "B365H": "1.12", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2012-01-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-01-14", 
+    "time_start": "2012-01-14"
+}

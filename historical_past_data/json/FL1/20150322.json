@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.8", 
+            "B365D": "3.6", 
+            "B365H": "4.5", 
+            "awayTeamName": "Marseille", 
+            "date": "2015-03-22", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lens", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "1.91", 
+            "B365D": "3.3", 
+            "B365H": "4.5", 
+            "awayTeamName": "Monaco", 
+            "date": "2015-03-22", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "4.2", 
+            "B365D": "3.2", 
+            "B365H": "2", 
+            "awayTeamName": "Lille", 
+            "date": "2015-03-22", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2015-03-22", 
+    "time_start": "2015-03-22"
+}

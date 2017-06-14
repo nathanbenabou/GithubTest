@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "4", 
+            "B365H": "1.57", 
+            "awayTeamName": "Genoa", 
+            "date": "2015-02-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lazio", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2015-02-09", 
+    "time_start": "2015-02-09"
+}

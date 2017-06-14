@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.5", 
+            "B365D": "3.1", 
+            "B365H": "2.25", 
+            "awayTeamName": "Dijon", 
+            "date": "2016-09-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Angers", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.75", 
+            "B365D": "3", 
+            "B365H": "2.75", 
+            "awayTeamName": "Toulouse", 
+            "date": "2016-09-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Bastia", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.5", 
+            "B365D": "3.1", 
+            "B365H": "2.3", 
+            "awayTeamName": "Montpellier", 
+            "date": "2016-09-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Guingamp", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "2.9", 
+            "B365H": "2.6", 
+            "awayTeamName": "Monaco", 
+            "date": "2016-09-10", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.1", 
+            "B365H": "2.38", 
+            "awayTeamName": "Nancy", 
+            "date": "2016-09-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Lorient", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "3.8", 
+            "B365H": "1.62", 
+            "awayTeamName": "Bordeaux", 
+            "date": "2016-09-10", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lyon", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2016-09-10", 
+    "time_start": "2016-09-10"
+}

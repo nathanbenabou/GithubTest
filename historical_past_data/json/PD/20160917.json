@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "21", 
+            "B365D": "6.5", 
+            "B365H": "1.18", 
+            "awayTeamName": "Sp Gijon", 
+            "date": "2016-09-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.35", 
+            "B365D": "3.3", 
+            "B365H": "3.1", 
+            "awayTeamName": "Sevilla", 
+            "date": "2016-09-17", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Eibar", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.3", 
+            "B365D": "3.25", 
+            "B365H": "2.3", 
+            "awayTeamName": "Malaga", 
+            "date": "2016-09-17", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Las Palmas", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.18", 
+            "B365D": "7", 
+            "B365H": "17", 
+            "awayTeamName": "Barcelona", 
+            "date": "2016-09-17", 
+            "goalsAwayTeam": "5", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Leganes", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2016-09-17", 
+    "time_start": "2016-09-17"
+}

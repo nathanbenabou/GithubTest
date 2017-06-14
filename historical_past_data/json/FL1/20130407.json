@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.5", 
+            "B365D": "3.5", 
+            "B365H": "1.67", 
+            "awayTeamName": "Lorient", 
+            "date": "2013-04-07", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2", 
+            "B365D": "3.3", 
+            "B365H": "3.8", 
+            "awayTeamName": "Lyon", 
+            "date": "2013-04-07", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Reims", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.1", 
+            "B365H": "1.45", 
+            "awayTeamName": "Evian Thonon Gaillard", 
+            "date": "2013-04-07", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "St Etienne", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2013-04-07", 
+    "time_start": "2013-04-07"
+}

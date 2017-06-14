@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6.15", 
+            "B365D": "4.11", 
+            "B365H": "1.61", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2016-08-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-08-22", 
+    "time_start": "2016-08-22"
+}

@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "8", 
+            "B365D": "5.25", 
+            "B365H": "1.36", 
+            "awayTeamName": "RB Leipzig", 
+            "date": "2016-12-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "2.6", 
+            "B365D": "3.3", 
+            "B365H": "2.75", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2016-12-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6.25", 
+            "B365D": "3.9", 
+            "B365H": "1.57", 
+            "awayTeamName": "Darmstadt", 
+            "date": "2016-12-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hertha", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "4", 
+            "B365H": "1.62", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2016-12-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Freiburg", 
+            "date": "2016-12-21", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Ingolstadt", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-12-21", 
+    "time_start": "2016-12-21"
+}

@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4", 
+            "B365D": "1.73", 
+            "B365H": "1", 
+            "awayTeamName": "Everton", 
+            "date": "2016-04-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Liverpool", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "1.53", 
+            "B365H": "0", 
+            "awayTeamName": "Crystal Palace", 
+            "date": "2016-04-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Man United", 
+            "league": "PL"
+        }, 
+        {
+            "B365A": "4.33", 
+            "B365D": "1.57", 
+            "B365H": "1", 
+            "awayTeamName": "Watford", 
+            "date": "2016-04-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "West Ham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2016-04-20", 
+    "time_start": "2016-04-20"
+}

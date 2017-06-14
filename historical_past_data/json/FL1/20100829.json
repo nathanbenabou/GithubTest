@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.1", 
+            "B365D": "3.1", 
+            "B365H": "2.4", 
+            "awayTeamName": "Marseille", 
+            "date": "2010-08-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Bordeaux", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "3.75", 
+            "B365H": "1.5", 
+            "awayTeamName": "Nice", 
+            "date": "2010-08-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Lille", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3", 
+            "B365H": "2.38", 
+            "awayTeamName": "Auxerre", 
+            "date": "2010-08-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Monaco", 
+            "league": "FL1"
+        }, 
+        {
+            "B365A": "2.3", 
+            "B365D": "3.1", 
+            "B365H": "3.25", 
+            "awayTeamName": "Paris SG", 
+            "date": "2010-08-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sochaux", 
+            "league": "FL1"
+        }
+    ], 
+    "time_end": "2010-08-29", 
+    "time_start": "2010-08-29"
+}

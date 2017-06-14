@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.75", 
+            "B365D": "3.75", 
+            "B365H": "1.6", 
+            "awayTeamName": "St Pauli", 
+            "date": "2011-01-23", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.8", 
+            "B365D": "3.75", 
+            "B365H": "4.2", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2011-01-23", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2011-01-23", 
+    "time_start": "2011-01-23"
+}

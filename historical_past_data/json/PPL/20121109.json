@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.75", 
+            "B365D": "3", 
+            "B365H": "2.4", 
+            "awayTeamName": "Pacos Ferreira", 
+            "date": "2012-11-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-11-09", 
+    "time_start": "2012-11-09"
+}

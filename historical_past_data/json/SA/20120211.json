@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "3.2", 
+            "B365H": "2.1", 
+            "awayTeamName": "Palermo", 
+            "date": "2012-02-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Cagliari", 
+            "league": "SA"
+        }, 
+        {
+            "B365A": "2.88", 
+            "B365D": "3.2", 
+            "B365H": "2.5", 
+            "awayTeamName": "Milan", 
+            "date": "2012-02-11", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Udinese", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2012-02-11", 
+    "time_start": "2012-02-11"
+}

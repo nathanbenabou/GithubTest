@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "18.6", 
+            "B365D": "6.8", 
+            "B365H": "1.21", 
+            "awayTeamName": "Moreirense", 
+            "date": "2015-08-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "22.41", 
+            "B365D": "7.3", 
+            "B365H": "1.18", 
+            "awayTeamName": "Estoril", 
+            "date": "2015-08-29", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.19", 
+            "B365D": "3.19", 
+            "B365H": "2.48", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2015-08-29", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2015-08-29", 
+    "time_start": "2015-08-29"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "4.33", 
+            "B365D": "3.25", 
+            "B365H": "1.73", 
+            "awayTeamName": "Setubal", 
+            "date": "2012-10-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2012-10-26", 
+    "time_start": "2012-10-26"
+}

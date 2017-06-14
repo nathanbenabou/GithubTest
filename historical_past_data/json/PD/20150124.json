@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "12", 
+            "B365D": "6", 
+            "B365H": "1.25", 
+            "awayTeamName": "Vallecano", 
+            "date": "2015-01-24", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.14", 
+            "B365D": "8", 
+            "B365H": "21", 
+            "awayTeamName": "Real Madrid", 
+            "date": "2015-01-24", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Cordoba", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.17", 
+            "B365D": "7", 
+            "B365H": "19", 
+            "awayTeamName": "Barcelona", 
+            "date": "2015-01-24", 
+            "goalsAwayTeam": "6", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Elche", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.75", 
+            "B365D": "3.6", 
+            "B365H": "1.75", 
+            "awayTeamName": "Eibar", 
+            "date": "2015-01-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sociedad", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "5", 
+            "B365H": "1.29", 
+            "awayTeamName": "Levante", 
+            "date": "2015-01-24", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-01-24", 
+    "time_start": "2015-01-24"
+}

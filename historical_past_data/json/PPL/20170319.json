@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.14", 
+            "B365D": "2.94", 
+            "B365H": "2.73", 
+            "awayTeamName": "Chaves", 
+            "date": "2017-03-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Feirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.48", 
+            "B365D": "3.29", 
+            "B365H": "2.31", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2017-03-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Guimaraes", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "4.86", 
+            "B365D": "3.4", 
+            "B365H": "1.9", 
+            "awayTeamName": "Arouca", 
+            "date": "2017-03-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Maritimo", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "17.5", 
+            "B365D": "7.68", 
+            "B365H": "1.19", 
+            "awayTeamName": "Setubal", 
+            "date": "2017-03-19", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Porto", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-03-19", 
+    "time_start": "2017-03-19"
+}

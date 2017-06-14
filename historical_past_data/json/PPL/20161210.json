@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.28", 
+            "B365D": "3.25", 
+            "B365H": "2.43", 
+            "awayTeamName": "Maritimo", 
+            "date": "2016-12-10", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.41", 
+            "B365D": "3.23", 
+            "B365H": "3.34", 
+            "awayTeamName": "Guimaraes", 
+            "date": "2016-12-10", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Boavista", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.12", 
+            "B365H": "2.28", 
+            "awayTeamName": "Moreirense", 
+            "date": "2016-12-10", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Chaves", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2016-12-10", 
+    "time_start": "2016-12-10"
+}

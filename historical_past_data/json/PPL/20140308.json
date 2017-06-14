@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "5.9", 
+            "B365D": "3.96", 
+            "B365H": "1.65", 
+            "awayTeamName": "Nacional", 
+            "date": "2014-03-08", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2014-03-08", 
+    "time_start": "2014-03-08"
+}

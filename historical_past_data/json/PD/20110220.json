@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.6", 
+            "B365D": "3.3", 
+            "B365H": "2.05", 
+            "awayTeamName": "La Coruna", 
+            "date": "2011-02-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Almeria", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "21", 
+            "B365D": "7.5", 
+            "B365H": "1.13", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2011-02-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "4.5", 
+            "B365D": "3.5", 
+            "B365H": "1.8", 
+            "awayTeamName": "Santander", 
+            "date": "2011-02-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.25", 
+            "B365D": "3.3", 
+            "B365H": "2.2", 
+            "awayTeamName": "Espanol", 
+            "date": "2011-02-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "3.8", 
+            "B365H": "1.57", 
+            "awayTeamName": "Hercules", 
+            "date": "2011-02-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "6.5", 
+            "B365D": "4.1", 
+            "B365H": "1.5", 
+            "awayTeamName": "Malaga", 
+            "date": "2011-02-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Villarreal", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2011-02-20", 
+    "time_start": "2011-02-20"
+}

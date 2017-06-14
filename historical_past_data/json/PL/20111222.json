@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "3.4", 
+            "B365D": "2.6", 
+            "B365H": "0", 
+            "awayTeamName": "Chelsea", 
+            "date": "2011-12-22", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Tottenham", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2011-12-22", 
+    "time_start": "2011-12-22"
+}

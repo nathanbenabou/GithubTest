@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.47", 
+            "B365D": "3.39", 
+            "B365H": "3.03", 
+            "awayTeamName": "Maritimo", 
+            "date": "2013-09-21", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Belenenses", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.8", 
+            "B365D": "3.35", 
+            "B365H": "2.14", 
+            "awayTeamName": "Olhanense", 
+            "date": "2013-09-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Gil Vicente", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "10.06", 
+            "B365D": "4.88", 
+            "B365H": "1.38", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2013-09-21", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Sp Lisbon", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-09-21", 
+    "time_start": "2013-09-21"
+}

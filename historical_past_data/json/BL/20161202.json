@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.29", 
+            "B365D": "5.75", 
+            "B365H": "10", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2016-12-02", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Mainz", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-12-02", 
+    "time_start": "2016-12-02"
+}

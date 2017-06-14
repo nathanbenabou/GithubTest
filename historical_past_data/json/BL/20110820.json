@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3.3", 
+            "B365H": "2.8", 
+            "awayTeamName": "Hoffenheim", 
+            "date": "2011-08-20", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Augsburg", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "5", 
+            "B365H": "1.33", 
+            "awayTeamName": "Hamburg", 
+            "date": "2011-08-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "5", 
+            "B365H": "1.29", 
+            "awayTeamName": "Nurnberg", 
+            "date": "2011-08-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Dortmund", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.3", 
+            "B365H": "2.3", 
+            "awayTeamName": "Kaiserslautern", 
+            "date": "2011-08-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "FC Koln", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3", 
+            "B365D": "3.4", 
+            "B365H": "2.3", 
+            "awayTeamName": "Leverkusen", 
+            "date": "2011-08-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Stuttgart", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4", 
+            "B365H": "1.55", 
+            "awayTeamName": "Freiburg", 
+            "date": "2011-08-20", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Werder Bremen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2011-08-20", 
+    "time_start": "2011-08-20"
+}

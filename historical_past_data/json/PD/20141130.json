@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "17", 
+            "B365D": "7", 
+            "B365H": "1.18", 
+            "awayTeamName": "La Coruna", 
+            "date": "2014-11-30", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ath Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.85", 
+            "B365D": "3.6", 
+            "B365H": "4.33", 
+            "awayTeamName": "Villarreal", 
+            "date": "2014-11-30", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Cordoba", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "7.5", 
+            "B365D": "4.5", 
+            "B365H": "1.44", 
+            "awayTeamName": "Granada", 
+            "date": "2014-11-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.53", 
+            "B365D": "4.33", 
+            "B365H": "6", 
+            "awayTeamName": "Barcelona", 
+            "date": "2014-11-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-11-30", 
+    "time_start": "2014-11-30"
+}

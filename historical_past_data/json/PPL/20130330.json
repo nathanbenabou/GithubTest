@@ -1,0 +1,61 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.33", 
+            "B365D": "4.5", 
+            "B365H": "9", 
+            "awayTeamName": "Porto", 
+            "date": "2013-03-30", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Academica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.2", 
+            "B365H": "2.25", 
+            "awayTeamName": "Olhanense", 
+            "date": "2013-03-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Beira Mar", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "13", 
+            "B365D": "6", 
+            "B365H": "1.2", 
+            "awayTeamName": "Rio Ave", 
+            "date": "2013-03-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "6", 
+            "homeTeamName": "Benfica", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.1", 
+            "B365H": "2.75", 
+            "awayTeamName": "Estoril", 
+            "date": "2013-03-30", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Moreirense", 
+            "league": "PPL"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.2", 
+            "B365H": "2.75", 
+            "awayTeamName": "Maritimo", 
+            "date": "2013-03-30", 
+            "goalsAwayTeam": "4", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Setubal", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-03-30", 
+    "time_start": "2013-03-30"
+}

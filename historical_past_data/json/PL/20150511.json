@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "6", 
+            "B365D": "1.3", 
+            "B365H": "0", 
+            "awayTeamName": "Swansea", 
+            "date": "2015-05-11", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Arsenal", 
+            "league": "PL"
+        }
+    ], 
+    "time_end": "2015-05-11", 
+    "time_start": "2015-05-11"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.67", 
+            "B365D": "3.6", 
+            "B365H": "5.25", 
+            "awayTeamName": "Ath Madrid", 
+            "date": "2013-10-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Espanol", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "1.22", 
+            "B365D": "6", 
+            "B365H": "12", 
+            "awayTeamName": "Barcelona", 
+            "date": "2013-10-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Osasuna", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "11", 
+            "B365D": "7", 
+            "B365H": "1.2", 
+            "awayTeamName": "Malaga", 
+            "date": "2013-10-19", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.5", 
+            "B365H": "1.73", 
+            "awayTeamName": "Sociedad", 
+            "date": "2013-10-19", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Valencia", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2013-10-19", 
+    "time_start": "2013-10-19"
+}

@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2", 
+            "B365D": "3.3", 
+            "B365H": "4", 
+            "awayTeamName": "Villarreal", 
+            "date": "2015-03-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Almeria", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "7", 
+            "B365D": "3.75", 
+            "B365H": "1.57", 
+            "awayTeamName": "Cordoba", 
+            "date": "2015-03-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "34", 
+            "B365D": "13", 
+            "B365H": "1.06", 
+            "awayTeamName": "Levante", 
+            "date": "2015-03-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "4.75", 
+            "B365H": "1.4", 
+            "awayTeamName": "Elche", 
+            "date": "2015-03-15", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-03-15", 
+    "time_start": "2015-03-15"
+}

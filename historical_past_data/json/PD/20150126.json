@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3.2", 
+            "B365H": "2.88", 
+            "awayTeamName": "Celta", 
+            "date": "2015-01-26", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Getafe", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-01-26", 
+    "time_start": "2015-01-26"
+}

@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.5", 
+            "B365D": "3", 
+            "B365H": "3", 
+            "awayTeamName": "Milan", 
+            "date": "2011-03-05", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Juventus", 
+            "league": "SA"
+        }
+    ], 
+    "time_end": "2011-03-05", 
+    "time_start": "2011-03-05"
+}

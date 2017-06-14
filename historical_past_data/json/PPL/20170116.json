@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "7.45", 
+            "B365D": "4.61", 
+            "B365H": "1.49", 
+            "awayTeamName": "Tondela", 
+            "date": "2017-01-16", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2017-01-16", 
+    "time_start": "2017-01-16"
+}

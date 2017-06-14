@@ -1,0 +1,72 @@
+{
+    "league_scores": [
+        {
+            "B365A": "19", 
+            "B365D": "8", 
+            "B365H": "1.13", 
+            "awayTeamName": "Augsburg", 
+            "date": "2013-11-09", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Bayern Munich", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "3.2", 
+            "B365D": "3.4", 
+            "B365H": "2.2", 
+            "awayTeamName": "Hertha", 
+            "date": "2013-11-09", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4.33", 
+            "B365H": "1.5", 
+            "awayTeamName": "Hamburg", 
+            "date": "2013-11-09", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6", 
+            "B365D": "4.1", 
+            "B365H": "1.53", 
+            "awayTeamName": "Nurnberg", 
+            "date": "2013-11-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "M'gladbach", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5.5", 
+            "B365D": "4", 
+            "B365H": "1.57", 
+            "awayTeamName": "Werder Bremen", 
+            "date": "2013-11-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Schalke 04", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "1.73", 
+            "B365D": "3.8", 
+            "B365H": "4.5", 
+            "awayTeamName": "Dortmund", 
+            "date": "2013-11-09", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Wolfsburg", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2013-11-09", 
+    "time_start": "2013-11-09"
+}

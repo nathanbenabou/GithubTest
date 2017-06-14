@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "26", 
+            "B365D": "15", 
+            "B365H": "1.06", 
+            "awayTeamName": "Cordoba", 
+            "date": "2014-12-20", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "5", 
+            "homeTeamName": "Barcelona", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.05", 
+            "B365D": "3.3", 
+            "B365H": "3.8", 
+            "awayTeamName": "Valencia", 
+            "date": "2014-12-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Eibar", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "2.5", 
+            "B365D": "3.2", 
+            "B365H": "3", 
+            "awayTeamName": "Sociedad", 
+            "date": "2014-12-20", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Levante", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.1", 
+            "B365D": "3.4", 
+            "B365H": "2.3", 
+            "awayTeamName": "Espanol", 
+            "date": "2014-12-20", 
+            "goalsAwayTeam": "3", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Vallecano", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2014-12-20", 
+    "time_start": "2014-12-20"
+}

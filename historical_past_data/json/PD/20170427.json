@@ -1,0 +1,39 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.7", 
+            "B365D": "3.2", 
+            "B365H": "2.75", 
+            "awayTeamName": "Eibar", 
+            "date": "2017-04-27", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Alaves", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "4.5", 
+            "B365H": "1.4", 
+            "awayTeamName": "Betis", 
+            "date": "2017-04-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Ath Bilbao", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "8", 
+            "B365D": "5.5", 
+            "B365H": "1.33", 
+            "awayTeamName": "Celta", 
+            "date": "2017-04-27", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2017-04-27", 
+    "time_start": "2017-04-27"
+}

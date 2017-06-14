@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "1.14", 
+            "B365D": "8", 
+            "B365H": "19", 
+            "awayTeamName": "Bayern Munich", 
+            "date": "2016-12-18", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Darmstadt", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "6.25", 
+            "B365D": "4", 
+            "B365H": "1.55", 
+            "awayTeamName": "Ingolstadt", 
+            "date": "2016-12-18", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "1", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2016-12-18", 
+    "time_start": "2016-12-18"
+}

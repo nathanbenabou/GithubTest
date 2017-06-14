@@ -1,0 +1,50 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.63", 
+            "B365D": "3.1", 
+            "B365H": "2.9", 
+            "awayTeamName": "Ath Bilbao", 
+            "date": "2015-02-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Granada", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "3.75", 
+            "B365D": "3.3", 
+            "B365H": "2.1", 
+            "awayTeamName": "Espanol", 
+            "date": "2015-02-14", 
+            "goalsAwayTeam": "2", 
+            "goalsHomeTeam": "0", 
+            "homeTeamName": "Malaga", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "21", 
+            "B365D": "13", 
+            "B365H": "1.08", 
+            "awayTeamName": "La Coruna", 
+            "date": "2015-02-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Real Madrid", 
+            "league": "PD"
+        }, 
+        {
+            "B365A": "9", 
+            "B365D": "5", 
+            "B365H": "1.36", 
+            "awayTeamName": "Cordoba", 
+            "date": "2015-02-14", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "3", 
+            "homeTeamName": "Sevilla", 
+            "league": "PD"
+        }
+    ], 
+    "time_end": "2015-02-14", 
+    "time_start": "2015-02-14"
+}

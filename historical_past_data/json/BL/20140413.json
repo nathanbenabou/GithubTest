@@ -1,0 +1,28 @@
+{
+    "league_scores": [
+        {
+            "B365A": "2.8", 
+            "B365D": "3.5", 
+            "B365H": "2.4", 
+            "awayTeamName": "Augsburg", 
+            "date": "2014-04-13", 
+            "goalsAwayTeam": "0", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Hoffenheim", 
+            "league": "BL"
+        }, 
+        {
+            "B365A": "5", 
+            "B365D": "3.8", 
+            "B365H": "1.67", 
+            "awayTeamName": "Hertha", 
+            "date": "2014-04-13", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "2", 
+            "homeTeamName": "Leverkusen", 
+            "league": "BL"
+        }
+    ], 
+    "time_end": "2014-04-13", 
+    "time_start": "2014-04-13"
+}

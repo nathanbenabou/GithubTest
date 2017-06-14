@@ -1,0 +1,17 @@
+{
+    "league_scores": [
+        {
+            "B365A": "13.15", 
+            "B365D": "5.37", 
+            "B365H": "1.3", 
+            "awayTeamName": "Olhanense", 
+            "date": "2013-11-29", 
+            "goalsAwayTeam": "1", 
+            "goalsHomeTeam": "4", 
+            "homeTeamName": "Sp Braga", 
+            "league": "PPL"
+        }
+    ], 
+    "time_end": "2013-11-29", 
+    "time_start": "2013-11-29"
+}
