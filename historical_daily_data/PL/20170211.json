@@ -1,0 +1,62 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-11T12:30:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Hull City FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-11T15:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Watford FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-11T15:00:00Z",
+            "homeTeamName": "Middlesbrough FC",
+            "awayTeamName": "Everton FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-11T15:00:00Z",
+            "homeTeamName": "Stoke City FC",
+            "awayTeamName": "Crystal Palace FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 4,
+            "date": "2017-02-11T15:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Southampton FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-02-11T15:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Bromwich Albion FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-11T17:30:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-02-11",
+    "time_end": "2017-02-11"
+}

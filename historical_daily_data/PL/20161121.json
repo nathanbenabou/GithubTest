@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-11-21T20:00:00Z",
+            "homeTeamName": "West Bromwich Albion FC",
+            "awayTeamName": "Burnley FC",
+            "goalsHomeTeam": 4
+        }
+    ],
+    "time_start": "2016-11-21",
+    "time_end": "2016-11-21"
+}

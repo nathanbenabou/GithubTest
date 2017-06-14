@@ -1,0 +1,62 @@
+{
+    "league_scores": [
+        {
+            "league": "SA",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-23T10:30:00Z",
+            "homeTeamName": "US Sassuolo Calcio",
+            "awayTeamName": "SSC Napoli",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-23T13:00:00Z",
+            "homeTeamName": "UC Sampdoria",
+            "awayTeamName": "FC Crotone",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-23T13:00:00Z",
+            "homeTeamName": "AC Milan",
+            "awayTeamName": "Empoli FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-23T13:00:00Z",
+            "homeTeamName": "SS Lazio",
+            "awayTeamName": "US Cittá di Palermo",
+            "goalsHomeTeam": 6
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 3,
+            "date": "2017-04-23T13:00:00Z",
+            "homeTeamName": "AC Chievo Verona",
+            "awayTeamName": "Torino FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-23T13:00:00Z",
+            "homeTeamName": "Udinese Calcio",
+            "awayTeamName": "Cagliari Calcio",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-23T18:45:00Z",
+            "homeTeamName": "Juventus Turin",
+            "awayTeamName": "Genoa CFC",
+            "goalsHomeTeam": 4
+        }
+    ],
+    "time_start": "2017-04-23",
+    "time_end": "2017-04-23"
+}

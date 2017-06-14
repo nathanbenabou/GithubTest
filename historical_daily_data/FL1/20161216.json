@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2016-12-16T19:45:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "FC Nantes",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2016-12-16",
+    "time_end": "2016-12-16"
+}

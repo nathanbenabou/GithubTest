@@ -1,0 +1,62 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-03-18T12:30:00Z",
+            "homeTeamName": "West Bromwich Albion FC",
+            "awayTeamName": "Arsenal FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-03-18T15:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Burnley FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2017-03-18T15:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "Leicester City FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-03-18T15:00:00Z",
+            "homeTeamName": "Stoke City FC",
+            "awayTeamName": "Chelsea FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-03-18T16:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Hull City FC",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-03-18T16:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Watford FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-03-18T18:30:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "Swansea City FC",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-03-18",
+    "time_end": "2017-03-18"
+}

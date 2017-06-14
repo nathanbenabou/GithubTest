@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 4,
+            "date": "2016-12-28T19:45:00Z",
+            "homeTeamName": "Southampton FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-12-28",
+    "time_end": "2016-12-28"
+}

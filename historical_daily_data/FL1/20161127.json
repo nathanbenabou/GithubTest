@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2016-11-27T14:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "AS Saint-Étienne",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-27T16:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "SC Bastia",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2016-11-27T19:45:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Paris Saint-Germain",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-11-27",
+    "time_end": "2016-11-27"
+}

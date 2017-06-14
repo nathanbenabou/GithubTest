@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2016-09-20T17:00:00Z",
+            "homeTeamName": "OSC Lille",
+            "awayTeamName": "Toulouse FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-09-20T19:00:00Z",
+            "homeTeamName": "Paris Saint-Germain",
+            "awayTeamName": "Dijon FCO",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2016-09-20",
+    "time_end": "2016-09-20"
+}

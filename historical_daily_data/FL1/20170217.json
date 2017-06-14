@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-02-17T19:45:00Z",
+            "homeTeamName": "SC Bastia",
+            "awayTeamName": "AS Monaco FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-02-17",
+    "time_end": "2017-02-17"
+}

@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "SA",
+            "goalsAwayTeam": 2,
+            "date": "2017-05-13T16:00:00Z",
+            "homeTeamName": "ACF Fiorentina",
+            "awayTeamName": "SS Lazio",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-13T18:45:00Z",
+            "homeTeamName": "Atalanta BC",
+            "awayTeamName": "AC Milan",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-05-13",
+    "time_end": "2017-05-13"
+}

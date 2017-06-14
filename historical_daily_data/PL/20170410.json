@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-10T19:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Arsenal FC",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2017-04-10",
+    "time_end": "2017-04-10"
+}

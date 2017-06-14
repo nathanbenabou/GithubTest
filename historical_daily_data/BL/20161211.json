@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-11T14:30:00Z",
+            "homeTeamName": "Bor. Mönchengladbach",
+            "awayTeamName": "1. FSV Mainz 05",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-11T16:30:00Z",
+            "homeTeamName": "FC Schalke 04",
+            "awayTeamName": "Bayer Leverkusen",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2016-12-11",
+    "time_end": "2016-12-11"
+}

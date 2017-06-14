@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-01-22T12:00:00Z",
+            "homeTeamName": "Southampton FC",
+            "awayTeamName": "Leicester City FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-01-22T14:15:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Burnley FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-01-22T16:30:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Hull City FC",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-01-22",
+    "time_end": "2017-01-22"
+}

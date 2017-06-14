@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 3,
+            "date": "2017-04-05T17:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "Olympique Lyonnais",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-04-05",
+    "time_end": "2017-04-05"
+}

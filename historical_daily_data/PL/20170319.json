@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2017-03-19T13:00:00Z",
+            "homeTeamName": "Middlesbrough FC",
+            "awayTeamName": "Manchester United FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-03-19T15:15:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Southampton FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-03-19T17:30:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Liverpool FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-03-19",
+    "time_end": "2017-03-19"
+}

@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-26T18:45:00Z",
+            "homeTeamName": "Middlesbrough FC",
+            "awayTeamName": "Sunderland AFC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-26T18:45:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Leicester City FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-26T19:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-04-26",
+    "time_end": "2017-04-26"
+}

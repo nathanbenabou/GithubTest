@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "SA",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-28T18:45:00Z",
+            "homeTeamName": "Atalanta BC",
+            "awayTeamName": "Juventus Turin",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-04-28",
+    "time_end": "2017-04-28"
+}

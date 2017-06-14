@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-07T13:30:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "1. FSV Mainz 05",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-07T15:30:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "FC Schalke 04",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-05-07",
+    "time_end": "2017-05-07"
+}

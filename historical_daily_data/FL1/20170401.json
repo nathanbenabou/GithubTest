@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-01T15:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Dijon FCO",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-01T17:00:00Z",
+            "homeTeamName": "SC Bastia",
+            "awayTeamName": "OSC Lille",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-04-01",
+    "time_end": "2017-04-01"
+}

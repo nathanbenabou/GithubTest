@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-10-23T12:30:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Southampton FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-10-23T15:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Manchester United FC",
+            "goalsHomeTeam": 4
+        }
+    ],
+    "time_start": "2016-10-23",
+    "time_end": "2016-10-23"
+}

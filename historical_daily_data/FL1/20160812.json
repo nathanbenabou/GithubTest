@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-08-12T18:00:00Z",
+            "homeTeamName": "SC Bastia",
+            "awayTeamName": "Paris Saint-Germain",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2016-08-12T18:30:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "EA Guingamp",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2016-08-12",
+    "time_end": "2016-08-12"
+}

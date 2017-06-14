@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-10-31T20:00:00Z",
+            "homeTeamName": "Stoke City FC",
+            "awayTeamName": "Swansea City FC",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2016-10-31",
+    "time_end": "2016-10-31"
+}

@@ -1,0 +1,46 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-06T12:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-06T14:15:00Z",
+            "homeTeamName": "Hull City FC",
+            "awayTeamName": "Southampton FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-06T14:15:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Watford FC",
+            "goalsHomeTeam": 6
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2016-11-06T15:00:00Z",
+            "homeTeamName": "Swansea City FC",
+            "awayTeamName": "Manchester United FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2016-11-06T16:30:00Z",
+            "homeTeamName": "Leicester City FC",
+            "awayTeamName": "West Bromwich Albion FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-11-06",
+    "time_end": "2016-11-06"
+}

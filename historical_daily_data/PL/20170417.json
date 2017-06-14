@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-17T19:00:00Z",
+            "homeTeamName": "Middlesbrough FC",
+            "awayTeamName": "Arsenal FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-04-17",
+    "time_end": "2017-04-17"
+}

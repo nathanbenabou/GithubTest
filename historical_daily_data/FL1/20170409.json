@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-09T13:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Olympique de Marseille",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-09T15:00:00Z",
+            "homeTeamName": "AS Saint-Étienne",
+            "awayTeamName": "FC Nantes",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-09T19:00:00Z",
+            "homeTeamName": "Paris Saint-Germain",
+            "awayTeamName": "EA Guingamp",
+            "goalsHomeTeam": 4
+        }
+    ],
+    "time_start": "2017-04-09",
+    "time_end": "2017-04-09"
+}

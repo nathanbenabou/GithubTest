@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-02-24T18:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "Dijon FCO",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-02-24T19:45:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "Montpellier Hérault SC",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-02-24",
+    "time_end": "2017-02-24"
+}

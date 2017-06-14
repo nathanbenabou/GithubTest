@@ -1,0 +1,62 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-08T11:30:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Watford FC",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-08T14:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Hull City FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-08T14:00:00Z",
+            "homeTeamName": "Middlesbrough FC",
+            "awayTeamName": "Burnley FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-08T14:00:00Z",
+            "homeTeamName": "Stoke City FC",
+            "awayTeamName": "Liverpool FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-08T14:00:00Z",
+            "homeTeamName": "West Bromwich Albion FC",
+            "awayTeamName": "Southampton FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-08T14:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "Swansea City FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2017-04-08T16:30:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "Chelsea FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-04-08",
+    "time_end": "2017-04-08"
+}

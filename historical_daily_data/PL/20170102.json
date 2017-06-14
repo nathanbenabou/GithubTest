@@ -1,0 +1,54 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-01-02T12:30:00Z",
+            "homeTeamName": "Middlesbrough FC",
+            "awayTeamName": "Leicester City FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-01-02T15:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Southampton FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-01-02T15:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Burnley FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-01-02T15:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Liverpool FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-01-02T15:00:00Z",
+            "homeTeamName": "West Bromwich Albion FC",
+            "awayTeamName": "Hull City FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-01-02T17:15:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "Manchester United FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-01-02",
+    "time_end": "2017-01-02"
+}

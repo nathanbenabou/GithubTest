@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2017-03-12T15:30:00Z",
+            "homeTeamName": "FC Schalke 04",
+            "awayTeamName": "FC Augsburg",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2017-03-12T17:30:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Bor. Mönchengladbach",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-03-12",
+    "time_end": "2017-03-12"
+}

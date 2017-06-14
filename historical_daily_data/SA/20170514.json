@@ -1,0 +1,70 @@
+{
+    "league_scores": [
+        {
+            "league": "SA",
+            "goalsAwayTeam": 2,
+            "date": "2017-05-14T10:30:00Z",
+            "homeTeamName": "FC Internazionale Milano",
+            "awayTeamName": "US Sassuolo Calcio",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-14T13:00:00Z",
+            "homeTeamName": "US Cittá di Palermo",
+            "awayTeamName": "Genoa CFC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 2,
+            "date": "2017-05-14T13:00:00Z",
+            "homeTeamName": "Cagliari Calcio",
+            "awayTeamName": "Empoli FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 5,
+            "date": "2017-05-14T13:00:00Z",
+            "homeTeamName": "Torino FC",
+            "awayTeamName": "SSC Napoli",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-14T13:00:00Z",
+            "homeTeamName": "Bologna FC",
+            "awayTeamName": "Pescara Calcio",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-14T13:00:00Z",
+            "homeTeamName": "UC Sampdoria",
+            "awayTeamName": "AC Chievo Verona",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-14T13:00:00Z",
+            "homeTeamName": "FC Crotone",
+            "awayTeamName": "Udinese Calcio",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-14T18:45:00Z",
+            "homeTeamName": "AS Roma",
+            "awayTeamName": "Juventus Turin",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2017-05-14",
+    "time_end": "2017-05-14"
+}

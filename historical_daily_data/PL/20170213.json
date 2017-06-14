@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-02-13T20:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "Manchester City FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-02-13",
+    "time_end": "2017-02-13"
+}

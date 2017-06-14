@@ -195,9 +195,9 @@ def saveData(league, timeFrameStart, timeFrameEnd, standings, team, live, use12h
 #def main():
     
 #save lastx 3 years games
-horizon=800
+horizon=400
 count=0
-for league in ('PL', 'BL', 'SA', 'PPL', 'PD'):
+for league in (  'SA', 'PPL', 'PD'):#('FL1', 'PL','BL',)
   for look_back in range(0,horizon):
     timeFrameEnd=dt.datetime.now()-dt.timedelta(days=look_back)
     timeFrameStart=timeFrameEnd#-dt.timedelta(days=1)
@@ -206,7 +206,7 @@ for league in ('PL', 'BL', 'SA', 'PPL', 'PD'):
         ("/Users/nathanbenabou/Documents/GithubTest/historical_daily_data/", league, "/", day_str, ".json"))
     saveData(league, timeFrameStart, timeFrameEnd, False, False, False, False, False, 'json', output_file, False, False, False, load_config_key())
     count+=1
-    if count%40==0:
+    if count%35==0:
         time.sleep(60)
 #return
     

@@ -1,0 +1,54 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-01-14T16:00:00Z",
+            "homeTeamName": "Stade Rennais FC",
+            "awayTeamName": "Paris Saint-Germain",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-01-14T19:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "FC Nantes",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-01-14T19:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "FC Girondins de Bordeaux",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-01-14T19:00:00Z",
+            "homeTeamName": "AS Nancy",
+            "awayTeamName": "SC Bastia",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-01-14T19:00:00Z",
+            "homeTeamName": "Montpellier Hérault SC",
+            "awayTeamName": "Dijon FCO",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-01-14T19:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "EA Guingamp",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2017-01-14",
+    "time_end": "2017-01-14"
+}

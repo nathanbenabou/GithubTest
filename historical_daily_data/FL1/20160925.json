@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-25T13:00:00Z",
+            "homeTeamName": "AS Saint-Étienne",
+            "awayTeamName": "OSC Lille",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-25T15:00:00Z",
+            "homeTeamName": "AS Nancy",
+            "awayTeamName": "OGC Nice",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-25T18:45:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "FC Nantes",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2016-09-25",
+    "time_end": "2016-09-25"
+}

@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2016-12-30T20:00:00Z",
+            "homeTeamName": "Hull City FC",
+            "awayTeamName": "Everton FC",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2016-12-30",
+    "time_end": "2016-12-30"
+}

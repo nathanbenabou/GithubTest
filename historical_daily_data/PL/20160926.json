@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-09-26T19:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Watford FC",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2016-09-26",
+    "time_end": "2016-09-26"
+}

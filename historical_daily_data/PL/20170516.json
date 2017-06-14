@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-16T18:45:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Sunderland AFC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-16T19:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "West Bromwich Albion FC",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2017-05-16",
+    "time_end": "2017-05-16"
+}

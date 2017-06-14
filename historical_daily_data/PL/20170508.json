@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-08T19:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Middlesbrough FC",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2017-05-08",
+    "time_end": "2017-05-08"
+}

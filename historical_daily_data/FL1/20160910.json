@@ -1,0 +1,54 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 3,
+            "date": "2016-09-10T15:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "FC Girondins de Bordeaux",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-10T18:00:00Z",
+            "homeTeamName": "EA Guingamp",
+            "awayTeamName": "Montpellier Hérault SC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-10T18:00:00Z",
+            "homeTeamName": "SC Bastia",
+            "awayTeamName": "Toulouse FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-10T18:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Dijon FCO",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 4,
+            "date": "2016-09-10T18:00:00Z",
+            "homeTeamName": "OSC Lille",
+            "awayTeamName": "AS Monaco FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2016-09-10T18:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "AS Nancy",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2016-09-10",
+    "time_end": "2016-09-10"
+}

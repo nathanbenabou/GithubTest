@@ -1,0 +1,46 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-29T14:00:00Z",
+            "homeTeamName": "Southampton FC",
+            "awayTeamName": "Hull City FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-29T14:00:00Z",
+            "homeTeamName": "Stoke City FC",
+            "awayTeamName": "West Ham United FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-29T14:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "AFC Bournemouth",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-29T14:00:00Z",
+            "homeTeamName": "West Bromwich Albion FC",
+            "awayTeamName": "Leicester City FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-29T16:30:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Burnley FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-04-29",
+    "time_end": "2017-04-29"
+}

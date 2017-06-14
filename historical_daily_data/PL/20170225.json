@@ -1,0 +1,54 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-25T15:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Sunderland AFC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-02-25T15:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Swansea City FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-25T15:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Middlesbrough FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-02-25T15:00:00Z",
+            "homeTeamName": "West Bromwich Albion FC",
+            "awayTeamName": "AFC Bournemouth",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-02-25T15:00:00Z",
+            "homeTeamName": "Hull City FC",
+            "awayTeamName": "Burnley FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-02-25T17:30:00Z",
+            "homeTeamName": "Watford FC",
+            "awayTeamName": "West Ham United FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-02-25",
+    "time_end": "2017-02-25"
+}

@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-03-03T19:45:00Z",
+            "homeTeamName": "FC Girondins de Bordeaux",
+            "awayTeamName": "Olympique Lyonnais",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-03-03",
+    "time_end": "2017-03-03"
+}

@@ -1,0 +1,62 @@
+{
+    "league_scores": [
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-21T13:00:00Z",
+            "homeTeamName": "Empoli FC",
+            "awayTeamName": "Atalanta BC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-21T13:00:00Z",
+            "homeTeamName": "Genoa CFC",
+            "awayTeamName": "Torino FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-21T13:00:00Z",
+            "homeTeamName": "Juventus Turin",
+            "awayTeamName": "FC Crotone",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-21T13:00:00Z",
+            "homeTeamName": "AC Milan",
+            "awayTeamName": "Bologna FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 2,
+            "date": "2017-05-21T13:00:00Z",
+            "homeTeamName": "US Sassuolo Calcio",
+            "awayTeamName": "Cagliari Calcio",
+            "goalsHomeTeam": 6
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-21T13:00:00Z",
+            "homeTeamName": "Udinese Calcio",
+            "awayTeamName": "UC Sampdoria",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 3,
+            "date": "2017-05-21T18:45:00Z",
+            "homeTeamName": "SS Lazio",
+            "awayTeamName": "FC Internazionale Milano",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-05-21",
+    "time_end": "2017-05-21"
+}

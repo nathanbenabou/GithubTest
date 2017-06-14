@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-11-25T19:45:00Z",
+            "homeTeamName": "Stade Rennais FC",
+            "awayTeamName": "Toulouse FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-11-25",
+    "time_end": "2016-11-25"
+}

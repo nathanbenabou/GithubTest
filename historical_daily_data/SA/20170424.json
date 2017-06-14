@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "SA",
+            "goalsAwayTeam": 4,
+            "date": "2017-04-24T18:45:00Z",
+            "homeTeamName": "Pescara Calcio",
+            "awayTeamName": "AS Roma",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-04-24",
+    "time_end": "2017-04-24"
+}

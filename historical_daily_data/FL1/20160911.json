@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 3,
+            "date": "2016-09-11T13:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Metz",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-09-11T15:00:00Z",
+            "homeTeamName": "Stade Rennais FC",
+            "awayTeamName": "SM Caen",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2016-09-11T18:45:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "Olympique de Marseille",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2016-09-11",
+    "time_end": "2016-09-11"
+}

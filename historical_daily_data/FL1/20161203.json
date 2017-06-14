@@ -1,0 +1,46 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-03T16:00:00Z",
+            "homeTeamName": "Montpellier Hérault SC",
+            "awayTeamName": "Paris Saint-Germain",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2016-12-03T19:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "FC Lorient",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-03T19:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "SC Bastia",
+            "goalsHomeTeam": 5
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-03T19:00:00Z",
+            "homeTeamName": "EA Guingamp",
+            "awayTeamName": "FC Nantes",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-03T19:00:00Z",
+            "homeTeamName": "FC Girondins de Bordeaux",
+            "awayTeamName": "OSC Lille",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2016-12-03",
+    "time_end": "2016-12-03"
+}

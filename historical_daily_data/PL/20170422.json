@@ -1,0 +1,38 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-22T14:00:00Z",
+            "homeTeamName": "Swansea City FC",
+            "awayTeamName": "Stoke City FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-22T14:00:00Z",
+            "homeTeamName": "Hull City FC",
+            "awayTeamName": "Watford FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-22T14:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "Middlesbrough FC",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-22T14:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "Everton FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-04-22",
+    "time_end": "2017-04-22"
+}

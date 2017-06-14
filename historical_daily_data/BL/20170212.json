@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2017-02-12T14:30:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2017-02-12T16:30:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "1. FC Köln",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-02-12",
+    "time_end": "2017-02-12"
+}

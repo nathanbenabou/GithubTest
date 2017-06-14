@@ -1,0 +1,38 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-10-02T11:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Stoke City FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-10-02T13:15:00Z",
+            "homeTeamName": "Leicester City FC",
+            "awayTeamName": "Southampton FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-10-02T13:15:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Manchester City FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-10-02T15:30:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Arsenal FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2016-10-02",
+    "time_end": "2016-10-02"
+}

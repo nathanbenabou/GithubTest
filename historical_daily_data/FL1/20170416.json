@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-16T13:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Girondins de Bordeaux",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-16T15:00:00Z",
+            "homeTeamName": "SC Bastia",
+            "awayTeamName": "Olympique Lyonnais",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-16T19:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "AS Saint-Étienne",
+            "goalsHomeTeam": 4
+        }
+    ],
+    "time_start": "2017-04-16",
+    "time_end": "2017-04-16"
+}

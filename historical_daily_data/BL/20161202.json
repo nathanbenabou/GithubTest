@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 3,
+            "date": "2016-12-02T19:30:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "FC Bayern München",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-12-02",
+    "time_end": "2016-12-02"
+}

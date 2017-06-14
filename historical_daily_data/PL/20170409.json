@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2017-04-09T12:30:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Manchester United FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-09T15:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Leicester City FC",
+            "goalsHomeTeam": 4
+        }
+    ],
+    "time_start": "2017-04-09",
+    "time_end": "2017-04-09"
+}

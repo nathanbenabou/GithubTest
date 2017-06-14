@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-10-16T12:30:00Z",
+            "homeTeamName": "Middlesbrough FC",
+            "awayTeamName": "Watford FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-10-16T15:00:00Z",
+            "homeTeamName": "Southampton FC",
+            "awayTeamName": "Burnley FC",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2016-10-16",
+    "time_end": "2016-10-16"
+}

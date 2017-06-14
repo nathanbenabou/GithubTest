@@ -1,0 +1,70 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2016-09-10T11:30:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester City FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-10T14:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Hull City FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2016-09-10T14:00:00Z",
+            "homeTeamName": "Middlesbrough FC",
+            "awayTeamName": "Crystal Palace FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 4,
+            "date": "2016-09-10T14:00:00Z",
+            "homeTeamName": "Stoke City FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-09-10T14:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "West Bromwich Albion FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 4,
+            "date": "2016-09-10T14:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "Watford FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-10T14:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Southampton FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-10T16:30:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Leicester City FC",
+            "goalsHomeTeam": 4
+        }
+    ],
+    "time_start": "2016-09-10",
+    "time_end": "2016-09-10"
+}

@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 4,
+            "date": "2017-03-05T14:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "Olympique de Marseille",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-03-05T16:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "OSC Lille",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-03-05T21:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "FC Nantes",
+            "goalsHomeTeam": 4
+        }
+    ],
+    "time_start": "2017-03-05",
+    "time_end": "2017-03-05"
+}

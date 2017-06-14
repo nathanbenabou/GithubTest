@@ -1,0 +1,54 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2016-11-26T14:30:00Z",
+            "homeTeamName": "1. FC Köln",
+            "awayTeamName": "FC Augsburg",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-26T14:30:00Z",
+            "homeTeamName": "Bor. Mönchengladbach",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-26T14:30:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Borussia Dortmund",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2016-11-26T14:30:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Werder Bremen",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-26T14:30:00Z",
+            "homeTeamName": "FC Ingolstadt 04",
+            "awayTeamName": "VfL Wolfsburg",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-26T17:30:00Z",
+            "homeTeamName": "FC Bayern München",
+            "awayTeamName": "Bayer Leverkusen",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2016-11-26",
+    "time_end": "2016-11-26"
+}

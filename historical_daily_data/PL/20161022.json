@@ -1,0 +1,70 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-10-22T11:30:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-10-22T14:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Middlesbrough FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-10-22T14:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Everton FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2016-10-22T14:00:00Z",
+            "homeTeamName": "Hull City FC",
+            "awayTeamName": "Stoke City FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-10-22T14:00:00Z",
+            "homeTeamName": "Leicester City FC",
+            "awayTeamName": "Crystal Palace FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-10-22T14:00:00Z",
+            "homeTeamName": "Swansea City FC",
+            "awayTeamName": "Watford FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-10-22T14:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "Sunderland AFC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-10-22T16:30:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "West Bromwich Albion FC",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2016-10-22",
+    "time_end": "2016-10-22"
+}

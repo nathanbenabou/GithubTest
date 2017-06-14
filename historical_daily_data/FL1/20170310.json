@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2017-03-10T19:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "SM Caen",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-03-10T20:45:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Angers SCO",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2017-03-10",
+    "time_end": "2017-03-10"
+}

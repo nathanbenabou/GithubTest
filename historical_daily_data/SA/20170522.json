@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "SA",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-22T18:45:00Z",
+            "homeTeamName": "Pescara Calcio",
+            "awayTeamName": "US Cittá di Palermo",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-05-22",
+    "time_end": "2017-05-22"
+}

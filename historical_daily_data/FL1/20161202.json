@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 3,
+            "date": "2016-12-02T19:45:00Z",
+            "homeTeamName": "SM Caen",
+            "awayTeamName": "Dijon FCO",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2016-12-02",
+    "time_end": "2016-12-02"
+}

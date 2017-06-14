@@ -1,0 +1,38 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-20T18:00:00Z",
+            "homeTeamName": "SV Darmstadt 98",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2016-09-20T18:00:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "Hamburger SV",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2016-09-20T18:00:00Z",
+            "homeTeamName": "FC Ingolstadt 04",
+            "awayTeamName": "Eintracht Frankfurt",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 5,
+            "date": "2016-09-20T18:00:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "Borussia Dortmund",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-09-20",
+    "time_end": "2016-09-20"
+}

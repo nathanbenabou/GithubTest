@@ -1,0 +1,38 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-19T14:00:00Z",
+            "homeTeamName": "FC Girondins de Bordeaux",
+            "awayTeamName": "EA Guingamp",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-02-19T16:00:00Z",
+            "homeTeamName": "Montpellier Hérault SC",
+            "awayTeamName": "AS Saint-Étienne",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2017-02-19T16:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Dijon FCO",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-19T20:00:00Z",
+            "homeTeamName": "Paris Saint-Germain",
+            "awayTeamName": "Toulouse FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-02-19",
+    "time_end": "2017-02-19"
+}

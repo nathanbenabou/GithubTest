@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-06T14:30:00Z",
+            "homeTeamName": "Red Bull Leipzig",
+            "awayTeamName": "1. FSV Mainz 05",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-06T16:30:00Z",
+            "homeTeamName": "FC Schalke 04",
+            "awayTeamName": "Werder Bremen",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2016-11-06",
+    "time_end": "2016-11-06"
+}

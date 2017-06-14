@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2016-09-11T15:00:00Z",
+            "homeTeamName": "Swansea City FC",
+            "awayTeamName": "Chelsea FC",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2016-09-11",
+    "time_end": "2016-09-11"
+}

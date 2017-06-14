@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-09-23T18:45:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Paris Saint-Germain",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2016-09-23",
+    "time_end": "2016-09-23"
+}

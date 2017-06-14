@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-01-13T19:45:00Z",
+            "homeTeamName": "OSC Lille",
+            "awayTeamName": "AS Saint-Étienne",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-01-13",
+    "time_end": "2017-01-13"
+}

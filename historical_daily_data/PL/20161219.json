@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-19T20:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Liverpool FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2016-12-19",
+    "time_end": "2016-12-19"
+}

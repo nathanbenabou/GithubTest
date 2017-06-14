@@ -1,0 +1,54 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-06T15:00:00Z",
+            "homeTeamName": "Paris Saint-Germain",
+            "awayTeamName": "SC Bastia",
+            "goalsHomeTeam": 5
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-06T18:00:00Z",
+            "homeTeamName": "EA Guingamp",
+            "awayTeamName": "Dijon FCO",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-06T18:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "Angers SCO",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 3,
+            "date": "2017-05-06T18:00:00Z",
+            "homeTeamName": "AS Nancy",
+            "awayTeamName": "AS Monaco FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2017-05-06T18:00:00Z",
+            "homeTeamName": "OSC Lille",
+            "awayTeamName": "FC Metz",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-06T18:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "SM Caen",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-05-06",
+    "time_end": "2017-05-06"
+}

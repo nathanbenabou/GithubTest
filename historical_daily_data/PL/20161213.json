@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-13T19:45:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Arsenal FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-13T19:45:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "Leicester City FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-12-13",
+    "time_end": "2016-12-13"
+}

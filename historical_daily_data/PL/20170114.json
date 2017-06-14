@@ -1,0 +1,70 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-01-14T12:30:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "West Bromwich Albion FC",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-01-14T15:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Southampton FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-01-14T15:00:00Z",
+            "homeTeamName": "Hull City FC",
+            "awayTeamName": "AFC Bournemouth",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2017-01-14T15:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Stoke City FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 4,
+            "date": "2017-01-14T15:00:00Z",
+            "homeTeamName": "Swansea City FC",
+            "awayTeamName": "Arsenal FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-01-14T15:00:00Z",
+            "homeTeamName": "Watford FC",
+            "awayTeamName": "Middlesbrough FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-01-14T15:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "Crystal Palace FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2017-01-14T17:30:00Z",
+            "homeTeamName": "Leicester City FC",
+            "awayTeamName": "Chelsea FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-01-14",
+    "time_end": "2017-01-14"
+}

@@ -1,0 +1,70 @@
+{
+    "league_scores": [
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-07T10:30:00Z",
+            "homeTeamName": "Udinese Calcio",
+            "awayTeamName": "Atalanta BC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-07T13:00:00Z",
+            "homeTeamName": "Pescara Calcio",
+            "awayTeamName": "FC Crotone",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-07T13:00:00Z",
+            "homeTeamName": "Empoli FC",
+            "awayTeamName": "Bologna FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-07T13:00:00Z",
+            "homeTeamName": "Genoa CFC",
+            "awayTeamName": "FC Internazionale Milano",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 3,
+            "date": "2017-05-07T13:00:00Z",
+            "homeTeamName": "SS Lazio",
+            "awayTeamName": "UC Sampdoria",
+            "goalsHomeTeam": 7
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-07T13:00:00Z",
+            "homeTeamName": "AC Chievo Verona",
+            "awayTeamName": "US Cittá di Palermo",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 2,
+            "date": "2017-05-07T13:00:00Z",
+            "homeTeamName": "US Sassuolo Calcio",
+            "awayTeamName": "ACF Fiorentina",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 4,
+            "date": "2017-05-07T18:45:00Z",
+            "homeTeamName": "AC Milan",
+            "awayTeamName": "AS Roma",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-05-07",
+    "time_end": "2017-05-07"
+}

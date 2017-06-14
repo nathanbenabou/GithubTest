@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-14T11:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Hull City FC",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 4,
+            "date": "2017-05-14T13:15:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "Liverpool FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-14T15:30:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Manchester United FC",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-05-14",
+    "time_end": "2017-05-14"
+}

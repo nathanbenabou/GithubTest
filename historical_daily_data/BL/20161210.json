@@ -1,0 +1,54 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-10T14:30:00Z",
+            "homeTeamName": "FC Bayern München",
+            "awayTeamName": "VfL Wolfsburg",
+            "goalsHomeTeam": 5
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-10T14:30:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SV Darmstadt 98",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-10T14:30:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "FC Augsburg",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-10T14:30:00Z",
+            "homeTeamName": "FC Ingolstadt 04",
+            "awayTeamName": "Red Bull Leipzig",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-10T14:30:00Z",
+            "homeTeamName": "1. FC Köln",
+            "awayTeamName": "Borussia Dortmund",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-10T17:30:00Z",
+            "homeTeamName": "Hertha BSC",
+            "awayTeamName": "Werder Bremen",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2016-12-10",
+    "time_end": "2016-12-10"
+}

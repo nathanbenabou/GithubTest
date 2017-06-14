@@ -1,0 +1,54 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-22T13:30:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "FC Augsburg",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-22T13:30:00Z",
+            "homeTeamName": "FC Bayern München",
+            "awayTeamName": "1. FSV Mainz 05",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 4,
+            "date": "2017-04-22T13:30:00Z",
+            "homeTeamName": "FC Ingolstadt 04",
+            "awayTeamName": "Werder Bremen",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-22T13:30:00Z",
+            "homeTeamName": "Hertha BSC",
+            "awayTeamName": "VfL Wolfsburg",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-22T13:30:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "SV Darmstadt 98",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 3,
+            "date": "2017-04-22T16:30:00Z",
+            "homeTeamName": "Bor. Mönchengladbach",
+            "awayTeamName": "Borussia Dortmund",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-04-22",
+    "time_end": "2017-04-22"
+}

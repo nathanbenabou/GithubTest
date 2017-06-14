@@ -1,0 +1,38 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-30T11:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Swansea City FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2017-04-30T13:05:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Chelsea FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-30T13:05:00Z",
+            "homeTeamName": "Middlesbrough FC",
+            "awayTeamName": "Manchester City FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-30T15:30:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Arsenal FC",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-04-30",
+    "time_end": "2017-04-30"
+}

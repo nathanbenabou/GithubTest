@@ -1,0 +1,38 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-18T11:00:00Z",
+            "homeTeamName": "Watford FC",
+            "awayTeamName": "Manchester United FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-09-18T13:15:00Z",
+            "homeTeamName": "Southampton FC",
+            "awayTeamName": "Swansea City FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-18T13:15:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Stoke City FC",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-09-18T15:30:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Sunderland AFC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-09-18",
+    "time_end": "2016-09-18"
+}

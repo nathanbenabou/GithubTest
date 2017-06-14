@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "SA",
+            "goalsAwayTeam": 2,
+            "date": "2017-05-27T16:00:00Z",
+            "homeTeamName": "Bologna FC",
+            "awayTeamName": "Juventus Turin",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-27T16:00:00Z",
+            "homeTeamName": "Atalanta BC",
+            "awayTeamName": "AC Chievo Verona",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-05-27",
+    "time_end": "2017-05-27"
+}

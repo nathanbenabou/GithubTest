@@ -1,0 +1,86 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-21T19:50:00Z",
+            "homeTeamName": "FC Girondins de Bordeaux",
+            "awayTeamName": "OGC Nice",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-21T19:50:00Z",
+            "homeTeamName": "Dijon FCO",
+            "awayTeamName": "Toulouse FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-21T19:50:00Z",
+            "homeTeamName": "OSC Lille",
+            "awayTeamName": "Stade Rennais FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2016-12-21T19:50:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "EA Guingamp",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-21T19:50:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "SM Caen",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-21T19:50:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "Montpellier Hérault SC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-21T19:50:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Angers SCO",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-21T19:50:00Z",
+            "homeTeamName": "Paris Saint-Germain",
+            "awayTeamName": "FC Lorient",
+            "goalsHomeTeam": 5
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-21T19:50:00Z",
+            "homeTeamName": "AS Saint-Étienne",
+            "awayTeamName": "AS Nancy",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2016-12-21T19:50:00Z",
+            "homeTeamName": "SC Bastia",
+            "awayTeamName": "Olympique de Marseille",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-12-21",
+    "time_end": "2016-12-21"
+}

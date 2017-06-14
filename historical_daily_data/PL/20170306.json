@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-03-06T20:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "Chelsea FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-03-06",
+    "time_end": "2017-03-06"
+}

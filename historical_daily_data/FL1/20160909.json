@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-09T18:45:00Z",
+            "homeTeamName": "Paris Saint-Germain",
+            "awayTeamName": "AS Saint-Étienne",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-09-09",
+    "time_end": "2016-09-09"
+}

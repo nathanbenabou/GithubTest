@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-30T19:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Crystal Palace FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-09-30",
+    "time_end": "2016-09-30"
+}

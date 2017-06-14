@@ -1,0 +1,46 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 4,
+            "date": "2016-09-17T14:00:00Z",
+            "homeTeamName": "Hull City FC",
+            "awayTeamName": "Arsenal FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-09-17T14:00:00Z",
+            "homeTeamName": "Leicester City FC",
+            "awayTeamName": "Burnley FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-09-17T14:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "AFC Bournemouth",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2016-09-17T14:00:00Z",
+            "homeTeamName": "West Bromwich Albion FC",
+            "awayTeamName": "West Ham United FC",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-17T16:30:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Middlesbrough FC",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2016-09-17",
+    "time_end": "2016-09-17"
+}

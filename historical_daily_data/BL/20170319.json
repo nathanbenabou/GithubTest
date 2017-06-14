@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2017-03-19T15:30:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "FC Schalke 04",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2017-03-19T17:30:00Z",
+            "homeTeamName": "Bor. Mönchengladbach",
+            "awayTeamName": "FC Bayern München",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-03-19",
+    "time_end": "2017-03-19"
+}

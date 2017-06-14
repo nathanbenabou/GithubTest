@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2017-02-12T14:00:00Z",
+            "homeTeamName": "Stade Rennais FC",
+            "awayTeamName": "OGC Nice",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-12T16:00:00Z",
+            "homeTeamName": "AS Saint-Étienne",
+            "awayTeamName": "FC Lorient",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2017-02-12T20:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "Olympique de Marseille",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2017-02-12",
+    "time_end": "2017-02-12"
+}

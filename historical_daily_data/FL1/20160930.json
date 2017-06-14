@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-09-30T18:45:00Z",
+            "homeTeamName": "Stade Rennais FC",
+            "awayTeamName": "EA Guingamp",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-09-30",
+    "time_end": "2016-09-30"
+}

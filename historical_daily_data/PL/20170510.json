@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-05-10T18:45:00Z",
+            "homeTeamName": "Southampton FC",
+            "awayTeamName": "Arsenal FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-05-10",
+    "time_end": "2017-05-10"
+}

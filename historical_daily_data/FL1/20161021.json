@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2016-10-21T18:45:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "Montpellier Hérault SC",
+            "goalsHomeTeam": 6
+        }
+    ],
+    "time_start": "2016-10-21",
+    "time_end": "2016-10-21"
+}

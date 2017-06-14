@@ -1,0 +1,38 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-27T12:00:00Z",
+            "homeTeamName": "Watford FC",
+            "awayTeamName": "Stoke City FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-27T14:15:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "AFC Bournemouth",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-27T16:30:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "West Ham United FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-11-27T16:30:00Z",
+            "homeTeamName": "Southampton FC",
+            "awayTeamName": "Everton FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-11-27",
+    "time_end": "2016-11-27"
+}

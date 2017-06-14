@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2016-09-16T19:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Liverpool FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-09-16",
+    "time_end": "2016-09-16"
+}

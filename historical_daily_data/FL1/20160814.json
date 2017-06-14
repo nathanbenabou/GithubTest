@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 3,
+            "date": "2016-08-14T13:00:00Z",
+            "homeTeamName": "AS Nancy",
+            "awayTeamName": "Olympique Lyonnais",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-08-14T15:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "Stade Rennais FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-08-14T18:45:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Toulouse FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2016-08-14",
+    "time_end": "2016-08-14"
+}

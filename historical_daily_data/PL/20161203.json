@@ -1,0 +1,62 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2016-12-03T12:30:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Chelsea FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-03T15:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Southampton FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-03T15:00:00Z",
+            "homeTeamName": "Stoke City FC",
+            "awayTeamName": "Burnley FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-03T15:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Leicester City FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-03T15:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Swansea City FC",
+            "goalsHomeTeam": 5
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-03T15:00:00Z",
+            "homeTeamName": "West Bromwich Albion FC",
+            "awayTeamName": "Watford FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 5,
+            "date": "2016-12-03T17:30:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "Arsenal FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-12-03",
+    "time_end": "2016-12-03"
+}

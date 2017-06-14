@@ -1,0 +1,70 @@
+{
+    "league_scores": [
+        {
+            "league": "SA",
+            "goalsAwayTeam": 3,
+            "date": "2017-04-30T10:30:00Z",
+            "homeTeamName": "AS Roma",
+            "awayTeamName": "SS Lazio",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-30T13:00:00Z",
+            "homeTeamName": "US Cittá di Palermo",
+            "awayTeamName": "ACF Fiorentina",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-30T13:00:00Z",
+            "homeTeamName": "Genoa CFC",
+            "awayTeamName": "AC Chievo Verona",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 3,
+            "date": "2017-04-30T13:00:00Z",
+            "homeTeamName": "Empoli FC",
+            "awayTeamName": "US Sassuolo Calcio",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-30T13:00:00Z",
+            "homeTeamName": "FC Crotone",
+            "awayTeamName": "AC Milan",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-30T13:00:00Z",
+            "homeTeamName": "Cagliari Calcio",
+            "awayTeamName": "Pescara Calcio",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-30T13:00:00Z",
+            "homeTeamName": "Bologna FC",
+            "awayTeamName": "Udinese Calcio",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-30T18:45:00Z",
+            "homeTeamName": "FC Internazionale Milano",
+            "awayTeamName": "SSC Napoli",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-04-30",
+    "time_end": "2017-04-30"
+}

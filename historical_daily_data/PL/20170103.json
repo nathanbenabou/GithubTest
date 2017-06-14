@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2017-01-03T19:45:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "Arsenal FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-01-03T20:00:00Z",
+            "homeTeamName": "Stoke City FC",
+            "awayTeamName": "Watford FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-01-03T20:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Swansea City FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-01-03",
+    "time_end": "2017-01-03"
+}

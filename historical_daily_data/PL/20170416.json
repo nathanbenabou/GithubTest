@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-16T12:30:00Z",
+            "homeTeamName": "West Bromwich Albion FC",
+            "awayTeamName": "Liverpool FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-16T15:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Chelsea FC",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-04-16",
+    "time_end": "2017-04-16"
+}

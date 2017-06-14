@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-09T13:30:00Z",
+            "homeTeamName": "Hertha BSC",
+            "awayTeamName": "FC Augsburg",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-09T15:30:00Z",
+            "homeTeamName": "FC Ingolstadt 04",
+            "awayTeamName": "SV Darmstadt 98",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2017-04-09",
+    "time_end": "2017-04-09"
+}

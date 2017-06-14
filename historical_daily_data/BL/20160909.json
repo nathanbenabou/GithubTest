@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2016-09-09T18:30:00Z",
+            "homeTeamName": "FC Schalke 04",
+            "awayTeamName": "FC Bayern München",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2016-09-09",
+    "time_end": "2016-09-09"
+}

@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-08-28T12:30:00Z",
+            "homeTeamName": "West Bromwich Albion FC",
+            "awayTeamName": "Middlesbrough FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-08-28T15:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "West Ham United FC",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2016-08-28",
+    "time_end": "2016-08-28"
+}

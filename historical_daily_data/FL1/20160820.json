@@ -1,0 +1,54 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-08-20T15:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "AS Monaco FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-08-20T18:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "FC Girondins de Bordeaux",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-08-20T18:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "OGC Nice",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-08-20T18:00:00Z",
+            "homeTeamName": "OSC Lille",
+            "awayTeamName": "Dijon FCO",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 3,
+            "date": "2016-08-20T18:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "SC Bastia",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-08-20T18:00:00Z",
+            "homeTeamName": "Stade Rennais FC",
+            "awayTeamName": "AS Nancy",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2016-08-20",
+    "time_end": "2016-08-20"
+}

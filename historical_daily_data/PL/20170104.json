@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-01-04T20:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Chelsea FC",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-01-04",
+    "time_end": "2017-01-04"
+}

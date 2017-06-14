@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2016-09-12T19:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Everton FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2016-09-12",
+    "time_end": "2016-09-12"
+}

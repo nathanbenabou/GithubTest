@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-08-28T13:00:00Z",
+            "homeTeamName": "FC Girondins de Bordeaux",
+            "awayTeamName": "FC Nantes",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-08-28T15:00:00Z",
+            "homeTeamName": "AS Saint-Étienne",
+            "awayTeamName": "Toulouse FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-08-28T18:45:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "Paris Saint-Germain",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2016-08-28",
+    "time_end": "2016-08-28"
+}

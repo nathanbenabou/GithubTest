@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-07T13:00:00Z",
+            "homeTeamName": "Stade Rennais FC",
+            "awayTeamName": "Montpellier Hérault SC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2017-05-07T15:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "FC Nantes",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-07T19:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "OGC Nice",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-05-07",
+    "time_end": "2017-05-07"
+}

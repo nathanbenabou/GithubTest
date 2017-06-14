@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-23T18:30:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "SC Freiburg",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2016-09-23",
+    "time_end": "2016-09-23"
+}

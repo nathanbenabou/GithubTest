@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-01-29T14:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "EA Guingamp",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 3,
+            "date": "2017-01-29T16:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "AS Saint-Étienne",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-01-29T20:00:00Z",
+            "homeTeamName": "Paris Saint-Germain",
+            "awayTeamName": "AS Monaco FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-01-29",
+    "time_end": "2017-01-29"
+}

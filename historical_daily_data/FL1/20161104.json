@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-04T19:45:00Z",
+            "homeTeamName": "Montpellier Hérault SC",
+            "awayTeamName": "Olympique de Marseille",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2016-11-04",
+    "time_end": "2016-11-04"
+}

@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "SA",
+            "goalsAwayTeam": 5,
+            "date": "2017-05-20T16:00:00Z",
+            "homeTeamName": "AC Chievo Verona",
+            "awayTeamName": "AS Roma",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-20T18:45:00Z",
+            "homeTeamName": "SSC Napoli",
+            "awayTeamName": "ACF Fiorentina",
+            "goalsHomeTeam": 4
+        }
+    ],
+    "time_start": "2017-05-20",
+    "time_end": "2017-05-20"
+}

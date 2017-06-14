@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 3,
+            "date": "2017-02-10T19:45:00Z",
+            "homeTeamName": "FC Girondins de Bordeaux",
+            "awayTeamName": "Paris Saint-Germain",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-02-10",
+    "time_end": "2017-02-10"
+}

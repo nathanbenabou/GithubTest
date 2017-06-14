@@ -1,0 +1,54 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2016-12-10T12:30:00Z",
+            "homeTeamName": "Watford FC",
+            "awayTeamName": "Everton FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-10T15:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Stoke City FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2016-12-10T15:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "AFC Bournemouth",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2016-12-10T15:00:00Z",
+            "homeTeamName": "Hull City FC",
+            "awayTeamName": "Crystal Palace FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-10T15:00:00Z",
+            "homeTeamName": "Swansea City FC",
+            "awayTeamName": "Sunderland AFC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2016-12-10T17:30:00Z",
+            "homeTeamName": "Leicester City FC",
+            "awayTeamName": "Manchester City FC",
+            "goalsHomeTeam": 4
+        }
+    ],
+    "time_start": "2016-12-10",
+    "time_end": "2016-12-10"
+}

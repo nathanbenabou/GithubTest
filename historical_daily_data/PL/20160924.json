@@ -1,0 +1,70 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-24T11:30:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Leicester City FC",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-09-24T14:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "Everton FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-24T14:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Hull City FC",
+            "goalsHomeTeam": 5
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2016-09-24T14:00:00Z",
+            "homeTeamName": "Middlesbrough FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-09-24T14:00:00Z",
+            "homeTeamName": "Stoke City FC",
+            "awayTeamName": "West Bromwich Albion FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2016-09-24T14:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Crystal Palace FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2016-09-24T14:00:00Z",
+            "homeTeamName": "Swansea City FC",
+            "awayTeamName": "Manchester City FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-09-24T16:30:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Chelsea FC",
+            "goalsHomeTeam": 3
+        }
+    ],
+    "time_start": "2016-09-24",
+    "time_end": "2016-09-24"
+}

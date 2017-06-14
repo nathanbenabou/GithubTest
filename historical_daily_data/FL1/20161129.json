@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2016-11-29T18:00:00Z",
+            "homeTeamName": "OSC Lille",
+            "awayTeamName": "SM Caen",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-29T18:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "Stade Rennais FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-29T20:00:00Z",
+            "homeTeamName": "Dijon FCO",
+            "awayTeamName": "AS Monaco FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-11-29",
+    "time_end": "2016-11-29"
+}

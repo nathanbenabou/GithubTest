@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-26T13:30:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Stoke City FC",
+            "goalsHomeTeam": 4
+        }
+    ],
+    "time_start": "2017-02-26",
+    "time_end": "2017-02-26"
+}

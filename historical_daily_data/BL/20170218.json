@@ -1,0 +1,54 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2017-02-18T14:30:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "Werder Bremen",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-18T14:30:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "SV Darmstadt 98",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2017-02-18T14:30:00Z",
+            "homeTeamName": "Hertha BSC",
+            "awayTeamName": "FC Bayern München",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2017-02-18T14:30:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "FC Ingolstadt 04",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-18T14:30:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "VfL Wolfsburg",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2017-02-18T17:30:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "SC Freiburg",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-02-18",
+    "time_end": "2017-02-18"
+}

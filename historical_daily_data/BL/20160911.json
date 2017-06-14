@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2016-09-11T13:30:00Z",
+            "homeTeamName": "Werder Bremen",
+            "awayTeamName": "FC Augsburg",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 4,
+            "date": "2016-09-11T15:30:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "goalsHomeTeam": 4
+        }
+    ],
+    "time_start": "2016-09-11",
+    "time_end": "2016-09-11"
+}

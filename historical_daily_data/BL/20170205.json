@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2017-02-05T14:30:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "Werder Bremen",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-05T16:30:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "SV Darmstadt 98",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-02-05",
+    "time_end": "2017-02-05"
+}

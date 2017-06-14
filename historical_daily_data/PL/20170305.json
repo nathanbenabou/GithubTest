@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-03-05T13:30:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Everton FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-03-05T16:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Manchester City FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-03-05",
+    "time_end": "2017-03-05"
+}

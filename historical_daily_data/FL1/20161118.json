@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 3,
+            "date": "2016-11-18T18:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "AS Monaco FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2016-11-18T19:45:00Z",
+            "homeTeamName": "OSC Lille",
+            "awayTeamName": "Olympique Lyonnais",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2016-11-18",
+    "time_end": "2016-11-18"
+}

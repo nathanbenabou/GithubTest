@@ -1,0 +1,46 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-02T13:00:00Z",
+            "homeTeamName": "Stade Rennais FC",
+            "awayTeamName": "Olympique Lyonnais",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-02T15:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "SM Caen",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-02T15:00:00Z",
+            "homeTeamName": "Montpellier Hérault SC",
+            "awayTeamName": "Toulouse FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-02T15:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "Angers SCO",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-02T19:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "FC Girondins de Bordeaux",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-04-02",
+    "time_end": "2017-04-02"
+}

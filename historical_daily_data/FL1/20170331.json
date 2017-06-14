@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-03-31T17:00:00Z",
+            "homeTeamName": "EA Guingamp",
+            "awayTeamName": "AS Nancy",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-03-31",
+    "time_end": "2017-03-31"
+}

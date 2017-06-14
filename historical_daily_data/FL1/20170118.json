@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-01-18T19:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "SM Caen",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-01-18",
+    "time_end": "2017-01-18"
+}

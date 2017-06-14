@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-23T13:15:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Manchester United FC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-23T15:30:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Crystal Palace FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-04-23",
+    "time_end": "2017-04-23"
+}

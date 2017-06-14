@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 6,
+            "date": "2017-05-18T18:45:00Z",
+            "homeTeamName": "Leicester City FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-05-18",
+    "time_end": "2017-05-18"
+}

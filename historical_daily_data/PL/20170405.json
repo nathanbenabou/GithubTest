@@ -1,0 +1,54 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-05T18:45:00Z",
+            "homeTeamName": "Hull City FC",
+            "awayTeamName": "Middlesbrough FC",
+            "goalsHomeTeam": 4
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-04-05T18:45:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "West Ham United FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-05T18:45:00Z",
+            "homeTeamName": "Southampton FC",
+            "awayTeamName": "Crystal Palace FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2017-04-05T18:45:00Z",
+            "homeTeamName": "Swansea City FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-05T19:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Manchester City FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-05T19:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "AFC Bournemouth",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-04-05",
+    "time_end": "2017-04-05"
+}

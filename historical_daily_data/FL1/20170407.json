@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2017-04-07T18:45:00Z",
+            "homeTeamName": "OSC Lille",
+            "awayTeamName": "OGC Nice",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-04-07",
+    "time_end": "2017-04-07"
+}

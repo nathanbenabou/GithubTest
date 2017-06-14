@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-18T14:30:00Z",
+            "homeTeamName": "SV Darmstadt 98",
+            "awayTeamName": "FC Bayern München",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2016-12-18T16:30:00Z",
+            "homeTeamName": "Bayer Leverkusen",
+            "awayTeamName": "FC Ingolstadt 04",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-12-18",
+    "time_end": "2016-12-18"
+}

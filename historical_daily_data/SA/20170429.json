@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "SA",
+            "goalsAwayTeam": 1,
+            "date": "2017-04-29T18:45:00Z",
+            "homeTeamName": "Torino FC",
+            "awayTeamName": "UC Sampdoria",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-04-29",
+    "time_end": "2017-04-29"
+}

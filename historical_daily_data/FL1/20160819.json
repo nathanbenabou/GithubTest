@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-08-19T18:45:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "SM Caen",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2016-08-19",
+    "time_end": "2016-08-19"
+}

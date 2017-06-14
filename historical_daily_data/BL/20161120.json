@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2016-11-20T14:30:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "Hamburger SV",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2016-11-20T16:30:00Z",
+            "homeTeamName": "Werder Bremen",
+            "awayTeamName": "Eintracht Frankfurt",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2016-11-20",
+    "time_end": "2016-11-20"
+}

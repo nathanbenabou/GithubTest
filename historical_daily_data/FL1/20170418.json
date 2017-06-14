@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 3,
+            "date": "2017-04-18T16:30:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "Paris Saint-Germain",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2017-04-18",
+    "time_end": "2017-04-18"
+}

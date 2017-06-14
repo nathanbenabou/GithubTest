@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-27T17:15:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Stoke City FC",
+            "goalsHomeTeam": 4
+        }
+    ],
+    "time_start": "2016-12-27",
+    "time_end": "2016-12-27"
+}

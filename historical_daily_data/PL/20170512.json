@@ -1,0 +1,22 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-05-12T18:45:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Watford FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-05-12T19:00:00Z",
+            "homeTeamName": "West Bromwich Albion FC",
+            "awayTeamName": "Chelsea FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2017-05-12",
+    "time_end": "2017-05-12"
+}

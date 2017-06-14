@@ -1,0 +1,70 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-08-27T11:30:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Liverpool FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2016-08-27T14:00:00Z",
+            "homeTeamName": "Watford FC",
+            "awayTeamName": "Arsenal FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-08-27T14:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Burnley FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-08-27T14:00:00Z",
+            "homeTeamName": "Southampton FC",
+            "awayTeamName": "Sunderland AFC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-08-27T14:00:00Z",
+            "homeTeamName": "Leicester City FC",
+            "awayTeamName": "Swansea City FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2016-08-27T14:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Stoke City FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-08-27T14:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "AFC Bournemouth",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2016-08-27T16:30:00Z",
+            "homeTeamName": "Hull City FC",
+            "awayTeamName": "Manchester United FC",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2016-08-27",
+    "time_end": "2016-08-27"
+}

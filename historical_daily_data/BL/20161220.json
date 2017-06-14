@@ -1,0 +1,38 @@
+{
+    "league_scores": [
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-20T19:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "FC Augsburg",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 2,
+            "date": "2016-12-20T19:00:00Z",
+            "homeTeamName": "Bor. Mönchengladbach",
+            "awayTeamName": "VfL Wolfsburg",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 0,
+            "date": "2016-12-20T19:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "1. FSV Mainz 05",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "BL",
+            "goalsAwayTeam": 1,
+            "date": "2016-12-20T19:00:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "FC Schalke 04",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2016-12-20",
+    "time_end": "2016-12-20"
+}

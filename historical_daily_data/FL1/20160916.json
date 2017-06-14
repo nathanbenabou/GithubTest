@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 6,
+            "date": "2016-09-16T18:45:00Z",
+            "homeTeamName": "SM Caen",
+            "awayTeamName": "Paris Saint-Germain",
+            "goalsHomeTeam": 0
+        }
+    ],
+    "time_start": "2016-09-16",
+    "time_end": "2016-09-16"
+}

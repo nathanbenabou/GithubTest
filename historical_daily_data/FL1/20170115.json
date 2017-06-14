@@ -1,0 +1,30 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2017-01-15T14:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "FC Metz",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 2,
+            "date": "2017-01-15T16:00:00Z",
+            "homeTeamName": "SM Caen",
+            "awayTeamName": "Olympique Lyonnais",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 4,
+            "date": "2017-01-15T20:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "AS Monaco FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-01-15",
+    "time_end": "2017-01-15"
+}

@@ -1,0 +1,70 @@
+{
+    "league_scores": [
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-02-04T12:30:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Arsenal FC",
+            "goalsHomeTeam": 3
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 4,
+            "date": "2017-02-04T15:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Sunderland AFC",
+            "goalsHomeTeam": 0
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-04T15:00:00Z",
+            "homeTeamName": "Hull City FC",
+            "awayTeamName": "Liverpool FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2017-02-04T15:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "AFC Bournemouth",
+            "goalsHomeTeam": 6
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 3,
+            "date": "2017-02-04T15:00:00Z",
+            "homeTeamName": "Southampton FC",
+            "awayTeamName": "West Ham United FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 1,
+            "date": "2017-02-04T15:00:00Z",
+            "homeTeamName": "Watford FC",
+            "awayTeamName": "Burnley FC",
+            "goalsHomeTeam": 2
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-04T15:00:00Z",
+            "homeTeamName": "West Bromwich Albion FC",
+            "awayTeamName": "Stoke City FC",
+            "goalsHomeTeam": 1
+        },
+        {
+            "league": "PL",
+            "goalsAwayTeam": 0,
+            "date": "2017-02-04T17:30:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Middlesbrough FC",
+            "goalsHomeTeam": 1
+        }
+    ],
+    "time_start": "2017-02-04",
+    "time_end": "2017-02-04"
+}

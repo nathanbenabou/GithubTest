@@ -1,0 +1,14 @@
+{
+    "league_scores": [
+        {
+            "league": "FL1",
+            "goalsAwayTeam": 0,
+            "date": "2016-08-26T18:45:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "FC Lorient",
+            "goalsHomeTeam": 2
+        }
+    ],
+    "time_start": "2016-08-26",
+    "time_end": "2016-08-26"
+}
