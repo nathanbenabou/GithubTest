@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="481aa05a-3ac2-4105-aa79-54271392717c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/past_data_to_json.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/BL/1011.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/BL/1112.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/BL/1213.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/BL/1314.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/BL/1415.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/BL/1516.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/BL/1617.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/FL1/1011.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/FL1/1112.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/FL1/1213.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/FL1/1314.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/FL1/1415.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/FL1/1516.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/FL1/1617.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PD/1011.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PD/1112.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PD/1213.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PD/1314.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PD/1415.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PD/1516.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PD/1617.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PL/1011.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PL/1112.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PL/1213.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PL/1314.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PL/1415.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PL/1516.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PL/1617.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PPL/1011.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PPL/1112.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PPL/1213.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PPL/1314.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PPL/1415.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PPL/1516.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/PPL/1617.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/SA/1011.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/SA/1112.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/SA/1213.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/SA/1314.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/SA/1415.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/SA/1516.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/historical_past_data/SA/1617.csv" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/load_to_mongodb.sh" afterPath="$PROJECT_DIR$/scripts/load_to_mongodb.sh" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,7 +14,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="past_data_to_json.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="past_data_to_json.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/past_data_to_json.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="202">
@@ -69,8 +26,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20170507.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/historical_past_data/json/BL/20170507.json">
+      <file leaf-file-name="leagueproperties.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/leagueproperties.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -79,11 +36,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20170505.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/historical_past_data/json/BL/20170505.json">
+      <file leaf-file-name="download_past_data.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/download_past_data.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leagueids.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/leagueids.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="savedata.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/savedata.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2372">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_today.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/run_today.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requesthandler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/requesthandler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-137">
+              <caret line="99" column="113" lean-forward="false" selection-start-line="99" selection-start-column="113" selection-end-line="99" selection-end-column="113" />
               <folding />
             </state>
           </provider>
@@ -103,46 +102,6 @@
         <entry file="file://$PROJECT_DIR$/historical_past_data/json/BL/20161211.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20100821.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/historical_past_data/json/BL/20100821.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20170520.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/historical_past_data/json/BL/20170520.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1011.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/historical_past_data/csv/BL/1011.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4124">
-              <caret line="0" column="110" lean-forward="false" selection-start-line="0" selection-start-column="93" selection-end-line="0" selection-end-column="110" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1617.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/historical_past_data/csv/BL/1617.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4124">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -181,15 +140,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/data/writers.py" />
+        <option value="$PROJECT_DIR$/data/past_data_to_json.py" />
         <option value="$PROJECT_DIR$/data/requesthandler.py" />
         <option value="$PROJECT_DIR$/data/SaveData.py" />
-        <option value="$PROJECT_DIR$/data/past_data_to_json.py" />
+        <option value="$PROJECT_DIR$/data/savedata.py" />
+        <option value="$PROJECT_DIR$/data/run.py" />
+        <option value="$PROJECT_DIR$/data/run_today.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="29" />
-    <option name="y" value="342" />
+    <option name="x" value="250" />
+    <option name="y" value="31" />
     <option name="width" value="1260" />
     <option name="height" value="691" />
   </component>
@@ -217,118 +179,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="GithubTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GithubTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GithubTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historical_past_data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="json" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GithubTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GithubTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historical_past_data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="json" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GithubTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GithubTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historical_past_data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="csv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GithubTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GithubTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historical_past_data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="csv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GithubTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GithubTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historical_daily_data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GithubTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GithubTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historical_daily_data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -448,7 +298,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="342" width="1260" height="691" extended-state="0" />
+    <frame x="250" y="31" width="1260" height="691" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -514,17 +364,7 @@
         <state relative-caret-position="181">
           <caret line="160" column="16" lean-forward="false" selection-start-line="160" selection-start-column="11" selection-end-line="160" selection-end-column="16" />
           <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/requesthandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="103" column="78" lean-forward="false" selection-start-line="103" selection-start-column="78" selection-end-line="103" selection-end-column="78" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#12#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -558,16 +398,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/SaveData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="211" column="4" lean-forward="false" selection-start-line="211" selection-start-column="4" selection-end-line="211" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -643,12 +473,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/download_past_data.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/past_data_to_json.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/leagueproperties.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/requesthandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-137">
+          <caret line="99" column="113" lean-forward="false" selection-start-line="99" selection-start-column="113" selection-end-line="99" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/leagueids.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/savedata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2372">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/run_today.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
